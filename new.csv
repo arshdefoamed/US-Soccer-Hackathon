@@ -1,0 +1,1579 @@
+,assist,blockpass,blocks,clubName,cross,dribble,foulConceded,goal,pass,player,player_id,red_card,saves,shot,successfulPass,tackleSuccess,tackles,through_ball,ttime,yellow_card
+0,22,0,145,FC Dallas,4,35,173,17,7358,Matt Hedges,110592,0,0,105,6185,275,354,2,0,28
+1,3,0,0,Houston Dynamo,2,2,3,0,108,Chandler Hoffman,110593,0,0,6,96,4,5,0,0,1
+2,0,0,4,New York Red Bulls,0,4,8,2,190,Gideon Baah,160396,0,0,8,137,12,18,0,0,0
+3,23,0,0,Philadelphia Union,53,43,31,7,438,Antoine Hoppenot,110595,0,0,41,281,22,31,3,0,5
+4,6,0,38,Houston Dynamo,14,11,57,3,1901,Raul Rodriguez,90116,1,0,26,1475,65,89,1,0,10
+5,1,0,14,Orlando City SC,6,10,6,1,530,Amro Tarek Abdel-Aziz,212993,0,0,5,401,17,21,0,0,1
+6,1,0,0,Chicago Fire,4,4,8,1,96,Hunter Jumper,110601,0,0,2,63,8,9,0,0,1
+7,25,0,5,Atlanta United FC,51,10,33,1,1225,Chris McCann,20491,0,0,19,1002,26,36,1,0,4
+8,43,0,19,Los Angeles Football Club,42,31,56,2,2136,Calum Mallace,110606,1,0,51,1788,72,95,6,0,9
+9,55,0,5,Montreal Impact,55,27,48,22,989,Didier Drogba,12303,1,0,151,559,18,23,4,0,7
+10,70,0,5,D.C. United,43,111,107,33,1927,Darren Mattocks,110608,2,0,249,1377,66,83,11,0,14
+11,1,0,0,New York Red Bulls,0,0,0,0,648,Ryan Meara,110609,0,85,0,392,1,1,0,0,2
+12,5,0,18,LA Galaxy,6,3,27,0,1302,Tommy Meyer,110610,0,0,3,1012,31,39,0,0,0
+13,61,0,43,Vancouver Whitecaps FC,28,40,251,4,6163,Matías Laba,86035,5,0,52,5122,466,614,14,0,30
+14,17,0,0,Montreal Impact,40,27,14,1,597,Alejandro Silva,120760,0,0,19,446,27,40,4,0,2
+15,1,0,0,San Jose Earthquakes,0,0,0,0,10,Mawxell Griffin,106518,0,0,0,9,0,0,0,0,0
+16,0,0,0,New England Revolution,1,1,0,0,57,,110615,0,0,1,49,2,5,0,0,0
+17,3,0,19,Vancouver Whitecaps FC,4,3,23,1,863,Carlyle Mitchell,106520,0,0,11,697,27,35,0,0,5
+18,0,0,0,Philadelphia Union,0,0,1,0,1,Morgan Langley,106521,0,0,0,1,0,0,0,0,0
+19,9,0,5,Real Salt Lake,6,15,56,1,1445,Yordany Alvarez,106522,2,0,17,1222,61,77,2,0,10
+20,246,0,22,New England Revolution,529,175,208,29,6012,Kelyn Rowe,110619,0,0,360,4159,271,346,34,0,17
+21,2,0,0,Vancouver Whitecaps FC,0,3,1,0,2243,Brian Rowe,110620,0,220,0,1416,1,2,0,0,0
+22,1,0,0,San Jose Earthquakes,3,2,0,0,53,Billy Schuler,110622,0,0,4,45,0,0,0,0,0
+23,1,0,2,Chicago Fire,0,8,20,0,326,Mohammed Adams,200735,1,0,0,276,25,41,1,0,3
+24,159,0,3,Real Salt Lake,223,63,92,32,3434,Luis Silva,110624,0,0,231,2522,69,96,37,0,11
+25,12,0,0,FC Dallas,23,7,4,0,226,Rolando Escobar,53281,0,0,7,162,10,13,3,0,0
+26,10,0,0,D.C. United,7,0,17,1,339,Casey Townsend,110627,0,0,21,223,5,6,0,0,4
+27,70,0,15,Portland Timbers,419,86,107,5,4514,Jorge Villafaña,45092,1,0,78,3347,215,245,6,0,10
+28,11,0,2,Columbus Crew SC,31,0,7,0,256,,110629,0,0,5,189,7,8,0,0,1
+29,2,0,0,LA Galaxy,3,4,12,0,443,Kenney Walker,110630,0,0,3,386,22,26,4,0,1
+30,108,0,17,Houston Dynamo,226,98,117,22,3095,Andrew Wenger,110633,1,0,209,1971,150,195,11,0,7
+31,37,0,4,Chivas USA,99,6,16,1,1158,Edgar Mejía,43015,1,0,12,866,26,31,6,0,2
+32,2,0,23,Portland Timbers,0,5,41,4,1156,Larrys Mabiala,41004,1,0,24,960,28,40,0,0,6
+33,406,0,18,Los Angeles Football Club,635,210,291,38,11107,Benny Feilhaber,20525,3,0,357,8662,409,533,136,0,36
+34,3,0,0,New England Revolution,1,0,1,0,16,Brian Wright,180233,0,0,2,13,1,2,0,0,0
+35,30,0,11,Orlando City SC,23,19,105,2,3126,Oriol Rosell Argerich,102456,1,0,51,2680,111,147,11,0,15
+36,62,0,2,Real Salt Lake,63,77,29,9,1387,Jefferson Savarino,196666,0,0,101,1091,22,33,2,0,1
+37,46,0,5,Portland Timbers,106,69,91,7,1256,Dairon Asprilla,149675,1,0,106,891,70,91,1,0,5
+38,101,0,25,Columbus Crew SC,401,78,81,0,7657,Corey Ashe,41653,0,0,43,5968,192,247,17,0,15
+39,51,0,2,Philadelphia Union,44,130,59,12,1849,Ilson Pereira Dias Júnior,45120,1,0,87,1460,65,89,6,0,7
+40,100,0,22,Atlanta United FC,362,110,75,2,4564,Salvatore Zizzo,45122,1,0,112,3272,191,251,6,0,11
+41,1,0,3,Orlando City SC,24,0,13,0,301,Tyler Turner,180291,1,0,0,234,7,8,0,0,2
+42,2,0,13,Seattle Sounders FC,3,4,17,0,779,Tony Alfaro,221252,1,0,3,618,23,34,0,0,6
+43,3,0,0,Real Salt Lake,1,0,2,1,58,Emiliano Bonfigli,110663,0,0,5,43,0,3,0,0,0
+44,1,0,0,New England Revolution,0,1,0,0,21,Tyler Polak,110664,0,0,0,17,0,0,0,0,0
+45,9,0,30,Chivas USA,10,12,41,2,1373,Andrew Baptiste,110665,0,0,25,1030,61,72,1,0,6
+46,28,0,10,New York Red Bulls,30,27,61,2,2119,Tyler Adams,200785,0,0,23,1676,75,105,3,0,3
+47,8,0,2,Atlanta United FC,15,15,16,0,693,Franco Escobar,193891,0,0,5,588,23,31,0,0,4
+48,5,0,5,Real Salt Lake,26,5,17,1,981,Rich Balchan,94293,0,0,2,780,47,59,1,0,1
+49,59,0,11,Sporting Kansas City,140,57,98,12,2363,Bernardo Anor,94295,2,0,141,1831,87,103,18,0,17
+50,116,0,17,Orlando City SC,314,135,174,37,3876,Giles Barnes,20568,0,0,401,2878,94,111,16,0,12
+51,14,0,4,Colorado Rapids,13,17,24,0,474,Enzo Martinez,110607,0,0,16,350,29,44,2,0,3
+52,4,0,0,San Jose Earthquakes,6,0,6,0,112,Henok Goitom,17322,0,0,14,77,0,1,1,0,1
+53,0,0,0,D.C. United,0,0,0,0,52,Steve Cronin,41658,0,6,0,27,0,0,0,0,0
+54,17,0,1,Chivas USA,9,8,31,3,461,Érik Correa,114784,0,0,33,351,8,9,1,0,1
+55,1,0,0,Portland Timbers,0,0,0,0,1622,Jeff Attinella,94305,0,198,1,988,0,3,0,0,0
+56,0,0,1,Sporting Kansas City,3,0,4,1,133,Wan Kuzain bin Wan Kamal,249958,0,0,5,122,3,4,0,0,1
+57,1,0,0,Houston Dynamo,1,0,0,0,14,Mac Steeves,442472,0,0,2,8,0,0,0,0,0
+58,0,0,0,Houston Dynamo,1,2,0,0,31,Taylor Hunter,204905,0,0,0,19,3,3,0,0,0
+59,1,0,1,FC Dallas,3,1,7,0,260,Aarón Guillén,221292,0,0,2,202,8,8,0,0,2
+60,15,0,2,Seattle Sounders FC,9,1,29,0,344,Jonathan Jaqua,41661,0,0,16,218,8,10,1,0,2
+61,5,0,15,FC Dallas,11,5,22,1,897,Hernan Pertuz,110714,0,0,7,712,22,34,2,0,0
+62,3,0,0,Portland Timbers,4,1,0,0,89,Brent Richards,110715,0,0,5,54,2,2,0,0,0
+63,1,0,4,FC Dallas,3,1,5,0,173,Aubrey David,77948,0,0,0,141,10,14,0,0,1
+64,1,0,16,Vancouver Whitecaps FC,0,0,45,2,726,Martin Bonjour,110718,0,0,9,576,34,46,0,0,8
+65,98,0,3,Minnesota United FC,164,93,89,20,3229,Kevin Molino,77952,0,0,123,2490,91,130,22,0,9
+66,12,0,6,Atlanta United FC,54,7,12,0,827,Mikey Ambrose,135297,0,0,7,643,17,24,2,0,3
+67,0,0,0,Seattle Sounders FC,0,0,0,0,6,Philip Lund,61570,0,0,0,6,0,0,0,0,0
+68,25,0,1,Toronto FC,68,12,13,2,681,Tsubasa Endoh,135300,0,0,26,530,16,22,2,0,0
+69,11,0,0,Orlando City SC,17,19,2,1,260,Josué Colman,217788,0,0,17,212,5,6,1,0,0
+70,0,0,0,LA Galaxy,10,3,6,0,184,Oscar Sorto,148844,1,0,1,137,8,8,0,0,0
+71,0,0,5,Chicago Fire,7,1,9,0,320,Daneil Cyrus,77962,0,0,1,258,8,9,0,0,2
+72,60,0,15,Sporting Kansas City,15,44,42,3,3753,Ilie Sánchez,86155,0,0,46,3209,59,88,11,0,10
+73,2,0,1,San Jose Earthquakes,8,2,2,0,138,Andreas Görlitz,12428,0,0,0,100,3,3,0,0,1
+74,0,0,0,San Jose Earthquakes,0,0,0,0,4,Edmundo Zura,78530,0,0,1,2,0,0,0,0,0
+75,31,0,6,Chicago Fire,18,7,15,33,1032,Nemanja Nikolic,82064,0,0,150,772,11,19,6,0,2
+76,21,0,1,Los Angeles Football Club,27,25,9,6,527,Diego Rossi,223256,0,0,44,430,8,11,3,0,0
+77,0,0,0,Sporting Kansas City,0,0,2,0,79,James Musa,119491,0,0,1,68,0,1,0,0,1
+78,4,0,20,Chivas USA,3,2,29,2,947,Mario de Luna,45204,0,0,8,718,66,74,0,0,6
+79,17,0,3,Montreal Impact,56,19,48,1,1110,Amadou Dia,204950,0,0,7,787,54,63,2,0,4
+80,26,0,2,Houston Dynamo,80,17,17,3,888,Leonel Miranda,151704,0,0,22,672,34,43,3,0,3
+81,0,0,0,Philadelphia Union,0,0,0,0,6,Jimmy McLaughlin,102553,0,0,0,4,0,0,0,0,0
+82,3,0,0,Seattle Sounders FC,22,5,8,1,224,,102554,0,0,9,171,9,10,1,0,1
+83,3,0,8,Toronto FC,6,3,9,1,473,,12443,0,0,3,318,4,9,0,0,1
+84,37,0,15,Seattle Sounders FC,63,5,56,6,2390,Andy Rose,110618,0,0,56,1773,69,88,3,0,10
+85,5,0,1,Colorado Rapids,6,1,3,0,114,,4254,0,0,7,83,1,1,1,0,0
+86,224,0,19,Orlando City SC,346,326,172,41,5597,Justin Meram,94368,1,0,386,4048,218,280,72,0,21
+87,20,0,101,Colorado Rapids,6,5,155,4,3465,Bobby Burling,41670,4,0,53,2507,147,192,1,0,34
+88,29,0,61,Chicago Fire,82,6,56,2,2834,Eric Gehrig,94375,0,0,38,2156,92,114,3,0,10
+89,195,0,3,Seattle Sounders FC,475,72,68,17,4854,Nicolás Lodeiro,77992,1,0,139,3656,64,106,33,0,12
+90,0,0,14,Real Salt Lake,0,3,25,1,820,Marcelo Silva,77994,1,0,8,703,13,20,0,0,4
+91,10,0,5,Real Salt Lake,12,2,17,2,628,Cole Grossman,94381,1,0,7,473,25,39,1,0,2
+92,59,0,22,Columbus Crew SC,198,17,36,1,3595,Sebastián Miranda,94382,0,0,14,2635,133,161,0,0,9
+93,9,0,2,Columbus Crew SC,2,1,35,0,479,Dejan Rusmir,94383,0,0,14,383,31,37,6,0,4
+94,44,0,10,Sporting Kansas City,176,3,30,3,1704,Josh Gardner,94387,0,0,35,1187,74,92,3,0,1
+95,14,0,0,Seattle Sounders FC,35,9,10,1,333,Magnus Wolff Eikrem,78008,0,0,15,222,7,11,0,0,2
+96,17,0,8,Vancouver Whitecaps FC,13,3,37,4,393,Tommy Heinemann,94396,0,0,52,253,14,16,1,0,4
+97,8,0,0,New York City FC,0,0,4,0,7034,Sean Johnson,78013,0,676,0,4243,1,1,0,0,9
+98,3,0,9,Toronto FC,1,3,21,0,337,Gale Agbossoumonde,78014,0,0,2,247,19,21,0,0,4
+99,214,0,11,Orlando City SC,387,60,142,14,5639,Dillon Powers,78015,0,0,148,4371,145,192,34,0,16
+100,137,0,58,LA Galaxy,521,73,192,8,8826,Sheanon Williams,78016,3,0,85,6227,295,376,11,0,29
+101,8,0,0,New York City FC,18,13,17,2,246,Alejandro Antonio Taylor Jr,78017,0,0,14,184,4,4,0,0,2
+102,131,0,9,New York Red Bulls,241,141,142,13,3044,Dilly Duka,78018,0,0,206,2238,157,203,33,0,12
+103,7,0,52,Vancouver Whitecaps FC,3,3,89,3,2336,Aaron Maund,78019,1,0,32,1773,92,126,3,0,12
+104,0,0,0,LA Galaxy,0,0,0,0,221,Brian Perk,78021,0,11,0,133,0,0,0,0,0
+105,5,0,0,Houston Dynamo,27,14,12,0,247,Brian Ownby,78022,1,0,9,178,11,13,4,0,1
+106,33,0,54,Sporting Kansas City,6,50,122,10,5046,Ike Opara,78023,1,0,84,4186,151,209,2,0,14
+107,65,0,14,Chicago Fire,87,14,43,1,2971,Michael Stephens,78027,0,0,20,2364,73,93,7,0,7
+108,10,0,0,Chicago Fire,2,5,4,0,216,,110798,0,0,5,187,10,13,2,0,1
+109,6,0,4,New England Revolution,30,11,38,0,1082,Claude Dielna,45269,1,0,24,815,36,48,1,0,9
+110,77,0,6,New York City FC,156,100,45,14,1661,Jack Harrison,221399,1,0,93,1163,43,63,8,0,4
+111,1,0,0,San Jose Earthquakes,0,0,1,0,969,Andrew Tarbell,221400,0,104,1,537,1,1,0,0,1
+112,0,0,0,Houston Dynamo,0,0,1,0,2178,Chris Seitz,41679,0,200,0,1434,3,3,0,0,3
+113,12,0,40,LA Galaxy,40,8,19,2,2056,Dave Romney,213213,0,0,25,1623,51,78,0,0,1
+114,7,0,12,Montreal Impact,3,2,15,0,1470,Alessandro Nesta,4133,1,0,2,1285,40,51,2,0,0
+115,31,0,1,Seattle Sounders FC,106,3,24,0,769,Christian Tiffert,8416,0,0,10,566,25,28,5,0,4
+116,0,0,0,LA Galaxy,0,0,1,0,595,Clément Diop,102626,1,65,0,341,1,1,0,0,1
+117,23,0,0,Colorado Rapids,32,41,14,2,718,Édgar Castillo,53477,0,0,18,512,23,37,0,0,5
+118,10,0,1,San Jose Earthquakes,39,1,7,0,253,Anthony Ampaipitakwong,94930,0,0,4,181,8,11,1,0,0
+119,2,0,10,Minnesota United FC,4,5,3,0,208,Carter Manley,442461,0,0,0,143,10,12,0,0,0
+120,7,0,2,Chivas USA,28,6,37,0,834,Tony Lochhead,33015,0,0,1,619,29,34,1,0,6
+121,6,0,0,LA Galaxy,0,8,4,1,3882,David Bingham,94932,0,367,1,2191,3,4,0,0,9
+122,2,0,0,New York Red Bulls,0,0,3,0,5598,Luis Robles,41210,0,621,0,3544,6,7,0,0,15
+123,0,0,1,New York City FC,0,0,1,0,11,James Sands,215471,0,0,0,10,0,0,0,0,0
+124,0,0,2,LA Galaxy,1,0,4,0,101,Dan Keat,94933,0,0,3,70,5,6,1,0,1
+125,1,0,4,Montreal Impact,2,0,8,1,278,Deian Boldor,155907,1,0,4,229,7,9,0,0,0
+126,140,0,24,Columbus Crew SC,405,24,74,5,4764,Héctor Jiménez,94934,1,0,78,3531,133,159,11,0,7
+127,7,0,0,New England Revolution,7,5,22,3,261,Milton Caraglio,57608,0,0,46,173,1,2,3,0,5
+128,0,0,0,LA Galaxy,0,0,1,0,5,Ryan Thomas,94937,0,0,0,5,1,1,0,0,0
+129,0,0,0,Portland Timbers,0,0,0,0,15,Gbenga Arokoyo,113367,0,0,0,11,1,1,0,0,0
+130,56,0,54,Columbus Crew SC,96,44,106,7,6059,Josh Williams,94479,2,0,74,4960,137,189,5,0,12
+131,0,0,0,Orlando City SC,0,0,0,0,1,Pierre Da Silva,176403,0,0,0,1,0,0,0,0,0
+132,8,0,2,Vancouver Whitecaps FC,7,6,18,0,439,Efraín Juárez,53526,1,0,4,374,12,18,2,0,2
+133,0,0,0,Minnesota United FC,0,0,0,0,59,John Alvbage,37143,0,5,0,36,0,0,0,0,0
+134,3,0,2,FC Dallas,3,3,1,0,79,Alejandro Zendejas,176409,0,0,0,61,5,5,0,0,0
+135,0,0,0,Real Salt Lake,0,0,1,0,5,Ricky Lopez-Espin,442456,0,0,1,5,0,0,0,0,0
+136,103,0,0,LA Galaxy,350,32,40,6,2140,Stefan Ishizaki,37148,0,0,66,1481,62,74,19,0,6
+137,2,0,0,Vancouver Whitecaps FC,5,2,2,1,149,Corey Hertzog,94938,0,0,9,105,6,7,1,0,0
+138,3,0,0,Vancouver Whitecaps FC,4,4,6,1,217,Jordon Mutch,49438,0,0,8,169,6,7,2,0,0
+139,40,0,12,FC Dallas,19,36,150,1,3321,Carlos Gruezo,147744,1,0,63,2776,133,197,3,0,18
+140,7,0,2,Chivas USA,3,5,14,3,184,Félix Borja,33057,0,0,24,143,5,5,0,0,0
+141,17,0,2,Montreal Impact,6,11,26,12,466,Anthony Jackson-Hamel,184610,0,0,60,314,10,13,1,0,0
+142,26,0,0,Philadelphia Union,44,16,26,4,709,Fabian Herbers,221475,0,0,44,521,29,45,1,0,4
+143,1,0,14,Chivas USA,1,1,14,1,343,Joaquin Oscar Velázquez,53545,1,0,5,215,17,20,0,0,3
+144,1,0,5,LA Galaxy,2,0,13,2,499,Andrew Boyens,33067,1,0,8,402,11,12,0,0,1
+145,80,0,14,New York Red Bulls,127,24,68,4,2823,Sean Davis,131372,0,0,51,2274,87,129,2,0,5
+146,10,0,1,New York City FC,11,11,12,3,134,Jonathan Lewis,213295,0,0,15,93,5,9,0,0,0
+147,5,0,6,Chivas USA,4,4,13,0,397,Walter Vílchez,33076,0,0,2,309,22,28,0,0,3
+148,2,0,0,Colorado Rapids,10,2,5,1,130,John Neeskens,184647,0,0,5,91,4,6,1,0,0
+149,9,0,0,Columbus Crew SC,2,0,13,2,194,Adam Bedell,180552,0,0,15,136,2,3,1,0,0
+150,82,0,8,Houston Dynamo,37,27,131,35,1935,Erick Torres,101772,1,0,242,1417,18,27,5,0,16
+151,52,0,17,Philadelphia Union,41,29,120,5,2802,Alejandro Bedoya,61770,1,0,72,2406,97,139,5,0,12
+152,93,0,5,Columbus Crew SC,363,75,69,5,5576,Harrison Afful,49483,2,0,106,4348,92,125,5,0,7
+153,7,0,29,New York Red Bulls,16,13,67,3,3054,Markus Holgersson,61774,0,0,21,2560,118,149,3,0,5
+154,21,0,2,Vancouver Whitecaps FC,86,14,33,3,885,Barry Robson,16721,0,0,35,659,19,21,8,0,2
+155,64,0,22,Montreal Impact,326,114,83,3,4180,Ambroise Oyongo Bitolo,180562,3,0,52,2934,138,181,4,0,8
+156,30,0,1,New York Red Bulls,85,51,39,11,684,Gonzalo Verón,131415,1,0,64,470,43,49,2,0,4
+157,85,0,20,LA Galaxy,141,17,101,9,3843,Baggio Husidic,60132,0,0,98,3096,173,218,16,0,15
+158,94,0,8,Vancouver Whitecaps FC,308,88,139,39,2096,Camilo Sanvezzo,78172,0,0,270,1308,75,89,37,0,14
+159,10,0,1,Montreal Impact,16,3,9,4,223,Jeisson Vargas,201053,0,0,21,168,4,13,3,0,1
+160,12,0,2,Chicago Fire,9,8,33,4,358,Juan Anangono,131422,0,0,52,245,6,7,1,0,1
+161,2,0,0,Chicago Fire,3,0,4,0,51,Federico Puppo,110943,0,0,3,37,2,2,2,0,1
+162,35,0,3,Chivas USA,95,25,47,3,981,Miller Bolaños,110945,0,0,78,796,31,41,14,0,5
+163,106,0,60,Columbus Crew SC,82,64,165,2,10113,Wil Trapp,148995,2,0,52,8811,289,383,22,0,19
+164,9,0,3,Philadelphia Union,13,0,26,3,672,Veljko Paunovic,8548,0,0,35,476,14,21,9,0,1
+165,1,0,1,New England Revolution,0,0,1,0,34,Zachary Herivaux,209256,0,0,0,27,2,4,0,0,0
+166,10,0,8,Orlando City SC,34,58,25,0,817,Mohamed El-Munir Abdussalam,110954,1,0,12,629,49,68,0,0,5
+167,0,0,16,Sporting Kansas City,0,6,11,1,612,Erik Palmer-Brown,168301,1,0,3,510,17,25,1,0,4
+168,38,0,4,Chivas USA,17,5,45,15,1122,Juan Pablo Ángel,8560,0,0,129,840,20,22,17,0,3
+169,27,0,7,New York City FC,147,42,41,3,2342,Ronald Matarrita,180593,0,0,39,1768,104,140,3,0,9
+170,0,0,0,San Jose Earthquakes,0,2,3,0,73,Matheus Martins Silva,213363,0,0,1,58,1,3,0,0,1
+171,0,0,1,Toronto FC,2,0,6,0,147,Michael Thomas,82293,0,0,6,115,9,11,0,0,1
+172,1,0,0,Chicago Fire,3,0,1,0,20,Yazid Atouba,151927,0,0,1,14,1,1,0,0,0
+173,45,0,5,Colorado Rapids,78,31,52,2,1515,Carlos Alvarez,151928,0,0,66,1141,64,86,9,0,9
+174,34,0,1,D.C. United,74,59,63,22,1121,Deshorn Brown,151929,0,0,242,776,47,59,3,0,4
+175,6,0,2,D.C. United,12,5,9,1,136,José Guillermo Ortiz,180602,0,0,21,90,3,4,0,0,1
+176,4,0,2,Chivas USA,7,4,7,2,212,Ryan Finley,151931,0,0,31,154,0,2,2,0,0
+177,11,0,49,Los Angeles Football Club,3,5,90,9,3732,Walker Zimmerman,151933,0,0,66,2969,99,135,2,0,8
+178,1,0,0,LA Galaxy,0,0,3,1,43,Charlie Rugg,151934,0,0,2,30,1,1,0,0,0
+179,11,0,48,D.C. United,1,2,62,4,1938,Kofi Opare,151935,2,0,51,1576,77,96,1,0,8
+180,18,0,12,Chicago Fire,90,10,8,0,1087,Greg Cochrane,151936,0,0,9,759,31,39,1,0,2
+181,10,0,1,Montreal Impact,19,6,2,2,174,Blake Smith,151937,0,0,8,130,7,7,4,0,1
+182,0,0,0,Columbus Crew SC,0,0,1,0,81,Brad Stuver,151939,0,8,0,60,0,0,0,0,0
+183,95,0,87,New England Revolution,178,178,86,2,8540,Andrew Farrell,151940,3,0,34,6327,315,420,6,0,16
+184,189,0,0,Houston Dynamo,576,52,21,6,4022,Cristián Maidana,49541,2,0,95,2907,37,48,21,0,2
+185,2,0,0,Philadelphia Union,5,0,0,0,10,Don Anding,151943,0,0,1,7,0,0,0,0,0
+186,32,0,6,Real Salt Lake,11,7,62,8,1004,Devon Sandoval,151946,0,0,63,741,23,25,3,0,3
+187,84,0,4,Portland Timbers,297,40,106,20,2511,Ryan Johnson,37259,0,0,160,1568,48,65,19,0,11
+188,26,0,5,Columbus Crew SC,32,1,27,4,1211,Milovan Mirosevic,33164,0,0,46,936,42,54,13,0,2
+189,12,0,48,Toronto FC,11,13,75,2,3562,Eriq Zavaleta,151949,0,0,23,2823,135,182,1,0,10
+190,27,0,14,Houston Dynamo,100,18,37,2,2448,Dylan Remick,151950,0,0,11,1870,69,94,0,0,3
+191,0,0,0,Toronto FC,0,0,0,0,3,Emery Welshman,151951,0,0,0,3,1,1,0,0,0
+192,103,0,1,Columbus Crew SC,219,173,48,26,2676,Kekuta Manneh,151952,0,0,255,1864,114,140,13,0,7
+193,69,0,2,Vancouver Whitecaps FC,55,67,93,12,1195,Erik Hurtado,151953,0,0,122,890,27,35,1,0,3
+194,58,0,2,Colorado Rapids,146,22,39,8,1416,Dillon Serna,151954,0,0,92,947,56,65,6,0,7
+195,107,0,38,New England Revolution,46,29,206,4,6845,Scott Caldwell,151955,0,0,52,5796,279,369,15,0,23
+196,0,0,1,Vancouver Whitecaps FC,6,1,6,0,128,Ethen Sampson,180631,0,0,1,86,15,18,0,0,1
+197,164,0,4,Orlando City SC,339,91,62,4,2672,Matías Pérez García,49904,2,0,82,1905,126,148,17,0,8
+198,55,0,4,Orlando City SC,98,23,52,5,979,Jose Villarreal,112264,0,0,64,672,26,33,4,0,3
+199,67,0,4,LA Galaxy,163,89,41,9,1598,Emmanuel Boateng,168365,0,0,60,1156,64,82,4,0,2
+200,2,0,15,New York Red Bulls,3,0,16,0,627,Armando Lozano Sánchez,49582,0,0,3,506,22,24,0,0,6
+201,9,0,3,New York Red Bulls,25,4,12,0,419,David Carney,16815,0,0,7,280,15,19,1,0,3
+202,62,0,1,San Jose Earthquakes,125,32,8,4,988,Jahmir Hyka,41393,0,0,48,785,17,27,3,0,0
+203,0,0,0,Los Angeles Football Club,1,0,0,0,12,Rodrigo Pacheco,250290,0,0,0,11,0,0,0,0,0
+204,10,0,7,San Jose Earthquakes,6,4,30,0,848,J.J. Koval,172473,1,0,20,649,25,33,0,0,2
+205,48,0,28,Chicago Fire,193,29,94,4,3427,Brandon Vincent,172474,0,0,35,2435,63,85,2,0,7
+206,98,0,27,FC Dallas,423,20,78,14,3371,Michel Garbini Pereira,53692,1,0,79,2330,128,155,11,0,12
+207,14,0,1,Los Angeles Football Club,75,20,22,1,661,Aaron Kovar,172482,0,0,38,465,23,35,0,0,1
+208,57,0,2,Seattle Sounders FC,29,39,47,17,1494,Jordan Morris,172483,0,0,114,1137,22,30,3,0,0
+209,88,0,7,New England Revolution,94,53,57,4,2863,Daigo Kobayashi,61894,0,0,68,2359,81,98,19,0,5
+210,40,0,7,New York City FC,43,25,39,4,1490,Mikkel Diskerud,61898,0,0,52,1177,65,80,7,0,4
+211,5,0,0,New England Revolution,31,2,4,0,328,,12748,0,0,5,195,8,14,0,0,0
+212,1,0,0,Real Salt Lake,0,2,0,0,65,Shawn Barry,97016,0,0,0,51,5,5,0,0,0
+213,3,0,2,Portland Timbers,10,5,11,0,376,Marco Farfan,242130,0,0,0,286,25,35,0,0,0
+214,0,0,0,Columbus Crew SC,0,0,0,0,10,Kinsley Mensah Baiden,172499,0,0,0,8,0,0,0,0,0
+215,3,0,6,Houston Dynamo,2,0,10,4,410,Philippe Senderos,16854,0,0,11,340,9,15,0,0,3
+216,1,0,0,San Jose Earthquakes,2,1,2,0,24,Sercan Güvenisik,25048,0,0,3,15,2,2,1,0,0
+217,1,0,1,Real Salt Lake,0,1,2,0,82,Phanuel Kavita,131819,0,0,1,59,4,8,0,0,1
+218,32,0,3,New York City FC,13,49,22,5,658,Kwadwo Poku,33242,0,0,21,527,20,23,8,0,4
+219,6,0,5,Minnesota United FC,26,7,8,0,357,Ismaila Jome,172510,0,0,1,284,18,21,0,0,3
+220,36,0,3,D.C. United,105,10,9,4,734,Zoltan Stieber,20962,0,0,33,540,9,14,2,0,1
+221,1,0,5,D.C. United,13,3,7,0,285,Joseph Mora,205285,1,0,3,192,12,20,0,0,2
+222,0,0,0,Montreal Impact,0,0,4,0,15,Nicholas DePuy,172518,0,0,1,12,4,4,0,0,0
+223,81,0,31,Minnesota United FC,351,28,96,3,5814,Tyrone Mears,12780,0,0,18,4475,127,169,3,0,11
+224,17,0,1,New York City FC,11,8,21,4,274,Jo Inge Berget,61934,0,0,27,179,8,12,1,0,1
+225,1,0,0,Real Salt Lake,3,1,5,0,38,Artur Aghasyan,98800,0,0,3,30,3,3,0,0,0
+226,47,0,6,New York Red Bulls,193,21,39,3,2678,Jan Gunnar Solli,16882,2,0,32,2099,84,97,18,0,4
+227,0,0,1,Minnesota United FC,0,0,1,0,99,Wyatt Omsberg,442451,0,0,0,71,1,3,0,0,0
+228,180,0,26,Toronto FC,299,98,124,9,9621,Michael Bradley,37368,0,0,148,8054,228,320,37,0,28
+229,4,0,61,Montreal Impact,2,20,78,2,1830,Bakary Soumaré,41466,2,0,13,1405,110,126,1,0,13
+230,1,0,0,Toronto FC,4,1,2,0,107,Øyvind Alseth,143867,0,0,1,79,2,3,0,0,1
+231,33,0,3,Houston Dynamo,82,28,44,7,927,Calen Carr,41469,0,0,55,684,31,38,7,0,8
+232,39,0,33,Chicago Fire,24,3,48,2,3047,Logan Pause,41470,0,0,15,2571,82,105,7,0,5
+233,70,0,6,Real Salt Lake,98,25,61,24,2033,Chad Barrett,41471,0,0,146,1390,50,56,14,0,7
+234,48,0,30,Montreal Impact,231,50,91,2,4579,Chris Duvall,131840,2,0,33,3449,182,238,3,0,16
+235,3,0,0,Colorado Rapids,0,0,2,0,2013,Matt Pickens,41474,0,200,0,1243,1,3,0,0,3
+236,70,0,29,Chicago Fire,198,20,148,4,5135,Gonzalo Segares,41476,2,0,48,3843,311,404,5,0,26
+237,0,0,0,Vancouver Whitecaps FC,2,0,1,0,3,,41478,0,0,0,1,0,0,0,0,0
+238,0,0,1,LA Galaxy,0,0,4,1,98,Dasan Robinson,41479,0,0,4,76,8,11,0,0,1
+239,9,0,4,Vancouver Whitecaps FC,28,18,10,1,280,Bernie Ibini-Isei,102921,0,0,21,213,7,9,0,0,0
+240,17,0,0,Seattle Sounders FC,58,12,4,1,454,Mario Roberto Martínez,61962,0,0,20,329,12,16,3,0,1
+241,14,0,32,D.C. United,47,7,48,4,3306,Daniel Woolard,41484,0,0,20,2615,83,106,3,0,3
+242,4,0,0,Columbus Crew SC,0,0,1,0,1066,William Hesmer,41486,0,100,0,590,0,0,0,0,2
+243,110,0,54,Seattle Sounders FC,228,55,130,20,7046,Brad Evans,41487,3,0,150,5483,196,258,33,0,17
+244,10,0,20,Portland Timbers,11,8,98,0,2090,Danny O'Rourke,41488,0,0,7,1725,103,135,2,0,14
+245,1,0,0,Houston Dynamo,0,0,4,0,46,Jason Garey,41489,0,0,4,33,0,0,0,0,0
+246,3,0,0,D.C. United,6,2,20,0,223,Joseph Ngwenya,41490,0,0,11,181,15,16,1,0,1
+247,168,0,17,Portland Timbers,109,67,147,10,6138,Ned Grabavoy,41491,1,0,114,5266,253,301,39,0,15
+248,121,0,35,Minnesota United FC,461,28,115,2,6884,Marc Burch,41492,0,0,42,5056,176,225,5,0,27
+249,210,0,27,Vancouver Whitecaps FC,344,172,260,86,5404,Kei Kamara,41493,0,0,677,3569,135,191,27,0,24
+250,5,0,0,New England Revolution,6,0,4,1,137,,37398,0,0,10,92,3,3,1,0,1
+251,0,0,0,New York Red Bulls,0,0,1,0,429,Bill Gaudette,41495,0,41,0,303,0,0,0,0,2
+252,1,0,1,San Jose Earthquakes,8,0,0,0,127,Tim Ward,41496,0,0,1,87,2,2,0,0,0
+253,5,0,0,New York Red Bulls,1,5,10,0,80,Fredrik Gulbrandsen,61977,0,0,13,47,2,4,0,0,2
+254,3,0,1,San Jose Earthquakes,17,1,9,0,258,Jed Zayner,41499,0,0,0,174,15,19,2,0,0
+255,32,0,79,Portland Timbers,23,28,143,7,4631,Amobi Okugo,82460,2,0,91,3837,184,231,7,0,21
+256,40,0,0,Philadelphia Union,67,14,24,3,813,Róger Torres,82462,0,0,27,559,18,26,21,0,3
+257,0,0,0,D.C. United,0,0,1,0,473,Travis Worra,205343,0,46,0,220,1,2,0,0,0
+258,83,0,12,LA Galaxy,79,31,128,40,2381,Jack McInerney,82464,2,0,287,1735,67,78,28,0,19
+259,43,0,3,Orlando City SC,48,25,56,8,949,Danny Mwanga,82465,0,0,74,703,12,14,14,0,4
+260,0,0,0,Colorado Rapids,13,0,0,0,168,Danny Earls,82467,0,0,1,123,4,5,0,0,0
+261,5,0,0,Colorado Rapids,7,2,11,0,152,Ross LaBauex,82468,0,0,3,119,8,9,2,0,3
+262,8,0,3,Philadelphia Union,8,7,31,1,666,Helbert Federico Carreiro da Silva,41512,1,0,21,568,38,45,2,0,4
+263,6,0,0,New York Red Bulls,15,1,6,0,113,Muhamed Keita,61993,0,0,2,72,2,3,2,0,1
+264,12,0,44,LA Galaxy,27,20,77,2,2302,Jelle van Damme,12843,3,0,45,1727,66,97,5,0,18
+265,3,0,6,Portland Timbers,1,2,25,1,723,Hanyer Mosquera,111149,0,0,9,587,31,40,0,0,4
+266,33,0,0,Philadelphia Union,78,14,46,17,740,Roland Alberg,86574,1,0,79,574,17,25,2,0,5
+267,0,0,0,New York Red Bulls,0,0,1,0,9,Ian Christianson,127535,0,0,0,9,0,1,0,0,0
+268,84,0,13,San Jose Earthquakes,353,80,69,7,3247,Cordell Cato,111152,0,0,80,2314,135,163,5,0,2
+269,1,0,0,Vancouver Whitecaps FC,0,0,1,0,451,Jay Nolly,41523,0,40,0,262,0,0,0,0,1
+270,47,0,17,Philadelphia Union,166,38,42,3,3737,Keegan Rosenberry,127541,0,0,42,2780,109,157,1,0,4
+271,47,0,121,Atlanta United FC,31,13,177,14,8689,Bobby Boswell,41526,1,0,123,6601,248,312,12,0,26
+272,2,0,0,Vancouver Whitecaps FC,6,2,5,0,105,Cole Seiler,127543,0,0,0,77,2,2,0,0,0
+273,94,0,40,Chicago Fire,327,38,102,0,6593,Michael Harrington,41528,2,0,14,4992,181,223,5,0,11
+274,30,0,1,San Jose Earthquakes,181,68,21,1,742,Leandro Barrera,86900,0,0,36,458,40,47,6,0,3
+275,0,0,0,D.C. United,1,1,0,0,85,Kurt Morsink,41530,0,0,0,66,3,4,0,0,1
+276,9,0,0,Chivas USA,30,2,18,2,249,Bryan de la Fuente,90683,0,0,8,149,14,16,2,0,0
+277,151,0,56,Portland Timbers,488,7,146,14,7150,Jack Jewsbury,41532,0,0,135,5632,203,251,8,0,17
+278,33,0,4,Real Salt Lake,47,25,37,16,728,Yura Movsisyan,41535,0,0,114,446,11,19,2,0,7
+279,56,0,55,Columbus Crew SC,169,15,122,1,5021,Tyson Wahl,41537,2,0,19,3816,148,185,6,0,21
+280,0,0,0,Montreal Impact,0,1,3,0,866,Eric Kronberg,41540,0,69,0,612,0,1,0,0,4
+281,0,0,0,Toronto FC,0,0,1,0,595,Chris Konopka,41543,0,80,1,366,0,0,0,0,2
+282,3,0,0,Portland Timbers,2,0,2,0,72,Ryan Pore,41544,0,0,4,45,1,2,3,0,0
+283,0,0,0,Chivas USA,0,0,0,0,6,Trevor Spangenberg,180811,0,1,0,3,0,0,0,0,0
+284,2,0,7,LA Galaxy,1,0,13,0,321,Gregg Berhalter,8782,0,0,5,268,4,5,0,0,3
+285,106,0,120,Atlanta United FC,41,28,336,26,10834,Jeff Larentowicz,41551,2,0,264,8891,317,423,21,0,41
+286,33,0,103,Atlanta United FC,25,28,63,3,8157,Michael Parkhurst,41552,2,0,12,6987,143,196,12,0,12
+287,79,0,42,Colorado Rapids,229,23,114,2,6242,James Riley,41553,1,0,30,5040,169,202,8,0,15
+288,7,0,22,New York Red Bulls,2,1,13,0,1677,Tim Ream,82514,0,0,7,1404,40,49,4,0,3
+289,3,0,0,New York Red Bulls,3,0,1,0,66,Ethan Kutler,234067,0,0,1,49,2,5,0,0,0
+290,3,0,0,New England Revolution,0,0,2,0,1423,Brad Knighton,41556,1,135,0,744,1,1,0,0,3
+291,11,0,10,New England Revolution,10,8,48,2,1543,Andy Dorman,41557,2,0,24,1243,73,94,4,0,14
+292,134,0,17,Houston Dynamo,171,116,113,8,6481,Eric Alexander,82518,1,0,127,5412,174,220,29,0,14
+293,10,0,59,Houston Dynamo,5,8,147,6,4298,Jose Leonardo Ribeiro da Silva,82519,2,0,43,3622,166,217,2,0,8
+294,188,0,46,Chicago Fire,286,58,220,18,11319,Vitor Gomes Pereira Junior,82521,3,0,267,9658,410,522,66,0,31
+295,13,0,1,San Jose Earthquakes,70,4,7,1,409,Joey Gjertsen,82523,0,0,21,281,17,20,0,0,0
+296,70,0,62,San Jose Earthquakes,167,121,119,2,7686,Marvell Wynne,41564,1,0,18,6007,389,481,4,0,10
+297,2,0,1,Sporting Kansas City,4,0,1,0,84,Korede Aiyegbusi,82525,0,0,1,70,7,7,0,0,0
+298,92,0,33,Sporting Kansas City,306,65,198,4,9039,Seth Sinovic,82526,0,0,92,7044,253,328,9,0,30
+299,12,0,2,New England Revolution,16,5,5,1,288,Zack Schilawski,82528,0,0,24,220,7,7,2,0,1
+300,6,0,0,Montreal Impact,11,4,5,2,162,Sinisa Ubiparipovic,41569,0,0,5,124,6,6,2,0,1
+301,13,0,0,New England Revolution,54,5,9,1,354,Zak Boggs,82530,0,0,16,234,10,15,1,0,2
+302,11,0,2,Philadelphia Union,21,4,6,1,289,José Kléberson Pereira,12899,0,0,24,207,5,8,6,0,1
+303,52,0,35,LA Galaxy,229,15,68,2,5544,Todd Dunivant,41573,0,0,31,3977,136,184,4,0,6
+304,95,0,9,Toronto FC,35,62,161,48,2275,Jozy Altidore,41574,3,0,181,1617,40,53,9,0,18
+305,48,0,3,New York Red Bulls,197,66,118,11,1452,Dane Richards,41575,0,0,90,1030,80,97,10,0,16
+306,1,0,0,D.C. United,1,0,1,0,35,Samuel Inkoom,66153,0,0,0,25,0,0,0,0,0
+307,10,0,0,Portland Timbers,15,7,7,0,301,Andres Flores Mejia,98925,0,0,10,247,13,16,0,0,1
+308,27,0,29,Philadelphia Union,11,29,83,4,2157,Maurice Edu,41587,1,0,59,1739,127,144,11,0,13
+309,64,0,12,Sporting Kansas City,116,26,144,8,3283,Paulo Nagamura,41590,0,0,132,2574,123,145,18,0,22
+310,0,0,0,New York City FC,0,0,0,0,1,Cédric Hountondji,168567,0,0,0,0,0,0,0,0,0
+311,9,0,12,Houston Dynamo,7,2,94,0,1382,Luis Garrido,119572,0,0,23,1168,105,128,2,0,12
+312,3,0,2,LA Galaxy,12,4,17,1,179,Christian Wilhelmsson,17479,0,0,11,134,16,19,1,0,0
+313,20,0,0,Columbus Crew SC,61,25,18,1,461,Álvaro Rey,90747,0,0,15,336,22,26,7,0,2
+314,8,0,1,New York City FC,4,2,10,0,258,Adam Nemec,45692,0,0,13,174,9,10,1,0,0
+315,0,0,0,New York Red Bulls,0,0,0,0,347,Bouna Coundoul,41598,0,37,0,251,0,0,0,0,0
+316,115,0,92,Los Angeles Football Club,330,28,194,10,9094,Jordan Harvey,41599,4,0,71,6906,274,352,11,0,31
+317,55,0,37,LA Galaxy,222,24,146,1,5164,Dan Gargan,41600,1,0,33,3826,190,230,7,0,26
+318,0,0,0,FC Dallas,1,0,1,0,11,Ema Twumasi,443009,0,0,1,8,1,1,0,0,0
+319,135,0,2,FC Dallas,252,45,36,8,2172,David Ferreira,33410,0,0,64,1582,50,64,86,0,7
+320,3,0,29,FC Dallas,0,0,34,3,1613,Stephen Keel,41603,0,0,10,1353,41,48,1,0,7
+321,87,0,5,Houston Dynamo,121,48,54,15,1582,Omar Cummings,41604,0,0,169,1098,46,59,27,0,2
+322,93,0,14,Atlanta United FC,216,17,61,18,2481,Jacob Peterson,41605,1,0,150,1781,93,125,12,0,6
+323,92,0,42,Real Salt Lake,230,36,224,1,9954,Chris Wingert,41606,1,0,54,7788,266,358,5,0,44
+324,3,0,21,FC Dallas,5,2,36,3,1498,Ugo Ihemelu,41607,0,0,16,1142,66,85,1,0,7
+325,20,0,6,Chicago Fire,51,20,25,0,840,Rodrigo de Oliveira Ramos,209382,0,0,9,595,50,67,1,0,4
+326,126,0,18,Chicago Fire,247,32,130,13,5220,Nick LaBrocca,41610,0,0,191,4023,124,159,39,0,24
+327,31,0,1,LA Galaxy,83,15,27,5,1120,Colin Clark,41611,1,0,44,843,35,40,8,0,3
+328,60,0,36,New York Red Bulls,247,45,59,3,4844,Kosuke Kimura,41612,0,0,21,3709,143,167,6,0,3
+329,10,0,6,Columbus Crew SC,25,4,43,1,1047,Agustín Viana,62096,0,0,17,786,64,80,1,0,5
+330,9,0,1,New England Revolution,8,15,42,1,562,Juan Carlos Toja,41620,0,0,15,447,29,36,6,0,4
+331,9,0,7,D.C. United,8,5,45,1,897,Marcelo Saragosa,41621,0,0,10,701,63,81,3,0,6
+332,5,0,0,FC Dallas,12,2,2,1,138,Ramon Nunez,41623,0,0,11,102,2,2,3,0,0
+333,12,0,39,San Jose Earthquakes,3,6,43,2,1700,Clarence Goodson,41624,0,0,37,1292,40,45,1,0,13
+334,81,0,4,Houston Dynamo,181,65,52,8,1837,Jose Arturo Alvarez Hernandez,41625,0,0,90,1293,74,100,10,0,5
+335,195,0,44,Chicago Fire,189,116,240,15,15328,Dax McCarty,41626,0,0,186,12941,485,630,74,0,28
+336,51,0,132,Toronto FC,104,8,139,20,10249,Drew Moor,41627,1,0,124,8423,229,296,7,0,23
+337,3,0,3,Real Salt Lake,22,7,11,0,487,Blake Wagner,41632,0,0,6,332,21,24,0,0,0
+338,177,0,9,Montreal Impact,255,150,125,50,4280,Dominic Oduro,41633,1,0,385,3091,114,153,18,0,21
+339,7,0,1,New York Red Bulls,32,8,17,2,775,Anthony Wallace,41634,0,0,9,571,33,40,0,0,5
+340,10,0,3,D.C. United,11,1,18,0,583,Markus Halsti,49829,0,0,7,431,22,24,1,0,2
+341,0,0,0,Portland Timbers,1,0,2,1,60,Kevin Goldthwaite,41644,0,0,1,43,1,2,0,0,0
+342,7,0,25,Chicago Fire,4,4,51,2,1782,Patrick Ianni,41645,0,0,14,1391,51,69,0,0,7
+343,3,0,9,New England Revolution,2,0,29,2,424,Ryan Cochrane,41646,1,0,9,298,24,29,0,0,5
+344,216,0,26,San Jose Earthquakes,130,48,193,115,6468,Chris Wondolowski,41647,0,0,700,4842,163,208,37,0,21
+345,1,0,0,New York Red Bulls,0,2,4,0,26,Omer Damari,74416,1,0,4,20,4,5,0,0,0
+346,110,0,2,Toronto FC,170,26,35,15,2593,Víctor Vázquez,49841,0,0,66,2098,21,35,21,0,4
+347,30,0,6,Houston Dynamo,89,4,18,1,1493,Mike Chabala,41650,0,0,11,1024,27,37,1,0,7
+348,27,0,2,Colorado Rapids,8,7,48,9,1122,Jaime Castrillon,33459,1,0,62,882,53,72,7,0,3
+349,0,0,0,Chivas USA,2,0,7,0,54,Adolfo Bautista,12981,0,0,3,43,1,1,1,0,1
+350,10,0,5,Portland Timbers,5,10,9,1,450,Cristhian Paredes,217784,0,0,18,376,13,23,1,0,1
+351,1,0,8,Montreal Impact,1,0,10,0,560,Shavar Thomas,41657,0,0,0,470,9,11,0,0,3
+352,0,0,0,New York Red Bulls,2,2,1,0,65,Michael Bustamante,152250,0,0,0,54,0,0,1,0,1
+353,7,0,35,Chicago Fire,10,3,44,1,1846,Ty Harden,41660,1,0,18,1462,62,80,0,0,8
+354,31,0,5,Columbus Crew SC,12,14,72,13,1050,Adam Jahn,152253,2,0,90,704,33,39,6,0,5
+355,38,0,4,Chicago Fire,13,20,79,10,996,Michael de Leeuw,66238,0,0,62,761,47,67,3,0,7
+356,35,0,4,Toronto FC,49,24,42,11,1162,Robbie Findley,41666,0,0,98,850,34,35,7,0,3
+357,83,0,17,Chicago Fire,28,17,283,44,3092,Alan Gordon,41667,3,0,242,2199,56,71,6,0,38
+358,60,0,15,Houston Dynamo,114,21,80,5,3318,Nathan Sturgis,41668,1,0,45,2650,125,153,11,0,14
+359,46,0,1,D.C. United,30,7,20,5,902,Josh Wolff,12998,0,0,44,694,16,21,20,0,2
+360,0,0,9,Philadelphia Union,0,0,29,1,479,Steven Vitória,66249,0,0,3,357,18,18,0,0,5
+361,0,0,0,Colorado Rapids,0,0,0,0,0,Brenton Griffiths,152267,0,0,0,0,0,0,0,0,0
+362,0,0,0,Atlanta United FC,0,0,1,0,176,Kyle Reynish,41678,1,13,0,109,0,0,0,0,0
+363,2,0,0,Seattle Sounders FC,7,2,2,0,43,Darwin Jones,172751,0,0,6,27,1,1,0,0,0
+364,0,0,5,Chicago Fire,0,2,3,0,316,Grant Lillard,234193,0,0,1,244,9,10,0,0,1
+365,80,0,10,New York City FC,133,11,92,6,2645,Mehdi Ballouchy,41682,0,0,53,2092,101,126,19,0,14
+366,2,0,1,FC Dallas,0,0,0,0,37,Jack Stewart,41683,0,0,0,24,2,3,0,0,0
+367,0,0,1,Minnesota United FC,0,0,3,0,135,Vadim Demidov,49876,0,0,2,114,4,5,0,0,0
+368,45,0,2,Minnesota United FC,58,31,63,5,1239,Johan Venegas,180606,0,0,78,903,34,41,4,0,11
+369,1,0,3,Portland Timbers,7,5,2,0,205,Taylor Peay,172758,0,0,2,149,17,19,0,0,0
+370,16,0,0,Chivas USA,22,12,26,1,797,Paolo Cardozo,94936,0,0,39,665,22,32,5,0,1
+371,0,0,0,Vancouver Whitecaps FC,0,0,0,0,30,Spencer Richey,172761,0,1,0,15,0,0,0,0,0
+372,93,0,29,Seattle Sounders FC,156,90,104,11,5608,Cristian Roldan,172762,0,0,98,4568,230,304,9,0,12
+373,4,0,35,New York Red Bulls,2,11,41,2,1609,Ibrahim Sekagya,33499,2,0,11,1385,61,76,0,0,6
+374,2,0,6,Real Salt Lake,8,3,6,1,292,Justin Schmidt,172764,0,0,4,203,12,14,0,0,0
+375,0,0,0,Columbus Crew SC,0,0,0,0,1,Leandre Griffit,17117,0,0,1,0,0,0,0,0,0
+376,2,0,0,Chivas USA,7,2,5,0,153,,41698,0,0,5,116,5,7,2,0,0
+377,0,0,0,Toronto FC,0,0,1,0,4,,152292,0,0,0,2,0,0,0,0,0
+378,10,0,17,Vancouver Whitecaps FC,4,3,58,1,2045,Jun Marques Davidson,111333,1,0,10,1755,58,77,2,0,8
+379,22,0,2,Philadelphia Union,30,13,25,2,467,Leonardo Fernandes,152294,0,0,38,346,23,28,6,0,2
+380,369,0,14,Orlando City SC,618,80,147,21,7632,Sacha Kljestan,41703,2,0,186,5769,123,160,38,0,18
+381,0,0,0,New York Red Bulls,0,0,0,0,11,Manolo Sánchez,131817,0,0,6,9,0,1,0,0,0
+382,16,0,130,Toronto FC,10,12,141,1,5488,Jason Hernandez,41707,3,0,8,4392,212,275,3,0,23
+383,11,0,3,New York City FC,31,12,19,2,969,Anton Tinnerholm,66284,0,0,24,755,17,27,2,0,2
+384,6,0,9,Chivas USA,10,5,35,0,857,Carlos Borja,41711,0,0,2,652,40,45,0,0,5
+385,2,0,14,Montreal Impact,0,1,13,1,706,Kyle Fisher,131824,0,0,6,576,26,32,0,0,4
+386,25,0,37,Houston Dynamo,8,10,82,2,3298,Jared Watts,131833,3,0,27,2661,89,123,2,0,17
+387,4,0,2,New York City FC,3,6,13,1,127,Sean Okoli,131836,0,0,15,93,3,4,2,0,1
+388,0,0,11,D.C. United,1,6,9,0,365,Jalen Robinson,131839,0,0,5,302,12,15,0,0,0
+389,55,0,11,LA Galaxy,29,34,111,7,2964,Jermaine Jones,17152,2,0,98,2248,121,155,12,0,25
+390,13,0,3,Minnesota United FC,15,8,31,0,838,Collin Martin,131841,0,0,13,694,29,43,0,0,6
+391,25,0,9,D.C. United,41,8,49,0,1925,John Thorrington,8963,0,0,28,1600,72,95,9,0,7
+392,7,0,16,Colorado Rapids,23,23,60,1,1879,Shane O'Neill,118230,1,0,14,1471,80,96,1,0,12
+393,3,0,3,FC Dallas,16,14,5,0,454,Anton Nedyalkov,123657,0,0,6,356,13,20,1,0,1
+394,1,0,17,Colorado Rapids,1,8,25,1,717,Kortne Ford,234251,0,0,10,559,34,47,0,0,4
+395,4,0,35,Orlando City SC,0,5,69,6,1980,Sebastian Hines,37644,1,0,49,1619,72,102,1,0,11
+396,8,0,2,New England Revolution,41,7,7,0,823,Blair Gavin,82701,0,0,15,676,21,25,3,0,0
+397,6,0,29,New York City FC,0,3,41,1,853,Kwame Watson-Siriboe,82703,1,0,9,777,44,49,0,0,9
+398,1,0,10,San Jose Earthquakes,4,4,13,0,555,Nana Attakora,41744,0,0,11,429,31,37,0,0,2
+399,1,0,0,Vancouver Whitecaps FC,2,0,4,0,73,,49937,0,0,0,57,5,6,0,0,0
+400,1,0,17,Chivas USA,1,2,17,0,564,John Valencia,111379,0,0,3,485,24,33,0,0,5
+401,1,0,3,Chivas USA,1,5,16,0,238,Marvin Iraheta,111380,0,0,3,176,18,21,0,0,2
+402,1,0,22,New York Red Bulls,2,20,24,1,1042,Tommy Redding,181013,0,0,3,872,39,59,0,0,5
+403,39,0,0,Houston Dynamo,61,4,11,0,716,Alexander López,119574,0,0,25,567,21,25,8,0,2
+404,8,0,9,Colorado Rapids,19,13,24,0,774,Bismark Boateng,116185,0,0,18,594,28,40,3,0,6
+405,0,0,0,Colorado Rapids,0,0,5,0,46,Sam Hamilton,234266,0,0,0,42,3,3,0,0,1
+406,0,0,0,Orlando City SC,3,2,5,1,101,Stéfano Souza Pinho,152278,0,0,12,76,2,3,0,0,0
+407,0,0,9,San Jose Earthquakes,1,4,7,0,469,Harold Cummings,99103,1,0,0,396,16,28,0,0,2
+408,23,0,2,Toronto FC,18,62,54,1,1018,Armando Cooper,99107,0,0,33,834,50,70,2,0,3
+409,18,0,31,Houston Dynamo,13,6,53,0,1791,Adolfo Machado,99108,0,0,13,1340,67,101,1,0,8
+410,0,0,0,New England Revolution,0,1,1,0,40,Mamadu Cande,221990,0,0,1,32,1,1,0,0,0
+411,41,0,5,D.C. United,41,41,66,10,892,Lionard Pajoy,111401,0,0,88,666,20,26,3,0,8
+412,51,0,16,San Jose Earthquakes,55,81,163,5,4005,Anibal Godoy,99117,3,0,72,3565,111,159,3,0,27
+413,12,0,1,Real Salt Lake,2,7,8,5,236,Corey Baird,197422,0,0,29,186,6,12,1,0,2
+414,7,0,38,Minnesota United FC,5,44,46,4,1893,Francisco Calvo,99122,0,0,35,1491,58,78,1,0,10
+415,1,0,0,New York Red Bulls,9,0,2,0,131,Justin Bilyeu,197427,0,0,3,91,3,5,0,0,0
+416,51,0,21,Chicago Fire,92,56,121,4,3877,Matt Polster,197428,0,0,46,3139,102,132,2,0,18
+417,20,0,17,Colorado Rapids,100,28,33,0,1657,Mekeil Williams,77961,1,0,5,1181,74,96,1,0,12
+418,55,0,2,Sporting Kansas City,99,19,48,8,906,Soony Saad,101172,0,0,112,658,52,60,5,0,2
+419,11,0,18,New York City FC,27,29,32,0,1896,Andoni Iraola,17216,0,0,7,1616,62,93,4,0,5
+420,2,0,2,Sporting Kansas City,0,2,0,0,129,Emiliano Amor,200844,0,0,2,105,3,4,0,0,1
+421,3,0,0,Portland Timbers,1,2,3,0,26,Victor Arboleda,205623,1,0,6,17,0,1,0,0,0
+422,132,0,2,Orlando City SC,271,90,55,24,3235,Ricardo Izecson Dos Santos Leite,13135,2,0,149,2467,37,44,21,0,14
+423,18,0,5,Colorado Rapids,42,6,51,4,962,Conor Doyle,86864,0,0,44,694,46,55,1,0,8
+424,1,0,0,Houston Dynamo,0,2,1,0,20,Joseph Holland,123053,0,0,1,19,1,1,0,0,0
+425,94,0,1,Houston Dynamo,348,92,50,13,1629,Vicente Sánchez,33618,0,0,103,1068,36,42,6,0,3
+426,3,0,0,Philadelphia Union,5,0,7,0,98,,50003,0,0,6,73,4,6,5,0,0
+427,58,0,0,Philadelphia Union,32,30,86,29,1116,Charlie Davies,42532,0,0,121,819,20,22,0,0,7
+428,57,0,7,Seattle Sounders FC,124,35,47,14,2372,Álvaro Fernández,54106,1,0,86,1635,69,91,25,0,6
+429,42,0,2,Montreal Impact,103,9,40,2,1753,Kyle Bekker,140123,0,0,50,1408,30,36,1,0,5
+430,12,0,3,Orlando City SC,26,18,10,3,385,Chris Mueller,234345,0,0,17,287,8,14,1,0,1
+431,35,0,1,Sporting Kansas City,35,22,15,9,840,Dániel Sallói,213866,1,0,98,659,17,24,2,0,3
+432,0,0,1,New York Red Bulls,0,0,0,0,26,John Rooney,50027,0,0,1,21,2,2,0,0,0
+433,3,0,19,LA Galaxy,0,5,24,1,667,Michael Ciani,37740,0,0,7,551,21,24,0,0,6
+434,0,0,0,Philadelphia Union,0,0,0,0,22,Matthew Jones,149650,0,2,0,18,0,0,0,0,0
+435,10,0,40,LA Galaxy,1,7,55,5,2910,Daniel Steres,111473,0,0,27,2440,57,75,2,0,7
+436,27,0,46,Chicago Fire,52,45,84,1,3992,Johan Kappelhof,86898,2,0,13,3198,114,168,2,0,14
+437,6,0,1,Orlando City SC,2,7,6,6,250,Julio César Pereira Baptista,17268,0,0,27,191,6,6,1,0,1
+438,2,0,8,Orlando City SC,0,5,5,2,365,Lamine Sané,60906,0,0,5,325,18,25,0,0,1
+439,17,0,2,Toronto FC,63,3,19,0,982,Danleigh Borman,50047,0,0,3,658,35,47,4,0,4
+440,34,0,2,Montreal Impact,68,26,19,3,1217,Saphir Taïder,82752,1,0,50,1021,19,28,7,0,1
+441,15,0,34,Houston Dynamo,11,3,37,5,2137,Eric Brunner,50050,1,0,29,1611,80,104,3,0,4
+442,0,0,0,Philadelphia Union,1,0,1,0,8,,205699,0,0,0,2,0,0,0,0,0
+443,36,0,113,New York Red Bulls,17,24,309,19,7973,Aurélien Collin,45959,5,0,141,6206,305,404,2,0,45
+444,225,0,9,D.C. United,311,259,162,18,4437,Patrick Nyarko,50056,1,0,186,3056,271,346,46,0,15
+445,3,0,0,Portland Timbers,1,0,1,0,80,Peter Lowry,50057,0,0,1,53,4,4,2,0,1
+446,11,0,4,D.C. United,9,0,9,1,619,Stephen King,50058,0,0,19,498,20,24,3,0,0
+447,3,0,0,Chicago Fire,3,3,19,0,243,,17291,0,0,18,185,10,10,0,0,4
+448,39,0,1,Toronto FC,74,18,76,10,1151,Justin Braun,50062,0,0,95,813,25,32,13,0,8
+449,45,0,15,Columbus Crew SC,88,18,64,4,1922,Dan Paladini,50065,1,0,66,1531,74,94,6,0,14
+450,6,0,0,D.C. United,0,0,9,1,5815,Bill Hamid,82834,3,674,3,3407,5,5,0,0,7
+451,111,0,22,Vancouver Whitecaps FC,354,93,137,24,4132,Dane Brekken Shea,50067,3,0,215,2863,113,151,19,0,26
+452,99,0,7,Orlando City SC,250,73,89,7,3391,Eric Avila,50069,1,0,106,2518,134,156,13,0,6
+453,39,0,2,Chicago Fire,103,9,14,3,661,Shaun Maloney,9110,0,0,20,519,21,24,1,0,2
+454,1,0,16,Toronto FC,6,1,24,1,607,Andy Iro,50072,1,0,7,465,24,27,0,0,4
+455,2,0,1,Portland Timbers,7,0,4,0,201,Ryan Miller,50073,0,0,0,159,8,12,0,0,0
+456,5,0,0,Sporting Kansas City,0,1,8,0,3385,Tim Melia,86938,1,326,0,2224,2,2,1,0,7
+457,74,0,6,San Jose Earthquakes,27,14,137,20,1793,Steven Lenhart,50075,2,0,167,1185,22,26,6,0,26
+458,12,0,0,Philadelphia Union,9,2,6,0,332,Corben Bone,82844,1,0,10,273,7,7,1,0,1
+459,123,0,74,Los Angeles Football Club,492,66,196,4,10209,Steven Beitashour,82845,1,0,41,7599,303,383,4,0,26
+460,64,0,75,FC Dallas,235,64,153,4,6906,Zach Loyd,82846,4,0,36,5184,268,325,4,0,14
+461,95,0,30,Philadelphia Union,421,140,132,2,5126,Fabio Alves Macedo,132000,1,0,50,3601,229,277,2,0,19
+462,291,0,14,San Jose Earthquakes,1146,241,149,10,6726,Shea Salinas,50081,2,0,162,4582,213,265,23,0,11
+463,6,0,37,Columbus Crew SC,5,3,61,2,1233,Julius James,50082,0,0,13,970,78,98,0,0,9
+464,23,0,1,Colorado Rapids,48,52,22,1,699,Juan Ramírez,98459,0,0,41,525,36,40,2,0,3
+465,1,0,0,Vancouver Whitecaps FC,0,1,0,0,27,,50084,0,0,1,20,0,1,0,0,0
+466,6,0,9,New England Revolution,3,0,24,0,607,Pat Phelan,50085,1,0,12,424,32,36,6,0,4
+467,1,0,15,Columbus Crew SC,1,1,10,1,449,Alex Crognale,234406,0,0,9,362,7,9,0,0,1
+468,28,0,25,Houston Dynamo,58,18,45,5,2587,Geoff Cameron,50089,0,0,78,1922,105,121,15,0,3
+469,1,0,1,Minnesota United FC,11,1,5,0,336,Justin Davis,111530,1,0,0,251,9,9,0,0,0
+470,18,0,0,Columbus Crew SC,22,5,56,6,467,Aaron Schoenfeld,111531,0,0,51,301,20,25,2,0,6
+471,7,0,32,Chicago Fire,3,8,74,0,2524,Joao Diogo Serpa Meira,149661,0,0,13,2212,64,76,0,0,9
+472,5,0,2,Houston Dynamo,13,1,5,0,297,Kevin Garcia,111536,0,0,2,224,10,14,0,0,1
+473,12,0,1,Toronto FC,38,29,13,0,828,Auro Alvaro da Cruz Junior,172981,0,0,10,660,22,26,2,0,2
+474,127,0,24,Portland Timbers,353,24,143,4,5747,Chance Myers,50102,0,0,85,4312,191,243,10,0,14
+475,4,0,13,Portland Timbers,1,3,29,2,956,Rauwshan McKenzie,50104,0,0,9,807,34,45,0,0,4
+476,196,0,20,Sporting Kansas City,182,125,279,4,7610,Roger Espinoza,50105,6,0,199,5984,304,403,28,0,39
+477,9,0,6,Vancouver Whitecaps FC,25,2,15,0,879,Jonathan Leathers,50107,0,0,4,649,33,39,0,0,3
+478,38,0,10,Chicago Fire,177,45,36,0,1985,Rafael Ramos,181180,3,0,13,1541,45,55,1,0,8
+479,0,0,0,San Jose Earthquakes,0,0,1,0,10,Ceasar Diaz Pizzaro,111550,0,0,0,4,0,0,0,0,0
+480,1,0,1,D.C. United,12,2,1,0,205,Chris Odoi-Atsem,234432,0,0,1,146,8,11,0,0,0
+481,99,0,3,Colorado Rapids,232,13,78,13,1758,Shkelzen Gashi,41921,0,0,134,1237,37,58,5,0,7
+482,42,0,35,New York Red Bulls,206,35,84,4,3868,Kemar Lawrence,170827,0,0,49,2664,161,212,1,0,12
+483,324,0,12,D.C. United,725,55,105,46,6178,Sebastien Le Toux,37828,0,0,287,4082,174,236,39,0,10
+484,0,0,0,Vancouver Whitecaps FC,1,1,1,1,31,Greg Klazura,111561,0,0,1,22,0,0,0,0,0
+485,1,0,0,LA Galaxy,9,2,13,0,235,Frankie Hejduk,5066,0,0,2,175,6,8,0,0,5
+486,17,0,0,Columbus Crew SC,39,23,10,2,398,Cedrick Mabwati,78795,0,0,17,314,18,18,1,0,0
+487,12,0,2,LA Galaxy,32,1,10,0,448,Bryan Jordan,50125,0,0,0,331,19,21,0,0,1
+488,16,0,64,Real Salt Lake,19,9,73,4,3010,Brandon McDonald,50126,1,0,40,2230,82,102,5,0,11
+489,27,0,21,New York City FC,19,42,84,1,3127,Alexander Ring,88909,0,0,38,2635,124,169,5,0,15
+490,4,0,0,New England Revolution,7,0,2,0,51,Mkhokheli Dube,50128,0,0,3,35,6,7,0,0,0
+491,139,0,11,Portland Timbers,45,69,215,55,2607,Fanendo Adi,95186,1,0,324,1807,30,40,5,0,12
+492,332,0,7,LA Galaxy,567,112,152,50,5862,Landon Donovan,5075,0,0,255,4436,115,139,70,0,24
+493,42,0,13,Houston Dynamo,166,21,108,1,2749,Abdoulie Mansally,50132,4,0,54,2094,101,119,0,0,14
+494,51,0,70,Montreal Impact,141,98,199,7,5745,Hassoun Camara,37846,4,0,82,4452,232,302,14,0,34
+495,0,0,21,New York Red Bulls,2,7,27,3,1227,Ronald Zubar,37847,0,0,14,969,32,51,1,0,9
+496,120,0,58,Real Salt Lake,349,109,214,2,10345,Tony Beltran,50136,3,0,57,8205,394,486,8,0,35
+497,10,0,129,Real Salt Lake,6,13,180,11,4598,Jámison Olave,50137,8,0,78,3749,211,239,1,0,24
+498,21,0,1,New England Revolution,49,41,21,8,550,Cristian Penilla,153082,0,0,53,365,16,21,3,0,0
+499,17,0,89,Real Salt Lake,1,29,150,5,4032,David Horst,50143,1,0,83,3175,152,190,0,0,15
+500,4,0,0,Portland Timbers,5,1,2,0,57,Jeanderson Salvador Pereira,181223,0,0,0,50,3,3,0,0,0
+501,10,0,4,Los Angeles Football Club,12,8,14,1,548,Eduard Atuesta,232274,0,0,12,479,12,22,3,0,3
+502,20,0,0,Chicago Fire,49,4,6,0,687,Patrick Doody,201712,0,0,1,502,11,15,0,0,1
+503,106,0,29,LA Galaxy,387,77,129,4,5619,Robbie Rogers,39080,0,0,102,4232,198,247,12,0,14
+504,0,0,1,Chivas USA,0,0,3,0,33,,82931,0,0,0,24,4,5,0,0,0
+505,9,0,0,New England Revolution,15,1,4,2,231,Monsef Zerka,37877,0,0,14,153,4,4,5,0,0
+506,4,0,0,New York City FC,30,6,7,1,358,,152566,0,0,12,253,22,25,1,0,2
+507,40,0,1,San Jose Earthquakes,102,17,23,3,767,Magnus Eriksson,66553,0,0,33,510,15,20,2,0,0
+508,78,0,89,New England Revolution,278,47,144,8,7670,Jalil Anibaba,95228,2,2,90,5413,249,326,2,0,12
+509,16,0,1,Chicago Fire,33,7,18,1,300,,95229,0,0,17,224,6,6,10,0,3
+510,7,0,0,LA Galaxy,10,0,4,1,172,Pat Noonan,33790,0,0,9,118,9,9,1,0,0
+511,1,0,0,Chicago Fire,0,2,0,0,23,Victor Pineda,95232,0,0,1,17,1,1,0,0,0
+512,2,0,5,New England Revolution,0,2,29,0,448,Franco Coria,95233,0,0,4,309,26,28,0,0,5
+513,9,0,1,LA Galaxy,20,3,22,0,516,Nathan Smith,186539,1,0,2,408,23,31,0,0,5
+514,20,0,1,New England Revolution,14,11,52,4,459,Jerry Bengtson,99332,0,0,46,302,14,16,4,0,4
+515,14,0,3,FC Dallas,3,21,19,1,486,Jacori Hayes,226309,1,0,6,413,32,42,1,0,3
+516,1,0,0,Chivas USA,3,0,10,1,79,Victor Estupiñán,95238,0,0,11,66,3,5,0,0,1
+517,1,0,0,Chicago Fire,3,0,3,0,15,Jon Bakero,226311,0,0,1,9,0,0,0,0,0
+518,158,0,39,D.C. United,131,121,359,14,8567,Marcelo Sarvas,71852,1,0,192,7021,391,489,41,0,46
+519,0,0,1,D.C. United,0,0,3,1,186,Conor Shanosky,95247,0,0,3,143,7,7,0,0,0
+520,30,0,193,Seattle Sounders FC,2,10,146,13,7837,Chad Marshall,33808,0,0,133,6613,226,292,3,0,13
+521,25,0,65,Toronto FC,37,14,67,6,3243,Nick Hagglund,132113,2,0,46,2492,72,92,4,0,8
+522,4,0,8,San Jose Earthquakes,2,1,34,0,1030,Andrés Imperiale,58410,0,0,7,808,48,73,0,0,9
+523,78,0,43,D.C. United,311,41,84,0,5674,Chris Korb,95253,0,0,36,4198,126,144,4,0,12
+524,15,0,12,FC Dallas,2,3,98,2,2147,Hendry Thomas,66583,1,0,46,1819,126,155,3,0,11
+525,0,0,1,Portland Timbers,1,0,1,0,62,Frederick Braun,95256,0,0,1,40,3,4,1,0,0
+526,100,0,6,Seattle Sounders FC,234,107,160,4,3771,Michael Farfan,95257,0,0,125,2770,152,176,50,0,15
+527,64,0,17,Portland Timbers,214,82,68,0,3567,Chris Klute,132122,0,0,13,2580,184,221,2,0,7
+528,53,0,38,LA Galaxy,65,7,127,2,4226,Servando Carrasco,95259,2,0,55,3506,162,229,17,0,19
+529,2,0,1,Orlando City SC,2,2,16,1,478,Leonardo Pereira,173084,0,0,3,377,14,18,1,0,4
+530,347,0,25,Atlanta United FC,154,427,96,29,9894,Darlington Nagbe,95261,0,0,343,8637,222,268,69,0,5
+531,18,0,7,D.C. United,14,23,29,3,1181,Ian Harkes,226308,0,0,26,971,26,38,2,0,2
+532,92,0,44,Columbus Crew SC,68,80,243,23,6090,Ricardo Clark,33823,0,0,252,4848,261,335,16,0,23
+533,1,0,4,New England Revolution,0,0,8,0,171,Joshua Smith,246817,0,0,6,125,4,12,0,0,0
+534,8,0,1,Chivas USA,44,5,11,0,588,Josue Soto,95267,1,0,3,428,29,36,1,0,2
+535,7,0,1,Toronto FC,42,6,17,0,620,Ryan Richter,95269,0,0,7,378,30,38,0,0,1
+536,25,0,3,Colorado Rapids,106,42,39,3,748,Sam Nicholson,132134,0,0,51,528,38,53,1,0,3
+537,93,0,1,D.C. United,42,57,141,22,1744,Jairo Arrieta,115752,0,0,179,1299,39,43,20,0,9
+538,2,0,0,Houston Dynamo,4,2,4,1,96,Alex Dixon,95273,0,0,3,77,7,8,0,0,1
+539,0,0,7,Toronto FC,2,1,20,0,491,Ahmed Kantari,37930,0,0,2,389,24,25,0,0,3
+540,93,0,47,San Jose Earthquakes,316,33,162,2,6243,Kofi Sarkodie,95275,4,0,37,4831,174,233,5,0,23
+541,8,0,0,Colorado Rapids,0,5,5,1,4388,Zac MacMath,95276,0,385,1,2561,8,11,0,0,10
+542,85,0,58,LA Galaxy,47,59,295,11,8021,Perry Kitchen,95277,0,0,81,6567,279,338,17,0,35
+543,296,0,3,Real Salt Lake,496,137,83,45,5167,Joao Plata,95278,0,0,408,3933,83,104,35,0,8
+544,13,0,5,FC Dallas,67,23,49,0,1166,Moises Hernandez,95279,2,0,10,794,64,88,1,0,5
+545,84,0,26,FC Dallas,78,27,117,4,5722,Victor Ulloa,95280,0,0,53,4743,144,193,14,0,12
+546,0,0,0,Philadelphia Union,0,0,0,0,279,Brian Sylvestre,95281,0,31,0,140,0,0,0,0,0
+547,1,0,0,FC Dallas,3,0,3,1,19,Jonathan Top,95282,0,0,2,12,1,1,0,0,0
+548,10,0,0,Vancouver Whitecaps FC,30,13,19,1,247,Omar Salgado,95283,0,0,23,175,5,10,0,0,2
+549,219,0,14,New England Revolution,251,151,136,46,5412,Diego Fagundez,95284,0,0,368,4170,128,189,32,0,20
+550,76,0,3,Sporting Kansas City,153,47,82,6,3183,Jimmy Medranda,169013,1,0,111,2476,192,254,5,0,12
+551,19,0,1,Colorado Rapids,22,13,38,5,618,Jack McBean,95287,0,0,41,396,17,22,2,0,6
+552,26,0,1,Chivas USA,123,14,17,3,632,Marcos Mondaini,95290,1,0,28,427,23,26,6,0,1
+553,0,0,0,D.C. United,0,0,1,0,72,,95291,0,0,0,58,3,6,0,0,0
+554,0,0,0,Sporting Kansas City,2,0,3,0,45,Scott Lorenz,95293,0,0,0,32,1,1,0,0,0
+555,31,0,0,Toronto FC,89,19,16,3,613,Nick Soolsma,95294,0,0,33,410,15,18,7,0,1
+556,0,0,1,New York Red Bulls,0,0,2,0,39,Carl Robinson,1087,0,0,0,24,2,2,1,0,0
+557,2,0,0,Portland Timbers,0,0,1,0,1555,Jake Gleeson,95297,0,198,0,916,2,2,0,0,2
+558,0,0,0,Chicago Fire,0,1,2,0,576,Richard Sánchez,95298,0,76,0,403,1,3,0,0,3
+559,8,0,0,FC Dallas,2,0,8,1,123,Mílton Rodríguez,33452,0,0,19,89,1,1,2,0,1
+560,10,0,0,Columbus Crew SC,13,14,13,0,251,Luis Argudo,422981,0,0,10,201,7,10,1,0,0
+561,32,0,1,Atlanta United FC,0,15,39,37,708,Josef Martínez,111686,0,0,120,565,11,13,8,0,4
+562,23,0,8,Montreal Impact,70,6,53,1,1827,Jukka Raitala,62535,0,0,14,1455,47,60,1,0,6
+563,2,0,1,Orlando City SC,1,2,6,3,59,Bryan Rochez,193610,0,0,11,40,2,2,0,0,2
+564,6,0,20,Colorado Rapids,1,4,46,2,1532,Tyrone Marshall,15585,2,0,14,1218,55,71,0,0,7
+565,3,0,0,Houston Dynamo,0,2,1,0,2316,Joe Willis,95309,0,231,0,1230,2,4,0,0,5
+566,8,0,0,Chicago Fire,16,3,3,1,166,Florent Sinama-Pongolle,13394,0,0,9,121,6,8,2,0,0
+567,150,0,3,FC Dallas,250,466,159,35,3507,Fabian Castillo,95316,0,0,322,2445,124,149,34,0,22
+568,37,0,4,Philadelphia Union,33,7,27,6,591,Jorge Perlaza,95317,0,0,42,436,5,9,2,0,2
+569,6,0,0,Portland Timbers,3,1,3,0,52,Brian Umony,95318,0,0,6,35,0,0,0,0,1
+570,2,0,0,Columbus Crew SC,4,2,6,0,129,Konrad Warzycha,95319,0,0,10,94,5,7,0,0,1
+571,17,0,37,Chicago Fire,27,46,86,9,3494,Kevin Ellis,95320,0,0,39,2808,127,166,2,0,15
+572,189,0,12,Philadelphia Union,135,112,313,57,4184,Charles Kwabena Sapong,95321,1,0,392,2777,103,125,17,0,12
+573,13,0,1,Chicago Fire,29,5,11,1,449,Djordje Mihailovic,246874,0,0,9,366,18,21,0,0,0
+574,11,0,1,Toronto FC,35,13,6,1,294,Ryan Telfer,250972,0,0,7,198,11,15,1,0,1
+575,4,0,0,Chicago Fire,15,7,16,1,223,Héctor Joya,132189,0,0,16,153,7,11,2,0,2
+576,36,0,14,Chivas USA,234,5,31,1,3072,Ante Jazic,34320,0,0,9,2405,62,75,0,0,3
+577,3,0,34,Minnesota United FC,0,5,44,0,1633,Michael Boxall,95330,0,0,4,1342,57,71,1,0,7
+578,2,0,1,New England Revolution,4,0,4,0,119,Bilal Duckett,95332,0,0,1,77,8,10,0,0,1
+579,3,0,0,San Jose Earthquakes,8,0,0,0,54,Jaime Alas,98921,0,0,1,43,2,3,0,0,0
+580,208,0,6,Montreal Impact,150,306,132,61,3728,Ignacio Piatti,37996,0,0,317,2955,99,130,36,0,13
+581,1,0,0,Vancouver Whitecaps FC,3,1,2,0,51,Marco Bustos,173165,0,0,2,37,2,3,1,0,0
+582,27,0,1,Chicago Fire,63,50,26,9,636,Aleksandar Katai,83055,0,0,66,463,11,17,8,0,3
+583,8,0,4,Sporting Kansas City,1,3,19,0,391,Birahim Diop,83058,0,0,10,307,8,10,4,0,3
+584,48,0,3,Vancouver Whitecaps FC,65,41,33,9,736,Yordy Reyna,156787,2,0,50,575,15,21,7,0,6
+585,2,0,0,New York Red Bulls,7,4,2,0,49,Marius Obekop,156788,0,0,5,34,3,5,0,0,0
+586,72,0,13,Portland Timbers,110,27,109,3,3784,Ben Zemanski,83061,1,0,70,3012,173,240,10,0,19
+587,24,0,1,FC Dallas,7,1,19,7,502,Carlos Ruiz,15209,0,0,58,354,7,7,3,0,2
+588,131,0,50,Toronto FC,473,121,153,18,9451,Justin Morrow,83065,2,0,84,7197,377,490,4,0,18
+589,0,0,0,San Jose Earthquakes,0,0,0,0,5,,83066,0,0,0,3,0,0,0,0,0
+590,12,0,1,Chicago Fire,70,9,7,1,393,Diego Campos,443517,0,0,17,264,8,13,1,0,1
+591,112,0,38,Minnesota United FC,129,100,275,4,6183,Collen Warner,83072,2,0,118,5035,267,340,42,0,32
+592,106,0,10,Houston Dynamo,127,95,87,11,4160,Luis Gil,83073,0,0,159,3184,139,178,35,0,7
+593,5,0,0,Chivas USA,11,0,2,0,69,Gerson Mayen,50308,0,0,0,53,3,3,1,0,0
+594,48,0,1,Portland Timbers,66,45,50,5,833,Lucas Melano,111750,0,0,79,589,38,47,2,0,6
+595,15,0,2,Philadelphia Union,6,9,22,5,410,Fernando Aristeguieta,148616,0,0,50,270,10,11,2,0,3
+596,0,0,0,New York Red Bulls,0,0,0,0,403,Frank Rost,5261,0,44,0,238,2,2,0,0,0
+597,20,0,2,Colorado Rapids,25,6,65,1,1416,,107671,0,0,34,1096,85,106,3,0,6
+598,0,0,0,Seattle Sounders FC,0,0,0,0,354,Bryan Meredith,107672,0,25,0,225,0,0,0,0,0
+599,6,0,2,D.C. United,3,10,10,0,297,Raphael Agusto Santos de Silva,124058,0,0,3,246,8,11,1,0,0
+600,46,0,14,Toronto FC,147,9,28,2,1586,Torsten Frings,5275,0,0,39,1177,56,70,10,0,5
+601,2,0,1,Houston Dynamo,2,1,10,0,162,Rasheed Olabiyi,213190,0,0,2,123,6,7,0,0,0
+602,43,0,2,FC Dallas,109,6,32,2,911,Ricardo Villar,38058,0,0,34,615,29,38,17,0,3
+603,140,0,12,New England Revolution,208,128,269,45,4041,Teal Bunbury,82524,1,0,360,2784,135,173,12,0,27
+604,132,0,3,Chicago Fire,472,44,94,16,3490,Joel Lindpere,11124,0,0,112,2544,71,91,30,0,11
+605,3,0,0,New York Red Bulls,15,2,11,1,202,Shaun Wright-Phillips,1212,0,0,20,148,10,14,1,0,1
+606,0,0,0,D.C. United,0,2,2,0,4253,Steve Clark,111806,0,414,0,3315,5,5,0,0,7
+607,22,0,2,Vancouver Whitecaps FC,51,33,26,5,650,Sebastian Fernandez,119999,1,0,55,467,32,38,8,0,7
+608,4,0,0,Columbus Crew SC,0,8,5,1,124,Eduardo Sosa,179062,0,0,8,106,3,6,0,0,1
+609,1,0,11,New York City FC,1,6,25,1,922,Jefferson Mena,149708,0,0,8,734,47,61,0,0,3
+610,14,0,0,Chicago Fire,6,2,28,2,295,Orr Barouch,95436,0,0,32,206,12,15,2,0,4
+611,0,0,0,FC Dallas,0,0,1,0,313,Jimmy Maurer,95778,0,31,0,228,0,1,0,0,1
+612,2,0,0,Vancouver Whitecaps FC,4,10,9,1,174,Kianz Froese,173264,0,0,7,145,7,9,0,0,3
+613,46,0,44,New York City FC,155,37,81,2,4665,John Eli Brovsky,95442,1,0,48,3644,168,214,8,0,13
+614,11,0,0,Colorado Rapids,24,1,13,2,205,Stefan Aigner,38099,0,0,9,149,1,4,0,0,2
+615,7,0,0,Los Angeles Football Club,16,1,3,0,176,Omar Gaber,120022,0,0,2,142,3,4,0,0,1
+616,4,0,4,Columbus Crew SC,3,0,12,0,665,Kevin Burns,41504,0,0,11,534,18,24,3,0,4
+617,10,0,5,Toronto FC,16,5,21,3,431,Darel Russell,1241,0,0,16,319,19,26,1,0,5
+618,0,0,0,New York Red Bulls,1,0,0,0,4,Amando Moreno,148707,0,0,0,3,0,0,0,0,0
+619,4,0,2,Columbus Crew SC,5,1,0,0,67,Connor Maloney,234725,0,0,1,51,1,1,1,0,0
+620,2,0,5,Colorado Rapids,6,9,20,0,741,Deklan Wynne,210151,0,0,2,598,16,25,0,0,3
+621,21,0,2,Montreal Impact,20,16,33,5,432,Michael Salazar,165096,0,0,19,314,14,18,2,0,2
+622,56,0,3,Philadelphia Union,175,35,60,3,2219,Keon Daniel,50413,1,0,55,1730,77,94,17,0,5
+623,30,0,3,Sporting Kansas City,3,8,46,14,710,Claudio Bieler,58963,0,0,87,540,10,15,7,0,5
+624,59,0,35,Portland Timbers,161,22,62,2,4621,Zarek Valentin,95236,0,0,16,3605,149,195,4,0,12
+625,3,0,0,Atlanta United FC,0,0,0,0,966,Alec Kann,156919,0,85,0,669,1,2,0,0,3
+626,188,0,5,New York City FC,144,132,125,73,3178,David Villa,17279,0,0,510,2227,54,70,30,0,15
+627,0,0,0,New York Red Bulls,0,0,1,0,39,Hassan Ndam,247041,0,0,0,26,2,2,0,0,0
+628,7,0,3,D.C. United,8,4,10,6,246,Hamdi Salihi,42242,0,0,33,173,5,6,2,0,3
+629,31,0,8,Seattle Sounders FC,90,27,32,1,1413,Kelvin Leerdam,58634,1,0,24,1020,40,53,3,0,5
+630,6,0,2,Montreal Impact,9,8,10,0,422,Ken Krolicki,234764,0,0,7,347,13,21,1,0,4
+631,53,0,8,Orlando City SC,15,45,100,43,1104,Cyle Larin,185126,1,0,192,810,20,28,2,0,1
+632,7,0,13,Chicago Fire,4,4,16,2,819,Arne Friedrich,13593,1,0,16,703,25,30,2,0,4
+633,0,0,0,Toronto FC,2,3,0,0,17,Mariano Miño,230687,0,0,0,14,0,0,0,0,0
+634,7,0,0,Orlando City SC,0,5,10,0,184,Richie Laryea,221403,0,0,6,159,11,12,1,0,4
+635,31,0,23,Seattle Sounders FC,125,41,149,1,4665,Leonardo Gonzalez Arce,75046,1,0,19,3390,250,306,8,0,18
+636,1,0,0,Real Salt Lake,1,0,1,0,16,Cody Arnoux,75047,0,0,1,11,0,0,0,0,0
+637,17,0,1,Atlanta United FC,38,5,14,3,614,Kevin Kratz,66857,0,0,15,511,24,36,1,0,1
+638,0,0,0,Orlando City SC,0,0,0,0,36,Josh Ford,95534,0,5,0,25,0,0,0,0,0
+639,14,0,5,Philadelphia Union,47,4,36,6,943,Gabriel Gómez,34100,0,0,30,701,26,35,7,0,5
+640,19,0,2,Columbus Crew SC,15,12,29,0,1199,Mohammed Abu,95545,0,0,9,1056,21,37,0,0,4
+641,39,0,18,Montreal Impact,212,54,119,0,3514,Shaun Francis,83260,0,0,37,2498,155,203,1,0,15
+642,36,0,1,LA Galaxy,21,6,35,1,1955,Pablo Mastroeni,13194,0,0,15,1659,33,45,12,0,7
+643,8,0,3,D.C. United,28,1,9,1,501,Austin Da Luz,83264,0,0,16,369,14,20,2,0,5
+644,45,0,17,Toronto FC,79,6,70,4,2199,Terry Dunfield,9539,0,0,39,1774,68,92,12,0,12
+645,9,0,2,Chicago Fire,8,18,9,1,223,Elliot Collier,423237,0,0,15,156,2,3,1,0,1
+646,9,0,0,FC Dallas,25,1,2,0,126,Bryan Leyva,83271,0,0,3,73,4,8,3,0,0
+647,13,0,2,Toronto FC,32,10,12,4,638,Andrew Wiedeman,83272,0,0,45,472,11,14,4,0,0
+648,7,0,0,Houston Dynamo,0,1,5,1,2535,Tyler Deric,83274,2,257,1,1164,4,5,0,0,6
+649,14,0,0,Columbus Crew SC,38,27,27,1,444,Cristian Martínez,226637,0,0,21,326,20,28,4,0,4
+650,21,0,4,Portland Timbers,89,6,11,0,1155,,17742,0,0,5,843,30,36,4,0,6
+651,3,0,3,Philadelphia Union,0,2,16,0,640,Stefani Miglioranzi,1360,0,0,8,502,30,34,1,0,2
+652,12,0,1,Colorado Rapids,19,24,25,2,254,Joshua Gatt,95571,0,0,17,165,19,24,1,0,3
+653,0,0,2,Houston Dynamo,0,0,0,0,22,Anthony Arena,152258,0,0,0,16,2,3,0,0,0
+654,7,0,21,Columbus Crew SC,3,13,51,2,2248,Jonathan Mensah,66905,2,0,31,1936,46,60,2,0,11
+655,18,0,4,LA Galaxy,27,26,13,2,1181,Jonathan dos Santos,76688,0,0,16,1035,26,41,8,0,6
+656,6,0,0,LA Galaxy,0,5,3,0,3642,Donovan Ricketts,17762,1,411,0,2049,5,7,0,0,4
+657,99,0,11,Vancouver Whitecaps FC,25,18,175,39,2738,Blas Pérez,34147,5,0,220,1841,68,78,43,0,20
+658,14,0,0,New England Revolution,13,11,14,2,504,,111979,1,0,27,387,16,21,7,0,1
+659,0,0,0,New England Revolution,0,0,3,0,47,,111980,0,0,0,29,2,2,0,0,1
+660,9,0,3,D.C. United,36,13,17,0,1004,Dennis Iapichino,120175,0,0,5,733,39,44,2,0,6
+661,8,0,23,Seattle Sounders FC,11,5,50,1,1820,Román Torres,34160,1,0,42,1382,51,63,0,0,9
+662,0,0,0,Columbus Crew SC,0,2,2,0,6,Romain Gall,193905,0,0,0,5,0,0,0,0,0
+663,19,0,99,Vancouver Whitecaps FC,5,5,167,13,3806,Kendall Waston,193906,5,0,110,2857,104,138,0,0,37
+664,52,0,1,Colorado Rapids,71,27,27,10,1004,Gabriel Torres,34164,0,0,83,736,28,34,4,0,3
+665,15,0,3,Toronto FC,15,17,18,14,455,Tosaint Antony Ricketts,62839,1,0,79,312,11,15,0,0,2
+666,3,0,0,Orlando City SC,0,1,3,0,4659,Joe Bendik,95611,1,533,0,2851,8,10,1,0,11
+667,0,0,0,Toronto FC,0,0,0,0,0,Demitrius Omphroy,95616,0,0,0,0,0,0,0,0,0
+668,0,0,0,Chicago Fire,4,0,0,0,27,,95627,0,0,0,21,0,0,0,0,0
+669,54,0,20,Toronto FC,307,44,100,1,3641,Ashtone Morgan,95630,2,0,21,2472,142,169,1,0,19
+670,9,0,0,Toronto FC,24,2,13,0,358,Matt Stinson,95631,0,0,12,253,11,14,1,0,1
+671,2,0,1,Toronto FC,1,3,6,0,40,Oscar Cordon,95632,0,0,3,33,5,5,0,0,1
+672,0,0,0,Toronto FC,4,1,0,0,13,Keith Makubuya,95633,0,0,2,10,1,1,0,0,0
+673,2,0,3,Philadelphia Union,3,14,16,0,369,Derrick Jones,230802,1,0,5,285,17,26,0,0,1
+674,0,0,1,Toronto FC,0,0,1,0,30,Matt Gold,95635,0,0,0,21,1,1,0,0,0
+675,0,0,4,San Jose Earthquakes,0,1,4,0,132,,46486,0,0,1,100,3,4,0,0,0
+676,5,0,8,Philadelphia Union,2,6,25,1,377,Aaron Wheeler,115610,0,0,14,270,18,24,0,0,1
+677,9,0,0,Colorado Rapids,26,15,11,0,213,Charles Eloundou,152990,0,0,35,122,9,10,1,0,2
+678,0,0,0,Sporting Kansas City,0,1,1,0,2895,Jimmy Nielsen,13731,1,247,0,1961,2,3,0,0,8
+679,25,0,18,Chivas USA,106,31,93,1,2474,Gabriel Farfan,95657,2,0,25,1813,88,110,11,0,11
+680,7,0,3,Real Salt Lake,10,5,3,0,295,Pablo Ruiz,218539,0,0,12,225,8,15,1,0,1
+681,5,0,2,FC Dallas,7,3,10,0,302,Bruno Guarda,54700,0,0,7,227,7,10,2,0,2
+682,1,0,0,San Jose Earthquakes,1,0,3,0,15,Matt Luzunaris,62365,0,0,1,11,0,0,0,0,0
+683,17,0,55,Orlando City SC,2,22,116,8,3737,Chris Schuler,83378,0,0,65,3038,137,174,2,0,17
+684,2,0,0,Montreal Impact,3,0,2,0,53,Miguel Montaño,83379,0,0,7,37,2,3,0,0,0
+685,19,0,0,New York City FC,19,30,16,5,467,Steven Mendoza,116152,0,0,46,345,32,39,1,0,1
+686,9,0,3,Chicago Fire,1,6,27,1,603,Khaly Thiam,198083,1,0,21,463,29,41,2,0,3
+687,10,0,3,Colorado Rapids,32,1,18,0,310,Johan Blomberg,107978,0,0,11,202,20,27,2,0,4
+688,5,0,12,D.C. United,2,6,18,0,420,Russell Canouse,209819,0,0,6,352,22,35,1,0,3
+689,0,0,0,Orlando City SC,0,1,2,0,6,Conor Donovan,202191,0,0,0,6,0,0,0,0,0
+690,1,0,18,Philadelphia Union,0,5,20,0,776,Joshua Yaro,202192,3,0,0,672,21,29,0,0,3
+691,0,0,2,Sporting Kansas City,1,0,6,0,150,Craig Rocastle,17873,0,0,2,117,14,17,1,0,0
+692,17,0,0,Minnesota United FC,13,15,41,8,406,Abu Danladi,202195,1,0,41,298,25,35,0,0,4
+693,27,0,4,Sporting Kansas City,62,44,12,6,562,Johnny Russell,42453,0,0,47,400,8,17,3,0,1
+694,0,0,8,Real Salt Lake,0,2,3,0,316,Nick Besler,202198,0,0,0,275,7,11,0,0,1
+695,0,0,0,FC Dallas,5,0,1,0,35,Coy Craft,193444,0,0,3,25,0,0,0,0,0
+696,90,0,22,FC Dallas,174,42,236,16,5130,Atiba Harris,36431,1,0,143,3633,187,236,11,0,32
+697,0,0,1,Real Salt Lake,1,3,3,0,125,Adam Henley,103903,0,0,1,91,4,6,0,0,1
+698,105,0,1,Chivas USA,224,38,42,3,2257,Martín Rivero,112099,0,0,83,1735,35,46,29,0,5
+699,48,0,3,Vancouver Whitecaps FC,27,46,89,12,1000,Raúl Octavio Rivero,153061,0,0,131,674,24,28,7,0,8
+700,29,0,24,FC Dallas,111,30,66,6,3682,Maynor Figueroa,34285,1,0,85,2722,110,169,3,0,20
+701,25,0,103,San Jose Earthquakes,27,44,192,11,5584,Víctor Bernárdez,34291,5,0,88,4263,293,349,1,0,35
+702,178,0,3,FC Dallas,256,120,102,19,2659,Michael Barrios,177653,0,0,179,1928,94,116,5,0,11
+703,72,0,1,Houston Dynamo,36,57,49,26,1363,Mauro Manotas,177658,0,0,173,1053,26,40,14,0,3
+704,4,0,0,New York City FC,21,3,3,0,129,,37802,0,0,5,79,2,4,2,0,0
+705,21,0,1,D.C. United,53,12,16,5,923,David Estrada,82704,0,0,39,703,25,30,6,0,1
+706,34,0,1,Los Angeles Football Club,74,38,7,7,595,Carlos Vela,38401,0,0,48,455,6,9,10,0,1
+707,12,0,0,Columbus Crew SC,4,2,7,0,241,Kristinn Steindórsson,62979,0,0,7,191,7,7,3,0,1
+708,10,0,2,Portland Timbers,34,12,13,2,293,Jack Barmby,112134,0,0,16,208,9,15,0,0,4
+709,64,0,3,Vancouver Whitecaps FC,130,28,35,2,1577,Davide Chiumiento,17930,0,0,42,1167,42,54,32,0,2
+710,31,0,0,New England Revolution,41,29,35,12,827,Krisztian Németh,42512,1,0,78,602,28,37,5,0,5
+711,3,0,12,New England Revolution,3,6,43,1,969,Benjamin Angoua,67100,0,0,11,812,21,39,0,0,6
+712,128,0,35,Montreal Impact,133,99,199,17,6544,Patrice Bernier,34336,1,0,104,5356,230,298,51,0,18
+713,0,0,0,Montreal Impact,0,0,1,0,351,,34338,0,31,0,233,1,1,0,0,1
+714,9,0,36,Atlanta United FC,3,55,74,1,3076,Leandro González Pirez,95780,2,0,25,2571,101,123,4,0,16
+715,6,0,2,D.C. United,5,7,6,1,325,Ulises Segura,210475,0,0,7,256,3,7,1,0,0
+716,2,0,0,LA Galaxy,10,5,3,1,139,Ariel Lassiter,210476,0,0,17,109,5,5,0,0,0
+717,6,0,12,Chivas USA,10,0,21,1,906,Michael Umana,34352,0,0,9,737,18,24,1,0,3
+718,0,0,0,Colorado Rapids,0,1,1,0,123,Zat Knight,1587,0,0,4,99,6,6,0,0,1
+719,0,0,12,Portland Timbers,0,2,3,1,308,Steven Taylor,17974,0,0,4,258,3,3,0,0,0
+720,48,0,8,Orlando City SC,18,57,176,5,3804,Cristian Higuita,149674,2,0,47,3295,213,270,5,0,33
+721,74,0,32,Portland Timbers,242,47,126,2,7212,Roy Miller,34361,1,0,52,5731,230,287,20,0,21
+722,0,0,0,Seattle Sounders FC,0,0,0,0,144,Marcus Hahnemann,5700,1,9,0,88,0,0,0,0,0
+723,2,0,0,Vancouver Whitecaps FC,0,2,6,0,149,Emmanuel Igiebor,61975,0,0,1,136,9,9,0,0,3
+724,1,0,0,Sporting Kansas City,0,0,0,0,266,Luis Marín,83530,0,19,0,199,0,0,0,0,1
+725,6,0,1,Colorado Rapids,1,4,19,1,384,Joseph Nane Fils Eone,82843,0,0,5,301,21,25,2,0,3
+726,29,0,5,Portland Timbers,103,8,48,1,1641,Vytautas Andriuskevicius,54862,0,0,14,1242,53,71,0,0,7
+727,16,0,3,LA Galaxy,13,14,15,11,415,Zlatan Ibrahimovic,9808,1,0,50,271,2,2,4,0,2
+728,0,0,3,Colorado Rapids,0,0,4,0,110,Diego Calderón,58961,0,0,0,87,2,4,0,0,0
+729,266,0,6,New York Red Bulls,593,137,118,50,4850,Thierry Henry,1619,2,0,371,3348,91,105,146,0,18
+730,5,0,18,Orlando City SC,1,12,34,1,1138,Jonathan Spector,18005,1,0,10,930,31,45,0,0,5
+731,30,0,0,LA Galaxy,139,17,22,3,755,Laurent Courtois,7097,0,0,48,536,20,26,4,0,1
+732,28,0,79,Los Angeles Football Club,16,33,127,6,5048,Laurent Ciman,42584,3,0,93,4085,169,209,3,0,20
+733,0,0,1,Philadelphia Union,0,0,0,0,24,Anderson Conceição Benedito,116314,0,0,1,16,1,1,0,0,0
+734,19,0,7,Vancouver Whitecaps FC,73,14,26,0,866,Jordan Smith,102671,1,0,6,587,42,57,0,0,3
+735,5,0,36,Vancouver Whitecaps FC,2,5,43,1,1398,Andy O'Brien,1629,0,0,9,1129,37,45,0,0,3
+736,64,0,17,Houston Dynamo,113,85,57,3,5290,DaMarcus Beasley,12875,1,0,38,4310,157,203,5,0,3
+737,17,0,2,Columbus Crew SC,49,10,15,1,890,Milton Valenzuela,222820,0,0,10,660,33,51,4,0,5
+738,2,0,0,Montreal Impact,4,1,9,0,244,Gorka Larrea,18058,0,0,5,199,8,12,0,0,2
+739,31,0,36,Colorado Rapids,24,25,160,0,4192,Micheal Azira,163042,1,0,44,3478,150,222,6,0,23
+740,6,0,1,D.C. United,9,12,9,0,231,Miguel Aguilar,202349,0,0,5,170,9,10,0,0,1
+741,7,0,61,New York Red Bulls,10,14,69,1,3616,Tim Parker,202356,0,0,44,2820,86,111,0,0,11
+742,10,0,0,Chicago Fire,28,13,25,3,432,Jason Johnson,133582,1,0,53,302,17,22,3,0,1
+743,1,0,0,Los Angeles Football Club,0,2,1,0,649,Tyler Miller,202361,0,73,0,450,1,1,0,0,2
+744,7,0,0,LA Galaxy,10,9,9,1,207,Ignacio Maganto,202364,0,0,8,144,8,10,0,0,0
+745,5,0,0,Houston Dynamo,11,1,5,1,131,Rob Lovejoy,202366,0,0,9,86,5,5,0,0,0
+746,0,0,1,San Jose Earthquakes,5,2,6,0,119,Kevin Partida,423553,1,0,1,88,5,7,0,0,1
+747,32,0,18,D.C. United,14,21,125,6,2096,Jared Jeffrey,54916,0,0,60,1707,104,155,3,0,15
+748,110,0,34,New England Revolution,32,165,323,9,7035,Gershon Koffie,92438,2,0,169,5748,313,385,52,0,42
+749,0,0,0,Chicago Fire,3,0,0,0,9,Collin Fernandez,194182,0,0,1,6,1,1,0,0,0
+750,2,0,0,Philadelphia Union,2,1,4,0,77,Adam Najem,247432,0,0,1,61,1,2,0,0,0
+751,11,0,18,D.C. United,55,20,48,0,1560,Oniel Fisher,202378,1,0,17,1221,52,67,2,0,9
+752,24,0,1,Real Salt Lake,40,22,29,2,597,Sebastián Saucedo,194187,1,0,69,466,36,50,4,0,3
+753,17,0,0,New York Red Bulls,22,8,29,10,369,Luke Rodgers,5774,0,0,51,261,5,5,14,0,7
+754,0,0,1,Columbus Crew SC,0,0,0,0,40,Sergio Campbell,202384,0,0,2,34,3,3,0,0,0
+755,6,0,0,Houston Dynamo,10,1,1,0,39,José Escalante,128665,0,0,4,24,3,3,0,0,0
+756,2,0,5,New York Red Bulls,6,7,6,1,349,Fidel Escobar,204399,0,0,10,252,12,15,0,0,2
+757,2,0,0,San Jose Earthquakes,4,1,9,1,59,Ellis McLoughlin,54940,0,0,7,42,1,1,1,0,0
+758,91,0,50,Vancouver Whitecaps FC,57,66,230,10,5599,Andrew Jacobson,49839,1,0,171,4212,233,313,22,0,25
+759,1,0,0,Houston Dynamo,0,0,1,0,11,Zach Steinberger,202401,0,0,1,7,0,0,0,0,0
+760,49,0,5,New York City FC,60,35,67,1,2444,Saad Abdul-Salaam,202402,0,0,32,1848,104,127,1,0,5
+761,9,0,6,Chivas USA,40,5,20,0,760,Akira Kaji,18085,0,0,0,591,21,26,0,0,1
+762,0,0,0,Sporting Kansas City,3,2,0,0,25,Cameron Porter,202406,0,0,2,14,1,1,0,0,0
+763,1,0,0,Orlando City SC,1,0,4,0,12,Martin Paterson,20081,0,0,1,9,0,0,0,0,1
+764,0,0,0,LA Galaxy,0,0,0,0,592,Carlo Cudicini,1708,0,42,0,381,0,1,0,0,2
+765,83,0,2,Philadelphia Union,218,43,55,6,1743,Tranquillo Barnetta,18094,0,0,81,1222,30,39,7,0,11
+766,77,0,34,Portland Timbers,379,158,113,5,4889,Alvas Powell,153264,1,0,69,3186,307,367,5,0,18
+767,14,0,2,Sporting Kansas City,11,13,38,0,814,Peterson Joseph,67250,1,0,14,660,36,53,11,0,10
+768,0,0,0,Real Salt Lake,1,2,1,0,32,Alfredo Ortuño,59059,0,0,0,19,0,0,0,0,0
+769,138,0,19,Houston Dynamo,276,121,166,13,4705,Alexandre Monteiro De Lima,108216,2,0,192,3614,211,269,36,0,21
+770,149,0,49,Vancouver Whitecaps FC,527,77,195,11,11113,Sean Franklin,50122,0,0,96,8485,276,369,11,0,23
+771,0,0,3,LA Galaxy,1,1,7,0,196,Hugo Arellano,176416,0,0,0,165,2,3,0,0,1
+772,62,0,0,San Jose Earthquakes,58,39,38,15,986,Danny Hoesen,54980,0,0,128,675,27,38,6,0,2
+773,1,0,4,Portland Timbers,0,3,6,1,218,Julio Cascante,181958,0,0,5,199,10,11,0,0,0
+774,47,0,6,FC Dallas,198,57,31,1,2131,Hernán Grana,57633,0,0,11,1556,60,78,0,0,9
+775,92,0,6,San Jose Earthquakes,151,84,81,19,3400,Simon Dawkins,48759,1,0,206,2809,51,66,18,0,7
+776,32,0,1,Chivas USA,106,41,14,1,676,Ryan Smith,18127,0,0,32,480,15,20,16,0,4
+777,4,0,2,D.C. United,10,2,3,0,263,Luke Mishu,202360,0,0,2,179,10,12,0,0,0
+778,1,0,1,New England Revolution,1,1,11,0,237,Kalifa Cissé,38612,0,0,2,199,4,7,1,0,2
+779,15,0,13,Atlanta United FC,8,1,59,2,1706,Carlos Carmona,50902,1,0,9,1522,52,68,1,0,8
+780,165,0,8,Vancouver Whitecaps FC,334,56,47,25,4349,Pedro Morales,50906,3,0,203,3312,63,85,41,0,12
+781,10,0,43,Philadelphia Union,8,12,87,3,3159,Carlos Valdés,83675,0,0,52,2451,126,168,5,0,14
+782,5,0,0,D.C. United,0,0,8,1,53,Alhaji Kamara,177888,0,0,8,43,1,1,0,0,0
+783,0,0,0,FC Dallas,0,0,0,0,5,Luis González,149219,0,0,0,2,0,0,0,0,0
+784,1,0,0,Chivas USA,2,0,0,0,38,Luis Bolaños,50917,0,0,2,31,0,0,0,0,0
+785,3,0,3,D.C. United,2,1,8,0,223,Júnior Moreno,149231,0,0,1,195,11,13,0,0,0
+786,1,0,0,Chicago Fire,8,2,3,0,152,Steven Kinney,83708,0,0,3,105,7,7,1,0,0
+787,4,0,3,Portland Timbers,4,6,26,1,340,George Fochive,177919,0,0,10,262,21,25,1,0,3
+788,1,0,15,New York City FC,0,4,10,1,578,Sebastien Ibeagha,131371,0,0,7,494,8,9,0,0,0
+789,10,0,0,Chivas USA,29,2,9,0,155,Cesar Romero,112389,0,0,5,104,5,6,0,0,1
+790,29,0,9,FC Dallas,31,4,74,3,1847,Julian de Guzmán,14086,0,0,48,1468,85,119,9,0,12
+791,56,0,12,Montreal Impact,193,57,69,0,2357,Daniel Lovitz,177928,2,0,21,1675,96,130,1,0,9
+792,68,0,14,New York City FC,72,24,80,14,2350,Thomas McNamara,177930,0,0,95,1868,71,99,5,0,17
+793,8,0,1,Sporting Kansas City,12,9,10,5,244,Felipe Gutiérrez,83725,0,0,19,190,16,22,4,0,0
+794,5,0,0,LA Galaxy,7,5,4,0,89,,116495,0,0,10,63,1,2,0,0,1
+795,1,0,1,Houston Dynamo,1,0,2,0,91,Keyner Brown Blackwood,182032,0,0,1,70,4,4,0,0,0
+796,13,0,4,Orlando City SC,6,9,23,4,395,Pedro Ribeiro,177938,0,0,34,262,14,18,7,0,1
+797,6,0,2,San Jose Earthquakes,4,0,16,2,146,Mark Sherrod,177941,1,0,13,101,7,7,2,0,2
+798,0,0,0,New York Red Bulls,0,0,0,0,0,Eric Stevenson,177942,0,0,0,0,0,0,0,0,0
+799,2,0,0,Chivas USA,6,3,1,1,46,Kristopher Tyrpak,177944,0,0,1,35,3,3,0,0,1
+800,0,0,0,Colorado Rapids,0,0,0,0,20,Grant Van de Casteele,177945,0,0,0,19,0,1,0,0,0
+801,9,0,0,Portland Timbers,2,5,10,1,104,Jeremy Ebobisse,235290,0,0,9,67,2,3,0,0,0
+802,99,0,11,FC Dallas,88,65,82,28,2257,Tesho Akindele,177947,1,0,133,1634,71,93,7,0,9
+803,0,0,0,FC Dallas,0,0,0,0,5,,227104,0,0,0,2,0,0,0,0,0
+804,67,0,12,Colorado Rapids,127,32,53,7,2395,Marlon Hairston,177954,0,0,48,1822,80,111,3,0,5
+805,4,0,13,Chicago Fire,2,0,34,3,763,Cory Gibbs,10022,1,0,21,604,19,24,1,0,7
+806,6,0,0,Atlanta United FC,0,2,4,2,116,Kenwyne Jones,18215,0,0,11,76,2,4,0,0,0
+807,5,0,1,New England Revolution,14,2,8,0,367,,1832,0,0,3,276,13,15,2,0,1
+808,25,0,0,New York City FC,46,17,7,8,475,Ismael Tajouri-Shradi,153390,0,0,18,375,9,9,0,0,1
+809,0,0,0,FC Dallas,0,1,1,0,1681,Jose Gonzalez,157489,0,183,0,1097,2,3,0,0,9
+810,4,0,1,Philadelphia Union,4,14,22,4,105,Cory Burke,227123,1,0,26,63,10,13,2,0,1
+811,0,0,0,Real Salt Lake,4,1,1,0,89,Reagan Dunk,234245,0,0,0,60,6,7,0,0,0
+812,13,0,5,Chicago Fire,2,0,31,0,533,Chris Ritter,177975,0,0,4,440,17,22,1,0,7
+813,156,0,10,Seattle Sounders FC,341,77,58,15,4061,Harry Shipp,177976,0,0,147,3088,81,110,34,0,6
+814,14,0,0,LA Galaxy,19,19,49,4,459,Bradford Jamieson,177978,0,0,15,340,23,30,1,0,4
+815,1,0,3,Portland Timbers,1,2,11,0,366,Mikael Silvestre,1851,0,0,2,293,4,9,0,0,2
+816,19,0,2,Real Salt Lake,57,28,41,4,889,Jordan Allen,177980,1,0,32,663,44,56,4,0,5
+817,1,0,0,Montreal Impact,2,0,0,0,28,,112266,0,0,0,20,0,0,0,0,0
+818,2,0,13,Houston Dynamo,1,0,26,0,825,A.J. Cochran,177983,1,0,10,625,24,27,1,0,3
+819,0,0,0,Colorado Rapids,0,0,0,0,152,John Berner,177987,0,5,0,90,0,0,0,0,0
+820,1,0,4,Toronto FC,1,0,13,0,300,Dicoy Williams,96069,0,0,4,219,10,15,0,0,1
+821,6,0,1,Real Salt Lake,14,5,13,1,219,Omar Holness,196738,0,0,10,160,5,7,0,0,2
+822,6,0,41,Philadelphia Union,1,7,59,4,2090,Richard Marquez,178000,1,0,23,1622,78,104,0,0,5
+823,16,0,2,New York City FC,28,6,10,0,576,,145235,0,0,8,437,25,29,0,0,0
+824,0,0,0,Seattle Sounders FC,0,0,1,0,11,Victor Mansaray,198286,0,0,0,7,1,1,0,0,0
+825,13,0,3,D.C. United,61,5,14,0,754,,38544,0,0,9,518,28,35,1,0,3
+826,0,0,0,LA Galaxy,1,0,4,0,114,Tomas Hilliard-Arce,197421,0,0,1,83,0,2,0,0,0
+827,20,0,3,Vancouver Whitecaps FC,37,3,9,1,425,Nizar Khalfan,83814,0,0,33,299,19,26,11,0,1
+828,84,0,16,Real Salt Lake,174,58,152,16,4402,Luke Mulholland,153453,1,0,158,3321,201,264,13,0,22
+829,0,0,0,FC Dallas,0,0,2,0,8,Bradlee Baladez,149358,0,0,0,4,0,0,0,0,0
+830,157,0,22,Columbus Crew SC,173,99,126,47,4019,Gyasi Zardes,149359,0,0,326,2913,100,121,11,0,9
+831,1,0,0,New York Red Bulls,1,0,1,0,11,,112498,0,0,0,9,0,0,1,0,0
+832,0,0,3,New York Red Bulls,0,0,3,0,138,,112501,0,0,2,113,3,3,0,0,1
+833,0,0,0,Columbus Crew SC,0,0,0,0,6,Ben Swanson,198529,0,0,0,6,0,1,0,0,0
+834,18,0,1,Sporting Kansas City,14,11,6,3,515,Cristian Lobato,90764,0,0,15,433,13,22,0,0,0
+835,11,0,0,Seattle Sounders FC,17,9,3,0,170,Henry Wingo,198532,0,0,6,134,7,10,0,0,1
+836,5,0,2,FC Dallas,0,0,13,1,359,Bobby Warshaw,95265,0,0,6,278,16,21,0,0,2
+837,0,0,0,Sporting Kansas City,1,0,1,0,21,Tyler Pasher,120713,0,0,0,18,0,0,0,0,0
+838,2,0,16,Minnesota United FC,1,3,24,2,1162,Brent Kallman,186250,0,0,12,956,32,40,0,0,7
+839,0,0,0,Chicago Fire,2,0,0,0,17,Robert Alexander Morrell,186252,0,0,2,10,1,2,0,0,0
+840,19,0,134,Portland Timbers,6,6,96,16,6517,Nat Borchers,42893,3,0,88,5618,149,201,1,0,6
+841,3,0,1,New York Red Bulls,3,1,12,0,265,Victor Pálsson,59278,1,0,3,201,15,20,0,0,3
+842,36,0,5,Columbus Crew SC,79,20,67,11,743,Emilio Rentería,18324,0,0,93,501,21,24,8,0,4
+843,42,0,4,Houston Dynamo,90,92,71,20,1000,Alberth Elis,173145,0,0,148,690,18,27,7,0,14
+844,17,0,0,Sporting Kansas City,57,39,26,2,1245,Igor de Carvalho Julião,116632,0,0,19,930,41,51,5,0,5
+845,2,0,2,Vancouver Whitecaps FC,0,1,3,0,100,Diego Martín Rodríguez Telechea,141209,0,0,1,71,2,3,0,0,2
+846,48,0,11,Orlando City SC,230,18,45,1,2813,Luke Boden,38814,1,0,10,2179,38,52,2,0,8
+847,22,0,12,Columbus Crew SC,35,48,68,1,2367,José Artur de Lima Junior,227232,0,0,46,2010,90,136,1,0,6
+848,0,0,0,Vancouver Whitecaps FC,0,0,0,0,4,Caleb Clarke,112545,0,0,0,2,0,0,0,0,0
+849,1,0,0,Seattle Sounders FC,0,0,0,1,984,Kasey Keller,6050,0,123,1,560,1,1,0,0,0
+850,1,0,0,Montreal Impact,1,0,3,0,15,Santiago González,168945,0,0,3,11,0,0,0,0,0
+851,33,0,25,San Jose Earthquakes,121,34,86,0,3211,Jordan Stewart,3740,0,0,30,2533,86,98,0,0,12
+852,6,0,18,Vancouver Whitecaps FC,0,19,54,1,1503,José Aja,201031,2,0,19,1207,62,80,0,0,13
+853,63,0,5,Vancouver Whitecaps FC,108,25,74,12,1487,Nicolás Mezquida,87984,0,0,117,1017,56,73,11,0,5
+854,16,0,0,Sporting Kansas City,20,28,16,1,492,Yohan Croizet,104369,0,0,35,399,15,18,2,0,1
+855,9,0,40,Chicago Fire,6,3,20,2,2198,Jonathan Campbell,133042,0,0,13,1805,63,81,2,0,4
+856,0,0,0,Real Salt Lake,2,0,0,0,57,Boyd Okwuonu,133043,0,0,0,43,7,9,0,0,0
+857,13,0,6,New York City FC,9,7,58,0,947,Miguel Lopez,133044,0,0,24,765,43,65,2,0,12
+858,51,0,5,D.C. United,59,24,114,23,1269,Patrick Mullins,116661,0,0,164,785,19,23,6,0,7
+859,18,0,34,New England Revolution,90,7,65,1,1880,London Woodberry,116662,0,0,10,1389,97,124,1,0,14
+860,7,0,6,New York City FC,10,6,36,1,919,John Stertzer,116663,0,0,14,753,40,48,1,0,7
+861,0,0,0,New York Red Bulls,0,0,1,0,0,Dan Metzger,116664,0,0,0,0,0,0,0,0,0
+862,2,0,1,FC Dallas,6,0,3,0,115,Danny Garcia,133049,0,0,2,86,5,7,6,0,0
+863,19,0,26,Sporting Kansas City,14,9,63,3,1947,Julio César Santos Correa,6075,1,0,29,1534,90,119,6,0,9
+864,3,0,6,Seattle Sounders FC,2,3,10,0,454,Kee-hee Kim,120764,0,0,4,377,12,16,0,0,2
+865,0,0,0,Seattle Sounders FC,1,1,2,0,16,Andy Craven,133053,0,0,2,12,1,1,0,0,1
+866,19,0,5,Colorado Rapids,76,14,33,0,1390,,112576,0,0,8,1103,55,69,1,0,2
+867,123,0,14,New England Revolution,76,120,263,42,3600,Juan Agudelo,83905,0,0,279,2772,150,190,17,0,16
+868,55,0,0,Portland Timbers,49,13,35,9,1090,Gastón Fernández,55627,0,0,62,862,29,30,12,0,3
+869,24,0,75,Portland Timbers,16,17,86,8,4035,Liam Ridgewell,14278,1,0,47,3146,56,72,2,0,23
+870,0,0,0,Real Salt Lake,0,0,0,0,1,Pedro Baez,227273,0,0,0,1,0,0,0,0,0
+871,89,0,1,Columbus Crew SC,83,31,155,29,1954,Conor Casey,10186,2,0,173,1245,18,24,17,0,17
+872,0,0,0,Seattle Sounders FC,1,0,0,0,20,Mike Seamon,83916,0,0,0,14,1,1,0,0,0
+873,1,0,0,Portland Timbers,0,0,2,1,1260,Adam Larsen Kwarasey,61988,0,109,1,765,1,1,0,0,1
+874,16,0,3,Vancouver Whitecaps FC,67,9,23,0,704,Fraser Aird,133078,1,0,5,494,33,45,2,0,4
+875,3,0,1,Chicago Fire,1,2,5,0,402,Egidio Arévalo Rios,59351,0,0,11,322,17,24,5,0,0
+876,42,0,9,Montreal Impact,71,24,81,1,2457,Hernán Bernardello,55578,0,0,25,1975,96,132,11,0,14
+877,219,0,5,D.C. United,672,184,208,48,4601,Fabian Espindola,47071,4,0,359,2962,90,109,47,0,28
+878,11,0,2,Chicago Fire,60,7,13,1,430,,157664,0,0,15,317,17,19,1,0,2
+879,27,0,1,Montreal Impact,15,7,34,15,658,Matteo Mancosu,153016,0,0,112,421,23,26,0,0,8
+880,0,0,0,Montreal Impact,0,0,1,0,81,Maxime Crépeau,153575,0,10,0,56,1,1,0,0,1
+881,4,0,39,Montreal Impact,2,5,47,2,1829,Wandrille Lefevre,153577,0,0,21,1450,63,76,2,0,7
+882,10,0,3,D.C. United,14,3,14,2,662,Rob Vincent,186346,0,0,21,513,16,23,0,0,6
+883,9,0,56,Colorado Rapids,0,0,81,3,2886,Axel Sjoberg,202407,2,0,36,2334,47,63,0,0,12
+884,0,0,0,Colorado Rapids,3,0,3,0,41,Davy Armstrong,95230,0,0,0,23,4,5,0,0,0
+885,5,0,6,Vancouver Whitecaps FC,29,4,18,0,605,Sam Adekugbe,169974,0,0,2,464,15,17,0,0,5
+886,29,0,3,New York City FC,11,11,21,15,1020,Frank Lampard,2051,0,0,64,796,16,20,3,0,4
+887,7,0,1,Sporting Kansas City,32,3,3,0,422,Mechack Jerome,112647,0,0,6,278,20,25,0,0,2
+888,35,0,0,Minnesota United FC,51,50,13,6,570,Darwin Quintero,59403,0,0,32,369,6,9,16,0,2
+889,0,0,0,Toronto FC,1,0,0,0,15,Efrain Burgos,112658,0,0,2,10,0,0,0,0,0
+890,9,0,70,New England Revolution,5,5,121,6,3652,A.J. Soares,95235,3,0,55,2718,112,141,2,0,15
+891,2,0,14,Colorado Rapids,0,5,14,1,421,Danny Wilson,60490,0,0,7,334,15,24,1,0,7
+892,238,0,4,LA Galaxy,170,137,93,92,4396,Robbie Keane,1710,0,0,455,3396,30,34,130,0,7
+893,78,0,23,FC Dallas,210,49,128,8,4261,Kellyn Acosta,149528,1,0,139,3265,180,246,13,0,16
+894,0,0,0,FC Dallas,0,0,5,0,95,Juan Esteban Ortiz,133145,0,0,0,83,4,7,0,0,2
+895,5,0,0,Sporting Kansas City,0,5,9,0,315,Jorge Claros,104475,0,0,1,270,13,18,1,0,1
+896,26,0,24,San Jose Earthquakes,117,60,16,3,1924,Nick Lima,174109,1,0,28,1440,50,76,3,0,2
+897,54,0,4,San Jose Earthquakes,81,55,37,1,1674,Tommy Thompson,178211,0,0,77,1345,47,66,5,0,4
+898,33,0,1,Columbus Crew SC,126,29,47,1,951,Pedro Miguel Martins Santos,92202,1,0,61,613,50,71,4,0,4
+899,174,0,11,Toronto FC,146,137,100,21,6055,Jonathan Osorio,153647,1,0,133,5227,129,180,25,0,9
+900,50,0,2,New York Red Bulls,50,38,40,17,1357,Saer Sene,68616,1,0,125,1003,33,38,17,0,2
+901,2,0,0,Minnesota United FC,7,3,1,0,48,Frantz Pangop,434529,0,0,1,35,0,1,0,0,0
+902,5,0,0,FC Dallas,2,2,14,0,267,Peter Luccin,6225,0,0,10,233,8,12,1,0,4
+903,17,0,2,Toronto FC,54,21,13,3,823,Nicolas Hasler,88147,0,0,19,632,23,31,1,0,1
+904,348,0,7,Vancouver Whitecaps FC,1086,96,120,15,5598,Mauro Rosales,18520,0,0,107,3720,159,211,71,0,12
+905,45,0,6,Vancouver Whitecaps FC,51,20,41,13,1024,Kenny Miller,4452,0,0,69,752,11,13,14,0,0
+906,7,0,1,Chicago Fire,6,7,10,0,125,Matthew Fondy,170075,0,0,17,81,4,6,1,0,1
+907,4,0,18,FC Dallas,5,1,10,2,876,Reto Ziegler,18529,2,0,7,712,7,13,2,0,2
+908,4,0,5,New York City FC,4,2,38,0,702,Federico Bravo,157797,1,0,8,546,37,52,0,0,9
+909,0,0,0,LA Galaxy,0,2,5,0,146,Jaime Villarreal,243939,0,0,2,107,4,6,0,0,1
+910,107,0,1,Montreal Impact,142,135,105,12,2442,Andrés Romero,55409,1,0,93,1817,126,145,23,0,17
+911,7,0,27,New England Revolution,2,5,51,2,1193,Antonio Mlinar Delamea,67704,2,0,15,1010,42,54,1,0,10
+912,5,0,7,Montreal Impact,32,6,24,0,525,Krzysztof Krol,71801,1,0,2,381,30,34,1,0,4
+913,4,0,6,Houston Dynamo,3,4,15,2,502,Alejandro Fuenmayor,196287,0,0,6,410,15,28,0,0,5
+914,2,0,8,Minnesota United FC,2,0,8,0,230,Joseph Greenspan,202876,1,0,1,183,4,7,0,0,2
+915,7,0,0,LA Galaxy,1,0,4,0,136,Rob Friend,39274,0,0,14,84,3,3,1,0,0
+916,68,0,6,Seattle Sounders FC,223,21,26,6,1408,Andreas Ivanschitz,18560,0,0,50,953,21,30,4,0,7
+917,43,0,2,Portland Timbers,101,54,35,1,856,Franck Songo'o,26754,0,0,47,617,27,37,13,0,7
+918,32,0,18,New York Red Bulls,30,2,68,0,2700,Teemu Tainio,6278,1,0,32,2191,92,123,16,0,9
+919,0,0,0,Colorado Rapids,0,1,5,1,17,Niki Jackson,249537,0,0,3,5,0,1,0,0,1
+920,1,0,0,Real Salt Lake,0,1,2,0,26,David Viana,133258,0,0,1,23,0,0,0,0,0
+921,11,0,0,D.C. United,3,6,11,2,194,Long Tan,95255,0,0,25,146,5,5,1,0,0
+922,2,0,1,New York City FC,2,0,9,0,181,,112786,0,0,0,136,9,12,1,0,0
+923,5,0,0,Vancouver Whitecaps FC,10,5,1,0,145,Brett Levis,231573,0,0,0,108,7,10,0,0,0
+924,2,0,5,Colorado Rapids,0,2,9,0,249,Germán Mera,149655,0,0,7,197,10,15,0,0,3
+925,2,0,0,Seattle Sounders FC,16,6,16,0,359,Alex Roldan,423568,0,0,10,278,21,34,0,0,1
+926,20,0,34,New England Revolution,6,6,59,2,2078,Stephen McCarthy,95258,1,0,27,1615,78,105,2,0,8
+927,4,0,0,Toronto FC,1,0,3,0,89,Ben Spencer,170148,0,0,11,62,0,0,0,0,0
+928,13,0,12,Houston Dynamo,1,10,70,1,1260,Juan Cabezas,149669,0,0,23,1078,96,126,1,0,7
+929,2,0,6,Real Salt Lake,1,1,27,0,475,Elias Vasquez Prera,100518,0,0,3,379,25,30,0,0,3
+930,5,0,0,FC Dallas,9,1,3,0,98,Carlos Lizarazo,149671,0,0,6,81,1,5,0,0,0
+931,10,0,58,D.C. United,7,2,52,4,3235,Frederic Brillant,121000,0,0,36,2689,72,106,1,0,7
+932,0,0,0,New York Red Bulls,0,0,0,0,0,Mike Jones,95260,0,0,0,0,0,0,0,0,0
+933,18,0,1,San Jose Earthquakes,18,8,3,0,463,Tressor Moreno,10410,0,0,3,371,6,9,8,0,1
+934,24,0,0,New York Red Bulls,59,8,14,0,696,Antônio Augusto Ribeiro Reis Junior,10411,1,0,19,542,19,26,9,0,5
+935,113,0,10,Toronto FC,314,191,205,16,3378,Jackson Goncalves,88236,4,0,255,2220,202,252,26,0,24
+936,8,0,1,FC Dallas,4,4,14,2,119,Ruben Luna,88237,0,0,14,88,3,3,2,0,1
+937,25,0,15,Chivas USA,24,31,117,2,2311,Tilson Oswaldo Minda,83409,1,0,28,1952,103,119,7,0,31
+938,6,0,0,Portland Timbers,24,5,9,0,241,Michael Nanchoff,95262,0,0,9,180,9,12,1,0,1
+939,1,0,0,Toronto FC,0,0,1,0,10,Kyle Davies,55478,0,0,0,8,0,0,0,0,0
+940,43,0,31,LA Galaxy,84,47,65,3,3414,Ashley Cole,3785,4,0,24,2862,93,146,5,0,10
+941,40,0,0,San Jose Earthquakes,91,45,25,3,1152,Alberto Quintero,75960,1,0,28,885,39,52,4,0,4
+942,22,0,62,New England Revolution,30,37,146,7,5295,José Gonçalves,26815,2,0,33,4058,159,192,1,0,14
+943,181,0,4,Colorado Rapids,515,114,141,26,5238,Marco Pappa,55495,0,0,302,3826,171,210,50,0,15
+944,2,0,12,LA Galaxy,0,4,37,0,840,David Junior Lopes,51404,2,0,18,649,41,50,0,0,6
+945,11,0,1,Portland Timbers,20,14,21,2,259,Frédéric Piquionne,10445,0,0,32,162,6,8,1,0,0
+946,3,0,0,FC Dallas,11,5,2,0,106,Paxton Pomykal,224377,0,0,1,82,8,10,0,0,0
+947,21,0,0,Columbus Crew SC,16,12,19,13,498,Andres Mendoza,14545,0,0,77,363,3,4,12,0,1
+948,55,0,6,Real Salt Lake,130,41,28,3,1781,Brooks Lennon,178386,0,0,25,1399,36,52,2,0,5
+949,3,0,1,Chicago Fire,5,1,5,0,226,,14548,0,0,0,166,11,14,2,0,1
+950,0,0,0,Real Salt Lake,0,0,0,0,3,Aaron Herrera,248022,0,0,0,3,0,0,0,0,0
+951,100,0,46,D.C. United,396,74,108,4,5288,Taylor Kemp,116656,0,0,52,3485,159,212,3,0,13
+952,2,0,1,Chicago Fire,1,1,3,0,104,David Arshakyan,164219,0,0,11,74,2,2,0,0,1
+953,12,0,1,Houston Dynamo,25,6,7,3,274,José Rodríguez,198884,0,0,17,218,8,11,1,0,0
+954,7,0,0,Sporting Kansas City,6,6,5,0,192,Alex Martinez,141541,0,0,8,148,8,10,3,0,0
+955,25,0,15,D.C. United,65,7,35,1,2137,Robbie Russell,18662,0,0,19,1641,60,83,3,0,4
+956,2,0,2,Minnesota United FC,23,10,4,0,301,Kevin Venegas,116971,0,0,0,217,11,18,0,0,0
+957,0,0,0,Real Salt Lake,0,0,0,0,183,Matt Van Oekel,116973,0,25,0,104,1,1,0,0,0
+958,7,0,4,FC Dallas,30,11,24,1,560,Carlos Rodríguez,104686,0,0,14,409,22,28,2,0,1
+959,0,0,0,D.C. United,0,0,0,0,89,,4477,0,8,0,46,0,0,0,0,1
+960,38,0,38,New York Red Bulls,135,28,125,1,3582,Richard Eckersley,43248,0,0,27,2649,197,234,3,0,18
+961,190,0,14,Seattle Sounders FC,97,76,173,74,4257,Will Bruin,95272,0,0,518,3032,81,94,22,0,10
+962,17,0,2,Real Salt Lake,24,6,33,5,461,Sebastián Jaime,137460,1,0,28,330,20,24,1,0,2
+963,54,0,44,Philadelphia Union,193,138,127,1,6989,Raymon Gaddis,110974,0,0,30,5455,351,438,2,0,21
+964,55,0,4,FC Dallas,49,59,33,18,1144,Roland Lamah,18681,0,0,64,833,24,34,11,0,5
+965,8,0,0,D.C. United,14,4,4,0,216,Marcos Sanchez Mullins,104699,0,0,6,169,5,6,2,0,0
+966,14,0,60,New York City FC,27,13,74,1,3265,Ethan White,95274,1,0,16,2418,126,166,2,0,14
+967,1,0,0,Seattle Sounders FC,10,17,3,1,156,Handwalla Bwana,243974,0,0,9,112,4,7,0,0,0
+968,33,0,3,New York City FC,40,43,35,2,1154,Sebastian Velasquez,110977,0,0,46,957,56,66,7,0,0
+969,1,0,0,Seattle Sounders FC,1,0,3,0,18,Seyi Adekoya,198920,0,0,3,15,0,0,0,0,1
+970,2,0,0,LA Galaxy,0,1,5,0,4801,Dan Kennedy,50220,2,456,1,2963,0,0,0,0,11
+971,3,0,0,Real Salt Lake,2,1,5,1,86,José Hernández,243978,0,0,3,71,4,5,1,0,1
+972,5,0,0,Philadelphia Union,19,9,22,3,507,Zach Pfeffer,92428,1,0,32,419,11,15,1,0,0
+973,78,0,6,Portland Timbers,154,60,61,5,2487,Kalif Alhassan,92429,1,0,129,1888,90,108,47,0,7
+974,11,0,46,Montreal Impact,1,6,50,7,1744,Mamadou Danso,92430,1,0,43,1383,77,99,1,0,5
+975,10,0,1,Toronto FC,13,7,34,7,316,Bright Dike,92431,0,0,40,196,9,12,1,0,3
+976,11,0,7,FC Dallas,4,4,30,0,856,James Marcelin,92432,0,0,11,679,49,66,3,0,5
+977,93,0,0,LA Galaxy,341,52,65,18,1554,Romain Alessandrini,86140,0,0,133,977,53,72,11,0,11
+978,6,0,3,Vancouver Whitecaps FC,26,2,8,0,385,,92434,0,0,5,281,24,26,1,0,0
+979,0,0,5,Vancouver Whitecaps FC,0,1,7,0,174,,92435,0,0,1,116,10,14,0,0,2
+980,102,0,16,Vancouver Whitecaps FC,259,21,116,2,3987,Russell Teibert,92437,0,0,60,3239,154,192,18,0,14
+981,7,0,1,Toronto FC,6,15,6,0,267,,80150,0,0,11,218,10,11,4,0,1
+982,31,0,0,D.C. United,122,17,24,3,677,Kyle Porter,92442,0,0,44,448,40,49,2,0,3
+983,3,0,0,New York Red Bulls,4,1,8,0,284,Stephane Auvray,51483,0,0,7,246,8,11,0,0,0
+984,0,0,1,LA Galaxy,1,1,1,0,84,Emrah Klimenta,186074,0,0,0,66,4,5,0,0,0
+985,3,0,2,New England Revolution,23,0,1,0,164,Donald Smith,151941,0,0,1,108,8,8,0,0,0
+986,8,0,2,FC Dallas,6,2,11,2,285,Scott Sealy,35109,0,0,19,226,14,21,1,0,0
+987,53,0,11,San Jose Earthquakes,41,20,107,10,2563,Khari Stephenson,37255,0,0,170,2013,159,196,16,0,8
+988,533,0,5,FC Dallas,1079,163,232,37,11529,Javier Morales,47407,1,0,262,9144,159,198,122,0,30
+989,32,0,1,D.C. United,89,15,25,2,1013,Branko Boskovic,6448,1,0,37,780,23,28,5,0,1
+990,0,0,0,San Jose Earthquakes,1,0,1,0,20,Joel Qwiberg,186679,0,0,0,12,1,1,0,0,0
+991,4,0,12,LA Galaxy,1,15,23,0,774,Jorgen Skjelvik,63800,0,0,4,620,17,29,2,0,3
+992,31,0,15,Vancouver Whitecaps FC,120,19,35,2,1532,Marcel de Jong,39226,0,0,33,1054,88,124,4,0,5
+993,15,0,48,Vancouver Whitecaps FC,5,15,87,4,2756,Pa Modou Kah,39228,1,0,24,2068,84,106,2,0,23
+994,58,0,36,Chicago Fire,269,36,108,2,5291,Lovel Palmer,37258,3,0,120,3808,126,154,8,0,24
+995,1,0,0,Real Salt Lake,1,0,0,0,3,Chris Agorsor,95285,0,0,0,2,0,0,0,0,0
+996,39,0,1,Colorado Rapids,135,13,18,6,997,Jamie Smith,2379,0,0,44,702,24,32,13,0,0
+997,59,0,12,Montreal Impact,92,93,133,1,3662,Nigel Reo-Coker,14668,1,0,29,2994,182,217,15,0,19
+998,148,0,16,New York Red Bulls,74,104,233,106,3205,Bradley Wright-Phillips,18770,0,0,503,2215,95,123,18,0,22
+999,1,0,0,Minnesota United FC,1,0,0,0,5,José Leitón,231772,0,0,0,4,0,0,0,0,0
+1000,0,0,0,Atlanta United FC,0,0,0,0,3,Andrew Wheeler-Omiunu,225851,0,0,0,2,0,0,0,0,0
+1001,37,0,6,Toronto FC,29,26,31,3,1040,Jay Chapman,112998,0,0,36,816,44,63,5,0,2
+1002,4,0,15,Toronto FC,11,3,31,0,633,Logan Emory,112999,2,0,10,406,47,51,0,0,2
+1003,21,0,0,Toronto FC,12,11,18,7,432,Jordan Hamilton,113002,0,0,44,298,6,10,0,0,1
+1004,144,0,35,Orlando City SC,301,56,169,28,8689,Will Johnson,39276,3,0,306,7091,349,455,23,0,34
+1005,84,0,27,New England Revolution,144,116,171,9,5654,Je-Vaughn Watson,96621,7,0,109,4291,203,266,23,0,26
+1006,187,0,84,Portland Timbers,108,121,548,8,10623,Diego Chara,96622,4,0,81,9072,673,830,67,0,68
+1007,10,0,1,FC Dallas,4,12,21,4,285,Cristian Colmán,197011,1,0,55,167,4,8,1,0,1
+1008,0,0,0,New England Revolution,1,0,1,0,9,,10614,0,0,0,5,0,0,0,0,0
+1009,4,0,1,Portland Timbers,1,0,4,1,81,Eddie Johnson,18807,0,0,7,62,3,4,0,0,1
+1010,2,0,18,Philadelphia Union,6,8,22,0,902,Auston Trusty,201410,0,0,7,693,20,27,0,0,2
+1011,15,0,1,San Jose Earthquakes,26,4,15,2,465,Wálter Julián Martínez Ramos,59782,0,0,16,338,12,19,5,0,1
+1012,8,0,6,New England Revolution,5,7,34,0,565,Luis Caicedo,219527,0,0,16,454,34,47,0,0,5
+1013,2,0,0,Houston Dynamo,1,2,3,1,70,,14728,0,0,7,51,1,2,1,0,0
+1014,23,0,0,Sporting Kansas City,62,11,8,0,640,Connor Hallisey,129417,0,0,26,458,11,17,2,0,0
+1015,0,0,0,New York Red Bulls,0,0,0,0,31,Alex Horwath,88460,0,4,0,15,0,0,0,0,0
+1016,34,0,2,Columbus Crew SC,91,22,6,2,697,Ben Speas,113039,0,0,44,483,19,24,11,0,0
+1017,0,0,0,Philadelphia Union,0,0,0,0,14,Christian Hernandez,113041,0,0,1,10,1,1,0,0,0
+1018,7,0,1,Houston Dynamo,9,2,11,2,239,Carlos Costly,59794,1,0,25,153,3,3,1,0,2
+1019,18,0,5,Los Angeles Football Club,4,32,22,2,797,Mark-Anthony Kaye,227731,0,0,28,678,35,55,8,0,3
+1020,1,0,0,Real Salt Lake,10,0,3,0,182,Terukazu Tanaka,113045,0,0,0,145,6,6,0,0,0
+1021,29,0,69,D.C. United,10,6,139,7,3794,Steve Birnbaum,129430,0,0,98,2891,89,120,0,0,13
+1022,6,0,4,Chicago Fire,6,1,11,0,578,Christian Dean,129440,0,0,2,432,21,26,0,0,2
+1023,0,0,0,New York Red Bulls,0,0,0,0,1,Stefano Bonomo,129443,0,0,0,1,0,0,0,0,0
+1024,5,0,0,New England Revolution,22,0,5,1,91,,46150,0,0,10,53,2,2,0,0,1
+1025,0,0,0,New England Revolution,0,0,2,1,16,,59814,0,0,1,14,0,1,0,0,1
+1026,99,0,5,New York Red Bulls,298,34,63,3,2987,Bobby Convey,18856,0,0,44,2239,72,82,15,0,10
+1027,32,0,6,Toronto FC,51,59,59,4,2527,Benoit Cheyrou,6571,1,0,61,2003,73,93,5,0,8
+1028,1,0,1,Colorado Rapids,4,3,14,1,133,Caleb Calvert,166317,1,0,16,88,6,9,0,0,3
+1029,26,0,1,D.C. United,63,12,25,1,469,Julian Buescher,108975,0,0,14,328,20,28,0,0,3
+1030,28,0,5,Chicago Fire,10,15,17,6,629,Diego Cháves,72112,0,0,49,460,8,10,13,0,5
+1031,0,0,8,San Jose Earthquakes,0,3,10,0,466,Francois Affolter,27058,0,0,3,388,14,21,0,0,3
+1032,4,0,11,Chivas USA,28,1,21,0,727,Steve Purdy,48883,0,0,8,506,19,21,2,0,4
+1033,9,0,0,Seattle Sounders FC,8,4,11,3,242,Samuel Ochoa,72117,0,0,22,172,2,3,1,0,0
+1034,16,0,4,LA Galaxy,28,1,27,1,624,Kyle Nakazawa,82463,0,0,18,462,29,40,5,0,1
+1035,1,0,1,Colorado Rapids,13,0,9,0,172,Dennis Castillo,133561,0,0,1,121,10,11,0,0,2
+1036,30,0,0,Chicago Fire,16,22,26,4,462,Sherjill MacDonald,17482,0,0,45,320,12,13,3,0,2
+1037,0,0,0,New England Revolution,1,1,2,0,15,,51651,0,0,1,10,0,0,0,0,0
+1038,1,0,1,Montreal Impact,1,5,3,0,42,David Choinière,227780,0,0,2,32,3,4,1,0,0
+1039,0,0,0,Vancouver Whitecaps FC,0,0,0,0,9,Etienne Barbara,35270,0,0,0,4,0,0,0,0,1
+1040,71,0,6,Columbus Crew SC,92,87,80,17,2562,Mike Grella,59848,0,0,111,1928,76,105,8,0,10
+1041,7,0,73,Vancouver Whitecaps FC,1,2,56,1,1911,Jay DeMerit,18889,0,0,21,1554,102,126,1,0,9
+1042,0,0,0,Houston Dynamo,1,1,0,0,25,Yair Arboleda,203210,0,0,1,17,0,1,0,0,0
+1043,5,0,0,Orlando City SC,0,1,5,0,5557,Tally Hall,51660,0,496,0,3267,0,1,0,0,6
+1044,62,0,2,LA Galaxy,28,29,74,42,1316,Ola Kamara,55758,0,0,211,963,22,35,5,0,2
+1045,1,0,0,Sporting Kansas City,2,0,1,0,14,Kharlton Belmar,133584,0,0,2,9,0,0,0,0,0
+1046,4,0,0,Philadelphia Union,3,1,4,1,53,Anthony Fontana,201397,0,0,5,37,0,0,0,0,0
+1047,6,0,3,San Jose Earthquakes,7,8,27,0,310,Marc Pelosi,109010,0,0,9,250,28,33,0,0,6
+1048,4,0,16,Columbus Crew SC,2,1,13,0,797,Emanuel Pogatetz,10709,0,0,4,668,14,20,2,0,3
+1049,64,0,8,LA Galaxy,191,94,44,10,2944,Sebastian Lletget,88534,0,0,82,2449,66,97,4,0,2
+1050,5,0,0,Colorado Rapids,6,6,1,0,95,,59864,0,0,3,65,1,2,1,0,1
+1051,0,0,0,Colorado Rapids,0,0,0,0,9,Eddie Ababio,96732,0,0,0,3,1,1,0,0,0
+1052,1,0,0,D.C. United,0,4,4,0,60,Facundo Coria,55777,0,0,4,45,4,4,0,0,1
+1053,8,0,0,Montreal Impact,5,1,14,4,216,Bernardo Corradi,10726,0,0,13,124,5,7,3,0,3
+1054,0,0,0,New England Revolution,0,0,0,0,1,Ryan Kinne,95314,0,0,0,1,0,0,0,0,0
+1055,3,0,17,Portland Timbers,0,5,24,0,606,Norberto Paparatto,55790,0,0,19,447,26,28,0,0,7
+1056,2,0,0,Seattle Sounders FC,7,1,4,0,49,,51697,0,0,0,30,1,1,0,0,1
+1057,82,0,13,Seattle Sounders FC,368,39,105,0,4277,Waylon Francis,121332,1,0,40,3159,203,241,4,0,13
+1058,148,0,2,Real Salt Lake,280,53,36,12,2201,Albert Rusnák,84481,0,0,128,1711,21,36,7,0,2
+1059,19,0,0,Montreal Impact,36,2,12,1,275,Andrea Pisanu,10756,0,0,10,189,4,5,6,0,2
+1060,59,0,5,New York Red Bulls,215,28,83,8,2195,Jonathan Steele,113158,0,0,84,1548,102,125,19,0,12
+1061,5,0,0,Toronto FC,25,9,4,0,196,,48897,0,0,5,140,5,6,0,0,0
+1062,455,0,11,Portland Timbers,1042,138,165,66,8313,Diego Valeri,55817,1,0,511,5837,176,222,115,0,24
+1063,8,0,3,Chivas USA,5,8,36,1,685,Agustín Pelletieri,55819,1,0,10,559,53,64,3,0,4
+1064,81,0,2,Portland Timbers,153,84,79,13,2205,Sebastián Blanco,55820,1,0,120,1618,48,67,13,0,10
+1065,8,0,0,Chivas USA,28,3,10,1,329,Mariano Trujillo,43533,0,0,5,266,10,11,1,0,2
+1066,5,0,2,Montreal Impact,1,2,11,0,177,Louis Beland-Goyette,197038,0,0,0,133,7,11,2,0,3
+1067,34,0,2,Philadelphia Union,80,47,26,10,806,Fabrice-Jean Picault,196762,0,0,76,515,30,43,0,0,4
+1068,140,0,2,New York City FC,219,42,61,12,3296,Maximiliano Morález,55831,0,0,88,2596,72,115,17,0,11
+1069,31,0,1,Chicago Fire,75,12,11,3,599,John Goossens,59929,0,0,34,421,9,12,0,0,1
+1070,0,0,0,Portland Timbers,0,0,1,0,1,Harold Hanson,248347,0,0,0,1,0,0,0,0,0
+1071,37,0,13,New York Red Bulls,102,10,43,0,2300,Rafael Márquez,6685,2,0,30,1843,72,80,11,0,10
+1072,1,0,1,New England Revolution,0,0,1,0,90,,6688,0,0,0,68,5,5,2,0,0
+1073,33,0,0,Atlanta United FC,36,28,4,4,683,Ezequiel Barco,231969,0,0,18,562,9,11,5,0,1
+1074,1,0,0,Toronto FC,2,1,0,0,9,Ayo Akinola,215474,0,0,0,7,0,0,0,0,0
+1075,0,0,0,Toronto FC,3,0,2,0,55,Jonas Elmer,43566,0,0,1,30,1,3,0,0,0
+1076,0,0,0,Sporting Kansas City,0,0,0,0,12,Éver Alvarado,105009,0,0,0,11,0,0,0,0,0
+1077,14,0,6,Seattle Sounders FC,69,4,37,0,1288,Adam Johansson,51770,0,0,0,964,42,52,1,0,1
+1078,0,0,15,Columbus Crew SC,0,7,15,1,734,Giancarlo Gonzalez,105021,0,0,9,616,30,40,0,0,3
+1079,21,0,18,Seattle Sounders FC,14,11,48,3,2147,Gustav Svensson,51774,0,0,26,1850,89,132,1,0,2
+1080,0,0,0,New York City FC,2,4,4,1,86,Miguel Camargo,194997,0,0,3,59,1,5,0,0,1
+1081,0,0,4,Philadelphia Union,9,2,4,0,189,,105024,0,0,0,132,3,5,0,0,0
+1082,515,0,2,Columbus Crew SC,1011,123,136,55,10467,Federico Higuaín,47681,3,0,417,7949,117,143,154,0,29
+1083,1,0,7,Philadelphia Union,0,9,12,0,475,Mark McKenzie,201401,0,0,3,423,14,16,0,0,3
+1084,4,0,0,Vancouver Whitecaps FC,5,1,5,0,137,Mustapha Jarju,51788,0,0,14,95,3,3,2,0,0
+1085,6,0,0,Portland Timbers,2,6,1,0,255,Andy Polo,179298,0,0,7,224,7,8,0,0,1
+1086,1,0,21,Orlando City SC,3,1,30,0,1296,David Mateos,59982,1,0,10,1083,29,41,0,0,8
+1087,6,0,2,Chicago Fire,22,6,9,0,515,Jorge Corrales,117330,0,0,4,422,20,26,0,0,3
+1088,4,0,5,Colorado Rapids,29,0,18,0,633,,43604,1,0,4,446,21,25,1,0,4
+1089,101,0,0,Seattle Sounders FC,85,63,68,40,2720,Obafemi Martins,14934,3,0,175,1981,43,50,41,0,6
+1090,6,0,5,New England Revolution,3,9,27,1,529,Xavier Kouassi,100961,2,0,5,456,23,32,0,0,3
+1091,12,0,4,San Jose Earthquakes,23,0,8,0,629,Chris Leitch,15463,0,0,1,446,24,30,1,0,3
+1092,0,0,0,Philadelphia Union,0,0,0,0,19,Chase Harrison,106883,0,2,0,12,0,0,0,0,1
+1093,48,0,2,Orlando City SC,102,16,23,2,2417,Lewis Neal,10870,0,0,38,2003,58,70,7,0,6
+1094,23,0,10,Montreal Impact,4,15,42,0,1686,Samuel Piette,182906,0,0,9,1475,62,91,1,0,7
+1095,2,0,0,Philadelphia Union,0,1,0,0,936,Faryd Mondragón,10875,0,59,0,532,0,0,0,0,1
+1096,2,0,8,D.C. United,0,0,10,0,472,Emiliano Dudar,60031,1,0,4,353,16,20,0,0,3
+1097,27,0,18,Minnesota United FC,127,25,39,2,2519,Jerome Thiesson,60032,0,0,12,1935,70,103,0,0,6
+1098,60,0,14,LA Galaxy,103,14,33,6,1700,Steven Gerrard,1814,0,0,65,1341,27,46,11,0,2
+1099,17,0,1,Toronto FC,59,11,13,2,353,Javier Martina,27270,0,0,15,227,9,10,5,0,3
+1100,1,0,0,Sporting Kansas City,2,0,1,0,20,Kévin Renato Fortes Oliveira,244359,0,0,1,16,0,1,0,0,0
+1101,8,0,15,Colorado Rapids,3,11,20,2,617,Tommy Smith,45099,0,0,20,466,16,24,1,0,2
+1102,11,0,1,Columbus Crew SC,5,1,32,1,478,,55957,0,0,6,375,27,32,3,0,5
+1103,56,0,86,Minnesota United FC,94,19,129,3,6299,Jermaine Taylor,35268,2,0,58,5108,186,240,7,0,20
+1104,132,0,8,LA Galaxy,634,16,68,9,3913,David Beckham,1818,0,0,84,2577,49,69,47,0,19
+1105,6,0,13,Toronto FC,6,13,36,0,1598,Chris Mavinga,68259,0,0,12,1321,49,60,1,0,3
+1106,37,0,8,Real Salt Lake,47,81,32,8,1638,Juan Manuel Martínez,55972,0,0,56,1242,53,71,3,0,3
+1107,38,0,2,New York Red Bulls,31,27,28,9,1029,Péguy Luyindula,6829,0,0,53,784,19,22,19,0,3
+1108,0,0,0,Minnesota United FC,0,0,7,0,45,Luiz Fernando Ferreira Maximiniano,203996,1,0,2,37,3,6,0,0,3
+1109,0,0,0,FC Dallas,0,0,0,1,1,Jesús Ferreira,224372,0,0,1,0,0,0,0,0,0
+1110,14,0,9,Seattle Sounders FC,94,39,30,0,1591,Nouhou Tolo,244410,1,0,15,1242,52,86,0,0,9
+1111,55,0,1,Houston Dynamo,90,45,29,6,1059,Tomás Martínez,153399,1,0,60,819,38,49,10,0,7
+1112,0,0,0,Chivas USA,0,0,0,0,7,,76477,0,0,1,5,1,1,0,0,0
+1113,45,0,4,Chicago Fire,23,40,69,17,1238,Maicon dos Santos Correa,76479,0,0,181,849,31,41,25,0,5
+1114,3,0,1,Philadelphia Union,11,0,5,0,146,Matthew Real,201405,0,0,1,107,2,3,0,0,1
+1115,117,0,7,Vancouver Whitecaps FC,446,77,64,22,2259,Cristian Techera,152577,1,0,166,1441,73,98,4,0,11
+1116,136,0,8,Toronto FC,181,69,128,27,3402,Dwayne De Rosario,15046,0,0,273,2510,57,66,57,0,10
+1117,7,0,54,Los Angeles Football Club,2,21,62,1,2403,Dejan Jakovic,60536,2,0,9,2027,99,128,1,0,10
+1118,47,0,4,Real Salt Lake,151,46,109,11,1415,Olmes García,150229,0,0,118,949,80,93,6,0,15
+1119,4,0,0,New York Red Bulls,2,6,22,5,177,Anatole Bertrand Abang,203478,0,0,20,101,2,2,0,0,1
+1120,1,0,0,Vancouver Whitecaps FC,1,0,3,0,27,Ben McKendry,203479,0,0,0,16,1,2,0,0,0
+1121,9,0,1,Philadelphia Union,50,19,19,2,434,Eric Ayuk,203480,1,0,17,297,31,35,1,0,3
+1122,3,0,0,Montreal Impact,0,1,4,0,4411,Evan Bush,109275,1,465,0,2833,4,5,0,0,12
+1123,0,0,0,San Jose Earthquakes,0,0,3,0,20,Marcus Tracy,60126,0,0,2,15,0,0,0,0,0
+1124,25,0,26,San Jose Earthquakes,28,5,50,5,2389,Florian Jungwirth,51937,0,0,27,1953,102,152,4,0,7
+1125,6,0,8,LA Galaxy,4,0,20,0,1266,Nigel de Jong,15076,1,0,16,1102,23,28,1,0,3
+1126,8,0,0,Real Salt Lake,22,3,4,1,108,Nelson Gonzalez,76519,0,0,5,75,4,6,0,0,0
+1127,39,0,9,Philadelphia Union,48,37,77,1,2773,Michael Lahoud,60139,1,0,35,2259,131,147,15,0,13
+1128,10,0,55,Vancouver Whitecaps FC,13,22,94,3,2086,Doneil Henry,88812,2,0,36,1516,131,162,2,0,18
+1129,0,0,0,Colorado Rapids,0,0,0,0,81,Steward Ceus,60141,0,9,0,38,0,0,0,0,0
+1130,1,0,0,LA Galaxy,7,1,4,0,107,Jovan Kirovski,6894,1,0,4,68,2,2,0,0,1
+1131,102,0,6,Colorado Rapids,291,27,60,1,3789,Mohammed Saeid,113395,1,0,51,3118,74,107,5,0,9
+1132,39,0,2,Real Salt Lake,24,17,22,4,496,Paulo Morais de Araújo Júnior,88820,0,0,38,399,11,12,8,0,0
+1133,2,0,0,Portland Timbers,0,0,0,0,1128,Milos Kocic,60150,0,124,0,645,0,2,0,0,0
+1134,36,0,11,San Jose Earthquakes,121,17,68,3,2604,Brandon Barklage,60151,1,0,26,1957,94,124,2,0,6
+1135,180,0,8,LA Galaxy,308,147,142,43,5712,Chris Pontius,60152,0,0,346,4209,157,190,13,0,9
+1136,136,0,13,New York City FC,414,72,232,22,6043,Rodney Wallace,60153,0,0,243,4353,204,259,12,0,28
+1137,59,0,6,Philadelphia Union,182,64,89,8,1811,Danny Cruz,60154,0,0,130,1353,78,95,8,0,10
+1138,10,0,36,FC Dallas,1,6,78,5,2431,George John,60155,1,0,44,2015,78,99,2,0,11
+1139,2,0,1,Toronto FC,14,0,3,2,110,Peri Marosevic,60157,0,0,12,75,1,1,0,0,0
+1140,39,0,10,Columbus Crew SC,26,19,48,1,1246,Emmanuel Ekpo,50305,2,0,32,956,39,49,17,0,8
+1141,43,0,2,Sporting Kansas City,70,62,47,9,823,Gerso Fernandes,109320,0,0,75,623,30,44,2,0,5
+1142,0,0,2,FC Dallas,0,1,13,1,225,Erick Neres da Cruz,109321,0,0,8,180,20,22,0,0,1
+1143,32,0,5,Colorado Rapids,91,8,24,1,948,Jack Price,114041,0,0,17,722,21,26,1,0,8
+1144,0,0,0,Chicago Fire,0,0,1,0,3,,76557,0,0,0,1,0,0,0,0,0
+1145,0,0,0,New England Revolution,0,0,0,0,748,Cody Cropper,101135,0,74,0,456,2,2,0,0,0
+1146,38,0,1,New York Red Bulls,57,45,36,19,1330,Daniel Royer,84752,1,0,110,901,44,62,7,0,5
+1147,9,0,0,Portland Timbers,5,12,9,6,161,Samuel Armenteros,66244,0,0,23,123,2,4,3,0,1
+1148,15,0,1,New York Red Bulls,28,5,6,0,267,Marc Rzatkowski,84760,0,0,6,186,17,19,0,0,2
+1149,17,0,2,Seattle Sounders FC,47,22,9,4,699,Víctor Rodríguez,91373,0,0,35,549,23,34,6,0,1
+1150,25,0,0,New York Red Bulls,28,23,9,3,597,Alejandro Romero Gamarra,170782,0,0,24,423,15,26,10,0,1
+1151,6,0,12,Toronto FC,4,9,37,4,1246,Damien Perquis,15139,0,0,12,995,26,34,0,0,9
+1152,4,0,7,Colorado Rapids,21,0,30,0,532,Mike da Fonte,138020,0,0,2,392,18,22,0,0,5
+1153,0,0,0,Atlanta United FC,0,0,0,0,9,Alexandros Tambakis,107654,0,1,0,3,0,0,0,0,0
+1154,6,0,9,Sporting Kansas City,5,6,4,1,1036,Nuno Andre Coelho,56104,0,0,18,838,20,27,1,0,2
+1155,63,0,12,Houston Dynamo,68,73,145,3,4568,Darwin Cerén,117549,3,0,83,3883,181,242,12,0,17
+1156,126,0,101,Sporting Kansas City,54,48,194,4,12280,Matt Besler,60207,2,0,39,9842,220,292,9,0,24
+1157,13,0,0,New York Red Bulls,13,11,18,4,389,Andre Akpan,83080,0,0,28,257,9,11,2,0,1
+1158,546,0,26,Sporting Kansas City,1509,223,197,28,10817,Graham Zusi,60210,1,0,371,8018,214,292,66,0,19
+1159,7,0,3,Chicago Fire,2,4,14,0,307,Michael Videira,60212,0,0,3,209,22,33,4,0,2
+1160,55,0,41,Orlando City SC,159,41,113,2,4712,Kevin Alston,60213,1,0,38,3369,206,257,3,0,10
+1161,53,0,113,Houston Dynamo,173,10,190,0,7988,A.J. DeLaGarza,60214,0,0,25,6468,237,309,3,0,32
+1162,44,0,88,LA Galaxy,23,23,125,11,6056,Omar González,60218,1,0,88,4724,150,185,5,0,18
+1163,38,0,15,New England Revolution,89,33,86,2,3375,Jeremy Hall,60222,1,0,24,2437,148,184,8,0,14
+1164,16,0,3,New England Revolution,11,2,37,6,449,Radivoje Lekic,39743,0,0,44,301,8,10,4,0,3
+1165,126,0,7,San Jose Earthquakes,124,147,221,22,2220,Quincy Amarikwa,60225,2,0,257,1531,65,71,16,0,10
+1166,0,0,0,Portland Timbers,0,0,1,0,215,Andrew Weber,60226,0,23,0,132,1,1,0,0,1
+1167,34,0,1,Seattle Sounders FC,20,1,91,6,1040,Cam Weaver,60227,0,0,66,704,19,23,5,0,5
+1168,8,0,15,Portland Timbers,8,0,35,0,848,Brad Ring,60228,0,0,12,659,36,41,3,0,7
+1169,9,0,0,San Jose Earthquakes,3,5,21,1,216,Jean-Marc Alexandre,60229,0,0,12,156,6,7,4,0,3
+1170,11,0,9,Atlanta United FC,27,5,11,3,1071,Anton Walkes,158536,0,0,9,828,25,32,0,0,2
+1171,101,0,1,Atlanta United FC,174,111,61,17,2515,Miguel Almirón,179018,0,0,179,1951,72,91,24,0,8
+1172,167,0,77,Minnesota United FC,211,31,269,8,9907,Sam Cronin,60235,2,0,157,8002,229,315,30,0,40
+1173,17,0,6,Columbus Crew SC,58,15,12,0,677,,101196,0,0,15,442,18,25,0,0,2
+1174,2,0,0,Seattle Sounders FC,2,0,9,2,119,O'Brian White,60237,0,0,15,96,2,4,2,0,0
+1175,6,0,0,Seattle Sounders FC,0,1,1,0,6072,Stefan Frei,60238,0,636,1,3924,2,5,0,0,6
+1176,21,0,9,Real Salt Lake,7,8,22,3,972,Damir Kreilach,68431,0,0,34,781,14,29,5,0,3
+1177,51,0,0,Houston Dynamo,145,57,32,10,1115,Romell Quioto,119575,0,0,102,787,20,28,2,0,7
+1178,4,0,0,Seattle Sounders FC,8,13,7,0,108,Oalex Anderson,211793,0,0,9,70,0,1,0,0,0
+1179,6,0,62,Chivas USA,4,2,131,1,2917,Jhon Kennedy Hurtado,60242,4,0,33,2382,166,203,0,0,14
+1180,141,0,112,Seattle Sounders FC,103,285,359,11,14130,Osvaldo Alonso,60244,4,0,259,12482,700,881,45,0,51
+1181,106,0,6,San Jose Earthquakes,365,88,153,16,2526,Sanna Nyassi,60245,0,0,183,1773,125,147,14,0,25
+1182,11,0,2,San Jose Earthquakes,47,5,41,2,451,Michael Fucito,60246,0,0,41,290,13,19,3,0,5
+1183,29,0,1,Portland Timbers,71,49,17,3,875,Steve Zakuani,60247,0,0,49,670,15,19,6,0,0
+1184,5,0,0,New York Red Bulls,15,3,8,1,182,Ruben Bover Izquierdo,101208,0,0,7,139,11,12,1,0,1
+1185,1,0,1,Orlando City SC,10,4,12,0,330,Victor Pagliari Giro,170843,2,0,4,263,14,19,0,0,1
+1186,4,0,2,LA Galaxy,18,4,5,0,215,Raul Mendiola,177979,0,0,4,167,7,7,0,0,1
+1187,4,0,0,FC Dallas,7,2,0,0,66,Maykel Galindo,35685,0,0,2,51,4,4,0,0,0
+1188,62,0,8,Chicago Fire,56,67,36,6,3034,Bastian Schweinsteiger,15208,0,0,39,2591,56,83,10,0,8
+1189,17,0,1,D.C. United,42,16,31,1,809,Alex Caskey,113513,1,0,25,591,36,49,7,0,0
+1190,44,0,1,San Jose Earthquakes,46,87,16,9,980,Valeri Qazaishvili,88940,0,0,98,792,28,36,3,0,0
+1191,0,0,0,New England Revolution,0,0,0,0,6,Geoffrey Castillion,80752,0,0,0,4,0,0,0,0,0
+1192,3,0,0,Montreal Impact,4,1,6,0,159,Jérémy Gagnon-Laparé,170868,0,0,0,123,4,6,2,0,2
+1193,1,0,0,Philadelphia Union,4,0,2,2,61,Brian Brown,192000,0,0,5,45,1,2,0,0,0
+1194,1,0,0,LA Galaxy,10,2,1,0,182,Pele van Anholt,101244,0,0,2,141,6,7,0,0,0
+1195,7,0,1,Vancouver Whitecaps FC,4,1,12,2,174,Masato Kudo,109449,0,0,25,132,1,1,0,0,0
+1196,2,0,0,Sporting Kansas City,4,0,3,0,35,Martin Steuble,52110,0,0,1,26,1,1,0,0,0
+1197,0,0,1,Toronto FC,0,3,4,0,109,Clement Simonin,207760,0,0,1,77,1,1,0,0,1
+1198,86,0,22,Orlando City SC,100,74,287,70,1970,Dominic Dwyer,60318,1,0,488,1260,59,79,10,0,31
+1199,7,0,1,Chicago Fire,3,4,25,2,147,Cristian Nazarit,97183,0,0,20,91,3,3,1,0,3
+1200,1,0,0,Houston Dynamo,0,1,1,0,18,Charlie Ward,154528,0,0,0,15,0,0,0,0,0
+1201,6,0,0,Vancouver Whitecaps FC,29,16,20,13,412,Robert Earnshaw,3227,0,0,83,306,3,6,2,0,2
+1202,11,0,2,Toronto FC,19,12,11,0,241,Molham Babouli,224168,0,0,10,174,6,11,2,0,1
+1203,26,0,1,D.C. United,78,4,22,1,629,Santino Quaranta,15279,1,0,23,415,11,14,14,0,2
+1204,161,0,5,Sporting Kansas City,459,107,60,7,3508,Justin Mapp,15281,0,0,139,2530,94,111,46,0,4
+1205,49,0,0,LA Galaxy,27,20,114,10,1342,Edson Buddle,15285,0,0,129,963,27,32,4,0,3
+1206,2,0,2,San Jose Earthquakes,16,2,6,0,253,Pablo Pintos,76728,1,0,4,183,7,8,0,0,1
+1207,6,0,9,LA Galaxy,20,11,39,0,703,Bradley Diallo,104948,1,0,11,548,32,48,0,0,7
+1208,5,0,1,Houston Dynamo,30,11,8,0,272,Adam Lundqvist,170945,0,0,3,209,8,11,0,0,2
+1209,1,0,0,Philadelphia Union,0,5,3,0,2452,Andre Blake,163906,0,297,0,1530,4,6,0,0,3
+1210,2,0,11,Chicago Fire,1,1,21,0,340,Josip Mikulic,68550,1,0,4,263,16,25,0,0,5
+1211,49,0,3,FC Dallas,47,15,126,15,1496,Eric Hassli,11207,3,0,137,1044,32,40,19,0,18
+1212,10,0,0,Real Salt Lake,0,18,3,0,7818,Nick Rimando,15310,0,668,0,5112,3,5,0,0,8
+1213,157,0,15,Seattle Sounders FC,371,107,210,42,4702,Lamar Neagle,68571,1,0,306,3159,225,294,24,0,18
+1214,14,0,2,Montreal Impact,4,1,9,2,222,Daniele Paponi,27617,0,0,30,156,4,4,4,0,2
+1215,1,0,7,Portland Timbers,2,3,3,2,168,Bill Poni Tuiloma,175077,0,0,6,132,5,7,1,0,0
+1216,13,0,26,Toronto FC,23,6,30,1,957,Darren O'Dea,19432,0,0,18,689,28,38,0,0,5
+1217,3,0,0,Colorado Rapids,0,0,1,0,2097,Tim Howard,15337,1,208,0,1478,1,3,0,0,3
+1218,446,0,14,Sporting Kansas City,1414,92,187,28,8399,Brad Davis,15338,1,0,272,6285,198,247,49,0,14
+1219,34,0,3,Real Salt Lake,83,7,37,2,1119,Andy Williams,15340,0,0,40,836,36,50,25,0,2
+1220,2,0,0,Atlanta United FC,0,0,1,0,21,Andrew Carleton,220142,0,0,0,15,1,1,0,0,0
+1221,3,0,0,LA Galaxy,9,2,19,0,464,Mika Väyrynen,10067,0,0,15,378,23,24,1,0,3
+1222,0,0,0,Toronto FC,0,0,0,0,232,Freddy Hall,101366,0,28,0,132,0,0,0,0,0
+1223,1,0,2,Montreal Impact,0,4,9,0,287,Rudy Camacho,89080,0,0,3,242,2,2,1,0,1
+1224,85,0,16,San Jose Earthquakes,137,21,51,2,3485,Rafael Baca,101369,1,0,66,2895,81,98,29,0,12
+1225,8,0,58,Montreal Impact,3,4,90,2,3614,Matteo Ferrari,7166,0,0,24,3116,71,91,2,0,17
+1226,0,0,0,Orlando City SC,0,0,0,0,19,Earl Edwards Jr.,130049,0,1,0,16,0,0,0,0,0
+1227,51,0,12,FC Dallas,80,79,86,7,3166,Ryan Hollingshead,130056,0,1,74,2380,156,204,5,0,7
+1228,31,0,2,D.C. United,43,31,29,3,778,Paul Arriola,166921,1,0,35,573,26,39,3,0,4
+1229,9,0,2,New England Revolution,13,2,24,3,505,Blake Brettschneider,95440,0,0,37,322,11,13,1,0,1
+1230,1,0,8,D.C. United,2,7,13,0,448,Christopher Durkin,211988,0,0,5,377,16,21,2,0,3
+1231,43,0,17,D.C. United,102,35,89,5,3639,Alain Rochat,27676,0,0,47,2695,129,169,17,0,16
+1232,29,0,4,Orlando City SC,136,20,18,1,1685,Scott Sutter,27678,0,0,22,1285,52,70,0,0,1
+1233,3,0,0,Orlando City SC,1,0,2,0,146,Cameron Lindley,244768,0,0,2,115,3,4,0,0,1
+1234,1,0,0,Los Angeles Football Club,1,0,2,0,18,Shaft Brewer,424995,0,0,1,17,0,0,0,0,0
+1235,3,0,1,Minnesota United FC,9,4,2,0,137,Bashkim Kadrii,85028,0,0,12,96,1,1,0,0,0
+1236,2,0,0,Philadelphia Union,0,9,6,1,124,Jay Simpson,39976,0,0,13,108,6,8,1,0,0
+1237,3,0,0,Sporting Kansas City,11,3,4,0,268,Jaylin Lindsey,220205,0,0,3,223,6,8,0,0,0
+1238,10,0,2,Orlando City SC,3,8,12,0,424,Tony Rocha,212020,0,0,5,370,21,28,1,0,2
+1239,0,0,0,Sporting Kansas City,0,0,0,0,58,Graham Smith,200190,0,0,1,52,0,2,0,0,0
+1240,15,0,8,San Jose Earthquakes,15,6,26,1,1178,Jean-Baptiste Pierazzi,44090,0,0,18,1019,47,55,2,0,3
+1241,0,0,0,Columbus Crew SC,0,0,0,0,15,Emil Larsen,85052,0,0,0,14,0,2,0,0,0
+1242,107,0,9,Seattle Sounders FC,341,132,74,5,5269,Joevin Jones,111114,1,0,66,4212,125,159,6,0,14
+1243,29,0,9,Real Salt Lake,193,30,84,0,3219,Demar Phillips,47627,2,0,25,2397,105,140,0,0,13
+1244,37,0,3,Toronto FC,13,19,43,7,905,Luke Moore,15428,1,0,70,694,24,27,11,0,4
+1245,1,0,0,Vancouver Whitecaps FC,0,0,0,0,491,Stefan Marinovic,72775,0,57,0,312,0,0,0,0,2
+1246,15,0,0,Sporting Kansas City,43,7,15,1,757,Antonio Rodríguez Dovale,76620,1,0,29,600,15,17,6,0,3
+1247,26,0,14,Sporting Kansas City,9,15,70,1,2528,Soni Mustivar,56394,1,0,12,2078,117,148,0,0,8
+1248,0,0,14,Vancouver Whitecaps FC,1,6,28,1,524,Aly Ghazal,150711,0,0,10,437,36,51,0,0,2
+1249,2,0,0,Chivas USA,5,0,7,0,115,,97365,0,0,6,89,0,1,1,0,1
+1250,0,0,0,FC Dallas,0,0,0,0,7,,113755,0,0,0,6,1,1,0,0,0
+1251,0,0,0,Chicago Fire,1,0,0,0,151,Patrick McLain,113757,0,16,0,81,0,1,0,0,0
+1252,13,0,56,Real Salt Lake,10,3,74,4,2966,Justen Glad,183390,0,0,28,2492,70,100,1,0,12
+1253,4,0,0,Chicago Fire,0,0,1,0,4893,Jon Busch,15456,0,485,0,2796,2,2,0,0,2
+1254,1,0,0,Chivas USA,3,0,3,0,87,Martin Ponce,113762,0,0,4,71,8,8,1,0,1
+1255,0,0,0,Chivas USA,0,0,2,0,7,,113767,0,0,0,4,0,1,0,0,0
+1256,59,0,16,FC Dallas,129,2,90,2,2511,Daniel Hernandez,60520,2,0,42,1917,109,135,5,0,11
+1257,0,0,0,Vancouver Whitecaps FC,0,0,0,0,319,Paolo Tornaghi,68714,0,37,0,154,1,1,0,0,0
+1258,12,0,1,Seattle Sounders FC,24,1,21,3,561,Roger Levesque,60523,0,0,18,382,11,13,2,0,4
+1259,25,0,45,Seattle Sounders FC,40,13,130,3,4087,Zach Scott,60524,3,0,39,3115,136,168,1,0,26
+1260,6,0,9,Chivas USA,3,3,22,0,1004,Carlos Bocanegra,15475,1,0,10,789,40,53,1,0,3
+1261,20,0,40,New England Revolution,27,11,64,2,2169,Darrius Barnes,60532,0,0,13,1478,110,131,1,0,9
+1262,4,0,8,Toronto FC,2,0,17,0,708,Adrian Cann,51662,0,0,5,526,40,49,2,0,1
+1263,4,0,21,New York City FC,3,17,37,2,2059,Maxine Chanot,57876,2,0,24,1775,39,52,0,0,7
+1264,2,0,3,Colorado Rapids,5,0,6,2,439,Scott Palguta,60538,0,0,4,316,4,5,0,0,1
+1265,5,0,1,Chivas USA,2,3,14,2,206,,155498,0,0,17,163,15,16,0,0,2
+1266,32,0,5,Columbus Crew SC,117,15,46,2,1366,Chris Birchall,11390,1,0,46,952,45,51,3,0,7
+1267,0,0,0,Chivas USA,0,0,0,0,61,Zach Thornton,15488,0,3,0,47,0,0,0,0,0
+1268,51,0,20,New York Red Bulls,182,35,97,1,3985,Connor Lade,109699,1,0,46,2964,166,217,3,0,20
+1269,0,0,0,Portland Timbers,0,0,0,0,29,Adin Brown,15499,0,5,0,16,0,0,0,0,0
+1270,0,0,0,FC Dallas,0,0,1,0,79,Kristoffer Reaves,244879,0,0,0,68,4,5,0,0,0
+1271,117,0,3,New York City FC,253,38,45,1,3806,Andrea Pirlo,7313,0,0,57,3030,79,106,21,0,8
+1272,4,0,36,Vancouver Whitecaps FC,5,17,23,0,1296,Johnny Leveron,77850,1,0,13,1020,46,52,1,0,5
+1273,1,0,0,FC Dallas,2,1,2,0,32,Getterson Alves dos Santos,195739,0,0,4,22,3,4,0,0,0
+1274,227,0,53,Real Salt Lake,232,71,326,21,14069,Kyle Beckerman,15517,5,0,306,11631,368,499,43,0,56
+1275,4,0,1,New York Red Bulls,6,7,4,0,203,Kyle Duncan,244899,0,0,1,143,8,14,0,0,0
+1276,43,0,6,Colorado Rapids,33,65,161,24,1324,Dominique Badji,202376,0,0,174,924,52,66,2,0,18
+1277,17,0,0,San Jose Earthquakes,25,23,11,3,485,Yannick Djaló,19629,0,0,36,372,14,16,2,0,2
+1278,3,0,1,Toronto FC,5,0,3,0,191,,105646,0,0,3,139,10,10,0,0,0
+1279,15,0,35,New York Red Bulls,10,15,91,3,2883,Damien Perrinelle,44209,0,0,34,2222,116,151,6,0,18
+1280,86,0,6,D.C. United,44,51,103,33,2554,Eddie Johnson,15540,1,0,183,2030,19,24,7,0,17
+1281,6,0,0,Atlanta United FC,6,6,5,1,89,Brandon Vázquez,218313,1,0,13,59,3,7,0,0,2
+1282,118,0,5,D.C. United,133,175,112,9,2855,Luciano Acosta,179384,2,0,110,2102,92,117,31,0,14
+1283,2,0,0,Sporting Kansas City,0,2,3,0,2122,Andy Gruenebaum,41503,0,237,0,1205,0,0,0,0,2
+1284,1,0,19,Columbus Crew SC,0,3,25,2,995,Lalas Abubakar,244927,1,0,12,898,31,43,0,0,4
+1285,0,0,0,New York City FC,0,1,2,0,49,Kwame Awuah,244929,0,0,0,44,1,1,0,0,0
+1286,2,0,0,San Jose Earthquakes,5,5,9,1,205,Innocent Emeghara,85188,0,0,16,158,13,16,0,0,3
+1287,98,0,35,D.C. United,117,80,184,7,5316,Davy Arnaud,15560,0,0,116,4210,225,282,29,0,31
+1288,53,0,18,New York Red Bulls,37,29,168,16,3081,Tim Cahill,3273,1,0,116,2482,99,119,15,0,11
+1289,9,0,7,New York Red Bulls,18,4,27,1,960,Wilman Conde,48333,0,0,7,789,41,46,1,0,3
+1290,1,0,14,New York City FC,5,1,28,0,876,,105678,1,0,0,730,43,47,1,0,6
+1291,48,0,4,Chicago Fire,32,30,67,12,899,Gilberto Oliveira Souza Júnior,101585,0,0,133,650,27,32,2,0,5
+1292,80,0,2,Montreal Impact,97,39,38,34,1778,Marco Di Vaio,7380,1,0,247,1260,11,13,38,0,6
+1293,10,0,2,D.C. United,105,24,30,1,571,Sainey Nyassi,48341,0,0,31,370,44,53,1,0,2
+1294,4,0,3,Philadelphia Union,15,1,9,0,448,Chris Albright,15575,0,0,2,358,4,8,1,0,1
+1295,4,0,0,Seattle Sounders FC,0,4,1,0,3736,Troy Perkins,41508,0,401,0,2080,1,3,0,0,1
+1296,4,0,40,Toronto FC,1,0,57,2,2135,Danny Califf,15578,0,0,18,1713,53,65,1,0,8
+1297,11,0,9,Chivas USA,60,0,19,0,1283,Simon Elliott,15580,0,0,17,1011,35,43,7,0,3
+1298,119,0,4,Philadelphia Union,209,231,123,34,1835,David Accam,126174,1,0,231,1232,76,95,7,0,12
+1299,0,0,0,FC Dallas,0,0,0,0,1921,Kevin Hartman,15583,0,192,0,1258,2,5,0,0,0
+1300,8,0,8,Seattle Sounders FC,19,1,18,1,703,Jordy Delem,165072,0,0,4,557,28,38,0,0,7
+1301,33,0,3,Chivas USA,62,5,78,7,1170,Alejandro Moreno,15586,0,0,48,926,22,27,13,0,1
+1302,83,0,10,Colorado Rapids,237,34,80,3,2619,Brian Mullan,15587,1,0,33,1791,152,187,26,0,7
+1303,0,0,0,D.C. United,0,0,0,0,2,Dane Kelly,163044,0,0,0,2,0,0,0,0,0
+1304,4,0,0,New England Revolution,0,8,3,0,2460,Matt Reis,15589,2,246,1,1507,0,0,0,0,1
+1305,62,0,0,New York Red Bulls,257,66,96,10,1310,Carlos Rivas,175337,0,0,183,796,33,38,10,0,15
+1306,21,0,2,Chivas USA,11,3,21,0,1448,Peter Vagenas,15596,0,0,4,1228,37,39,9,0,1
+1307,1,0,1,Philadelphia Union,7,0,1,0,106,Matt Kassel,93423,0,0,2,84,1,1,1,0,0
+1308,0,0,0,Vancouver Whitecaps FC,0,2,1,0,1610,Joe Cannon,15600,1,175,0,907,1,1,0,0,0
+1309,0,0,4,Chivas USA,0,1,1,1,109,Jimmy Conrad,15601,0,0,3,94,10,11,0,0,1
+1310,1,0,1,Toronto FC,0,1,1,1,29,Mitchell Taintor,163058,0,0,1,19,1,1,1,0,1
+1311,2,0,1,Los Angeles Football Club,1,2,6,0,166,Tristan Blackmon,423123,0,0,1,137,2,4,0,0,1
+1312,0,0,0,Chicago Fire,0,0,0,0,174,Jon Conway,15605,0,15,0,100,0,0,0,0,0
+1313,66,0,18,San Jose Earthquakes,143,34,62,4,3202,Ramiro Corrales,15608,1,0,63,2371,139,171,11,0,17
+1314,8,0,2,Chicago Fire,5,13,6,0,382,Brandt Bronico,244988,0,0,4,324,9,13,2,0,1
+1315,19,0,1,Montreal Impact,48,44,33,3,812,Raheem Edwards,228605,0,0,31,594,50,73,0,0,5
+1316,1,0,0,Houston Dynamo,0,0,3,0,71,Eric Bird,126206,0,0,0,58,3,5,0,0,0
+1317,0,0,0,Houston Dynamo,0,0,1,0,90,Eddie Robinson,15615,0,0,0,67,4,4,0,0,0
+1318,1,0,15,Philadelphia Union,2,3,17,2,920,Kenneth Tribbett,163074,0,0,12,706,27,40,0,0,5
+1319,13,0,3,New York Red Bulls,19,18,14,3,607,Florian Valot,240899,0,0,24,402,14,25,10,0,1
+1320,61,0,6,Atlanta United FC,134,45,44,7,1887,Julian Gressel,244997,0,0,72,1354,54,80,13,0,6
+1321,10,0,0,Columbus Crew SC,5,16,9,2,288,Niko Hansen,244998,0,0,25,220,8,13,0,0,1
+1322,0,0,0,FC Dallas,0,0,2,0,90,Walker Hume,244999,0,0,0,77,2,3,0,0,1
+1323,0,0,0,San Jose Earthquakes,0,0,0,0,0,Lindo Mfeka,245003,0,0,0,0,0,0,0,0,0
+1324,15,0,9,Vancouver Whitecaps FC,83,40,33,0,1482,Jakob Nerwinski,245005,0,0,4,1062,40,62,0,0,4
+1325,2,0,0,San Jose Earthquakes,5,0,0,0,48,Christopher Wehan,245009,0,0,2,33,1,3,0,0,0
+1326,5,0,0,Chivas USA,10,3,1,0,92,Carlo Franco Chueco del Rio,113939,0,0,3,73,0,1,0,0,0
+1327,2,0,32,Philadelphia Union,4,5,40,1,1632,Jack Elliott,245012,0,0,9,1288,48,71,1,0,7
+1328,6,0,1,Toronto FC,15,8,26,0,458,Mikael Yourassowsky,81173,1,0,21,369,20,23,4,0,4
+1329,0,0,0,Real Salt Lake,0,0,2,0,59,,163095,0,0,0,52,6,8,0,0,0
+1330,3,0,0,Philadelphia Union,7,5,5,0,40,Walter Restrepo,163096,0,0,1,26,2,2,0,0,0
+1331,1,0,1,Orlando City SC,8,5,4,0,74,Hadji Barry,220442,0,0,2,52,6,7,0,0,0
+1332,0,0,0,FC Dallas,0,1,1,0,7,Colin Bonner,220443,0,0,0,7,0,0,0,0,0
+1333,13,0,1,Philadelphia Union,29,16,5,3,473,Marcus Epps,245020,0,0,26,328,17,27,0,0,0
+1334,0,0,0,Portland Timbers,0,0,0,0,3,Neco Brett,220445,0,0,0,1,0,0,0,0,0
+1335,4,0,1,Columbus Crew SC,11,6,3,2,180,Jeff Cunningham,11551,0,0,13,132,5,5,5,0,0
+1336,5,0,2,New England Revolution,7,4,8,2,157,Femi Hollinger-Janzen,220450,0,0,16,107,6,11,0,0,0
+1337,2,0,0,FC Dallas,0,0,0,0,1409,Raúl Fernández,56613,0,168,1,802,1,1,0,0,2
+1338,0,0,0,Toronto FC,5,0,4,0,96,Eddy Viator,44329,0,0,0,64,3,4,0,0,2
+1339,3,0,2,Seattle Sounders FC,13,14,9,0,331,Jordan McCrary,220458,0,0,2,232,12,21,0,0,2
+1340,7,0,5,FC Dallas,20,19,12,1,824,Reginald Cannon,245035,0,0,6,689,41,57,1,0,1
+1341,2,0,14,Columbus Crew SC,0,2,40,1,856,Gastón Sauro,60716,0,0,6,733,24,40,0,0,8
+1342,0,0,0,FC Dallas,0,0,1,0,5,Timo Pitter,220463,0,0,1,3,0,0,0,0,0
+1343,0,0,2,Columbus Crew SC,0,0,3,0,123,Rodrigo Saravia,220466,0,0,0,106,2,2,0,0,0
+1344,0,0,1,Minnesota United FC,0,0,0,0,3,Brandon Allen,127539,0,0,0,0,0,0,0,0,0
+1345,21,0,1,New York City FC,20,23,9,3,553,Jesús Medina,167227,0,0,28,423,17,25,4,0,1
+1346,0,0,0,Houston Dynamo,2,0,2,0,28,,87946,0,0,1,20,4,4,0,0,0
+1347,106,0,7,FC Dallas,42,89,163,45,2201,Maximiliano Urruti,97607,0,0,361,1658,133,173,17,0,12
+1348,72,0,9,Montreal Impact,80,35,104,35,2096,Kenny Cooper,19785,1,0,239,1476,23,27,16,0,8
+1349,4,0,15,New York Red Bulls,9,3,36,2,1146,Karl Ouimette,118091,0,0,13,835,80,96,2,0,5
+1350,2,0,0,Minnesota United FC,2,5,9,0,63,Mason Toye,249164,1,0,8,37,1,2,1,0,3
+1351,0,0,0,New York Red Bulls,1,0,1,0,5,Brian Nielsen,52557,0,0,0,4,0,0,0,0,0
+1352,25,0,5,Houston Dynamo,19,12,47,1,1068,Luiz Henrique Camargo,103907,0,0,12,826,42,55,32,0,5
+1353,117,0,2,LA Galaxy,201,61,47,26,2373,Giovani dos Santos,40275,0,0,163,1937,51,64,11,0,7
+1354,11,0,3,Colorado Rapids,8,2,29,6,509,Caleb Folan,11607,1,0,41,327,3,6,0,0,5
+1355,0,0,0,New England Revolution,0,0,0,0,516,Matt Turner,224068,0,62,0,380,0,0,0,0,1
+1356,2,0,0,Toronto FC,5,0,7,0,153,Gianluca Zavarise,85337,1,0,6,121,13,14,3,0,1
+1357,182,0,1,Toronto FC,497,195,135,64,3169,Sebastian Giovinco,40283,1,0,629,2089,61,78,36,0,16
+1358,4,0,7,Chicago Fire,0,1,22,3,632,,52572,0,0,6,527,18,24,0,0,6
+1359,0,0,0,Chivas USA,0,0,7,0,51,Chris Cortez,97632,0,0,4,27,3,3,0,0,1
+1360,9,0,0,FC Dallas,16,1,13,1,287,Daniel Cruz,7523,1,0,7,211,10,15,3,0,2
+1361,4,0,0,Montreal Impact,13,5,13,2,277,Issey Nakajima-Farran,52583,1,0,17,205,11,12,3,0,1
+1362,1,0,0,New England Revolution,20,7,6,0,197,Brandon Bye,442431,0,0,7,115,6,7,1,0,1
+1363,2,0,0,Los Angeles Football Club,0,7,5,9,94,Adama Diomande,111847,0,0,19,75,3,3,3,0,1
+1364,24,0,4,Toronto FC,13,6,33,16,544,Danny Koevermans,7532,0,0,70,361,12,13,5,0,3
+1365,39,0,7,New England Revolution,85,8,30,4,1293,Ryan Guy,56687,0,0,52,870,49,57,4,0,4
+1366,23,0,3,New England Revolution,21,23,64,5,434,Dimitry Imbongo Boele,105840,3,0,48,296,21,25,1,0,8
+1367,44,0,16,Minnesota United FC,68,68,48,2,3243,Ibson Barreto da Silva,19825,0,0,34,2716,116,159,8,0,10
+1368,6,0,46,Toronto FC,5,8,47,2,1570,Steven Caldwell,7545,2,0,18,1205,39,48,1,0,7
+1369,21,0,2,Seattle Sounders FC,77,23,30,2,531,Tristan Bowen,60795,1,0,44,324,26,31,4,0,6
+1370,28,0,30,Houston Dynamo,66,1,81,6,3533,André Hainault,60796,0,0,27,2873,83,102,8,0,4
+1371,4,0,0,Portland Timbers,5,1,6,0,99,,93571,0,0,5,76,6,6,0,0,0
+1372,1,0,0,Atlanta United FC,0,4,6,1,48,Romario Williams,186262,0,0,8,32,9,9,1,0,4
+1373,10,0,5,Philadelphia Union,23,9,21,0,504,Giliano Wijnaldum,86593,0,0,3,345,27,35,1,0,4
+1374,3,0,10,Real Salt Lake,6,2,28,1,857,Carlos Salcedo,155016,1,0,5,727,22,26,0,0,5
+1375,23,0,19,Columbus Crew SC,46,8,36,0,1593,Chad Barson,150924,0,0,9,1231,84,97,1,0,3
+1376,0,0,1,Colorado Rapids,6,0,9,0,334,Miguel Comminges,44430,1,0,1,230,9,10,0,0,2
+1377,24,0,5,New York City FC,10,34,81,1,1423,Yangel Herrera,226541,1,0,46,1172,81,119,3,0,11
+1378,70,0,17,Seattle Sounders FC,17,9,90,12,3694,Shalrie Joseph,15764,2,0,80,3015,62,76,32,0,15
+1379,4,0,0,D.C. United,0,8,2,0,4650,David Ousted,52629,1,481,0,2933,3,6,1,0,3
+1380,0,0,8,Vancouver Whitecaps FC,0,2,7,0,241,David Edgar,40345,0,0,4,191,8,13,0,0,2
+1381,1,0,0,Montreal Impact,0,2,9,0,121,,191898,0,0,0,91,8,12,0,0,1
+1382,37,0,3,Philadelphia Union,152,25,32,7,991,Freddy Adu,15771,1,0,52,699,20,27,17,0,4
+1383,7,0,1,Chicago Fire,4,3,2,1,106,Joey Calistri,220579,0,0,5,70,6,6,1,0,0
+1384,13,0,1,Chicago Fire,24,12,12,0,497,Drew Conner,220580,0,0,3,406,17,25,2,0,0
+1385,1,0,1,Sporting Kansas City,9,1,4,0,47,,56742,0,0,1,31,1,1,0,0,0
+1386,9,0,0,New England Revolution,2,15,27,3,589,Wilfried Zahibo,105713,0,0,22,450,24,40,3,0,3
+1387,3,0,5,Sporting Kansas City,7,0,2,1,237,Luke Sassano,50172,0,0,3,187,10,13,0,0,1
+1388,0,0,0,Colorado Rapids,0,0,0,0,8,,114589,0,0,0,5,0,1,0,0,0
+1389,11,0,0,Portland Timbers,14,20,18,1,205,José Adolfo Valencia,110000,0,0,20,155,8,8,0,0,2
+1390,41,0,48,Montreal Impact,158,11,43,3,4755,Heath Pearce,28090,1,0,24,3757,74,86,4,0,4
+1391,78,0,35,Philadelphia Union,30,19,177,5,6716,Brian Carroll,28091,0,0,92,5497,255,346,16,0,24
+1392,103,0,13,Columbus Crew SC,221,12,70,14,2927,Eddie Gaven,28092,0,0,120,2294,100,131,19,0,3
+1393,41,0,5,Houston Dynamo,23,3,41,11,1172,Brian Ching,28093,1,0,80,861,24,29,16,0,1
+1394,139,0,5,D.C. United,160,92,74,29,3409,Chris Rolfe,28094,0,0,252,2492,113,136,34,0,7
+1395,36,0,1,D.C. United,67,26,70,12,687,Kennedy Igboananike,81347,0,0,123,499,21,26,1,0,7
+1396,0,0,0,FC Dallas,0,0,0,0,0,,179665,0,0,0,0,0,0,0,0,0
+1397,11,0,0,LA Galaxy,6,0,19,1,202,Adam Cristman,41550,0,0,13,137,8,11,1,0,2
+1398,3,0,0,New York City FC,0,1,4,0,4402,Josh Saunders,56790,1,415,0,2861,5,6,0,0,10
+1399,0,0,0,Toronto FC,0,0,0,0,205,Julio Cesar Soares De Espindola,19928,0,18,0,129,0,0,0,0,1
+1400,114,0,2,Vancouver Whitecaps FC,172,53,180,39,2795,Fredy Montero,57252,1,0,337,1983,85,111,63,0,20
+1401,0,0,0,Chicago Fire,0,0,0,0,238,Jorge Bava,53839,0,22,0,156,0,0,0,0,1
+1402,0,0,0,New York Red Bulls,4,1,1,1,25,Benjamin Mines,204261,0,0,1,12,0,0,0,0,1
+1403,0,0,0,Columbus Crew SC,0,0,0,0,1,Aaron Horton,97768,0,0,0,0,0,0,0,0,0
+1404,7,0,0,Toronto FC,25,4,5,0,312,,19946,0,0,5,229,9,11,1,0,2
+1405,297,0,48,Vancouver Whitecaps FC,568,78,296,22,10792,Felipe Martins Campanholi,56812,1,0,354,8346,278,385,111,0,38
+1406,58,0,0,Orlando City SC,110,39,29,4,1426,Yoshimar Yotún,98898,0,0,31,1123,28,37,5,0,7
+1407,0,0,0,Vancouver Whitecaps FC,0,0,1,0,1,Kyle Greig,163316,0,0,0,0,0,0,0,0,0
+1408,46,0,29,FC Dallas,85,13,102,8,4490,Adam Moffat,48630,3,0,112,3582,120,160,16,0,15
+1409,319,0,8,Houston Dynamo,490,168,199,15,6940,Óscar García,55209,1,0,125,5521,277,351,48,0,26
+1410,12,0,4,Colorado Rapids,11,8,22,4,1211,José María Martín-Bejarano Serrano,89592,1,0,34,1014,33,37,1,0,3
+1411,160,0,26,Chicago Fire,97,135,303,15,8975,Tony Tchani,82516,4,0,189,7199,340,416,54,0,35
+1412,12,0,2,Seattle Sounders FC,13,11,37,4,638,Nelson Valdez,15868,0,0,49,451,25,40,3,0,4
+1413,41,0,3,Minnesota United FC,74,13,33,7,1350,Miguel Ibarra,110596,1,0,43,1100,33,39,4,0,3
+1414,58,0,3,Sporting Kansas City,65,62,39,8,1275,Khiry Shelton,200192,0,0,72,938,42,50,1,0,2
+1415,2,0,2,Colorado Rapids,15,5,2,0,290,Kip Colvey,221755,0,0,0,220,7,11,0,0,0
+1416,20,0,5,Chicago Fire,52,11,51,3,1560,Wells Thompson,41558,1,0,40,1250,55,72,5,0,7
+1417,77,0,6,Chicago Fire,79,51,89,12,1856,Luis Solignac,152151,1,0,129,1354,62,78,4,0,2
+1418,40,0,0,Montreal Impact,76,26,30,7,938,Blerim Dzemaili,32269,0,0,66,649,26,36,8,0,8
+1419,0,0,0,Portland Timbers,0,0,0,0,9,Modou Jadama,204843,0,0,1,7,0,0,0,0,0
+1420,226,0,10,D.C. United,743,123,132,25,5111,Lloyd Sam,15891,2,0,151,3714,125,165,29,0,19
+1421,11,0,0,Toronto FC,30,7,18,1,305,Jeremy Brockie,37465,0,0,31,197,8,11,2,0,1
+1422,118,0,9,Philadelphia Union,223,43,21,4,3316,Haris Medunjanin,28188,1,0,59,2676,42,63,6,0,7
+1423,0,0,0,Colorado Rapids,0,0,1,1,90,Joe Nasco,163358,1,14,1,50,0,0,0,0,0
+1424,62,0,5,Seattle Sounders FC,158,22,80,2,3049,Erik Friberg,48672,0,0,34,2376,77,100,19,0,13
+1425,0,0,0,D.C. United,1,0,2,1,73,,101921,0,0,7,55,3,3,0,0,1
+1426,52,0,24,Vancouver Whitecaps FC,175,38,47,1,3581,Young-Pyo Lee,12891,0,0,19,2855,129,160,5,0,6
+1427,0,0,0,Minnesota United FC,0,2,3,0,1765,Matt Lampson,110118,0,189,0,1138,3,4,0,0,4
+1428,1,0,0,Vancouver Whitecaps FC,2,4,10,0,222,Deybi Flores,205404,0,0,9,171,16,20,0,0,1
+1429,58,0,10,Colorado Rapids,135,8,34,2,2258,Hunter Freeman,41565,0,0,11,1713,59,71,5,0,6
+1430,3,0,0,Colorado Rapids,1,5,15,1,85,Yannick Boli,40497,1,0,14,59,1,5,0,0,3
+1431,3,0,12,Columbus Crew SC,17,0,42,0,1152,Carlos Mendes,41566,0,0,5,1002,23,30,0,0,5
+1432,5,0,3,New England Revolution,35,11,7,0,558,Gabriel Somi,114236,0,0,10,360,9,18,0,0,3
+1433,8,0,2,New York City FC,20,6,4,1,297,Andraz Struna,67509,0,0,4,229,5,7,0,0,1
+1434,1,0,0,Atlanta United FC,0,0,1,0,1340,Brad Guzan,41705,1,93,0,958,1,1,0,0,2
+1435,173,0,17,LA Galaxy,345,32,124,51,4449,Mike Magee,41568,0,3,296,3341,93,127,40,0,13
+1436,0,0,0,Colorado Rapids,0,0,2,0,33,Tyler Benjamin Newnam,163395,0,0,0,21,2,4,0,0,0
+1437,19,0,3,Minnesota United FC,8,6,23,20,622,Christian Ramirez,163397,0,0,88,454,7,8,4,0,1
+1438,7,0,2,New York Red Bulls,26,10,9,0,242,Vincent Bezecourt,242216,0,0,10,155,19,28,2,0,1
+1439,43,0,1,Philadelphia Union,92,23,10,5,956,Borek Dockal,69194,0,0,32,713,9,12,4,0,0
+1440,43,0,24,Seattle Sounders FC,168,55,89,2,3050,DeAndre Yedlin,151119,1,0,21,2280,129,152,7,0,7
+1441,14,0,0,New York Red Bulls,23,30,17,3,317,Derrick Etienne,220752,0,0,28,226,8,16,2,0,2
+1442,42,0,6,New York Red Bulls,79,37,97,7,1720,Alex Muyl,220753,0,0,80,1236,96,133,6,0,11
+1443,6,0,17,Colorado Rapids,4,4,31,0,1076,Sean St Ledger,15960,0,0,8,893,33,41,0,0,1
+1444,84,0,4,D.C. United,290,76,72,5,2260,Andy Najar,82533,2,0,73,1623,87,104,13,0,7
+1445,23,0,1,FC Dallas,4,5,54,12,593,David Texeira,106080,0,0,61,406,24,25,3,0,4
+1446,307,0,46,New England Revolution,1334,67,91,14,10332,Chris Tierney,51133,3,0,152,7201,217,295,15,0,21
+1447,17,0,7,Minnesota United FC,12,9,40,0,1180,Rasmus Schüller,63954,0,0,9,977,71,99,3,0,5
+1448,18,0,3,New York Red Bulls,49,18,35,3,1369,Michael Murillo,204401,0,0,27,1034,38,58,1,0,3
+1449,248,0,2,FC Dallas,435,188,95,24,4792,Mauro Díaz,56949,0,0,181,3560,93,118,93,0,13
+1450,1,0,6,Houston Dynamo,1,0,13,0,185,Agustin García Iniguez,20086,0,0,8,113,4,5,0,0,0
+1451,20,0,84,D.C. United,5,7,96,2,3502,Jeff Parke,41577,0,0,45,2776,141,168,2,0,10
+1452,0,0,0,Chicago Fire,0,0,1,0,9,,44665,0,0,0,5,0,1,0,0,0
+1453,41,0,2,Los Angeles Football Club,16,54,52,8,756,Latif Blessing,245764,0,0,74,600,45,57,2,0,3
+1454,4,0,0,Chicago Fire,9,10,7,0,168,Daniel Johnson,245013,0,0,8,137,4,6,2,0,0
+1455,39,0,6,Atlanta United FC,116,13,36,3,1861,Greg Garza,110209,1,0,17,1462,34,57,2,0,4
+1456,2,0,17,Vancouver Whitecaps FC,0,2,8,1,459,Brad Rusin,102018,0,0,10,370,23,27,0,0,1
+1457,13,0,44,Montreal Impact,5,34,102,0,3284,Víctor Cabrera,179846,2,0,6,2670,201,272,2,0,18
+1458,31,0,6,Chicago Fire,40,59,66,1,2041,Matt Watson,110221,1,0,57,1578,92,127,7,0,7
+1459,0,0,0,Sporting Kansas City,0,0,0,0,36,Emmanuel Appiah,220440,0,0,1,25,0,0,0,0,0
+1460,21,0,22,San Jose Earthquakes,14,22,100,5,2741,Fatai Alashe,163482,1,0,44,2239,85,114,3,0,20
+1461,3,0,0,Toronto FC,0,4,1,0,1957,Alexander Bono,163484,0,179,0,1175,1,2,0,0,3
+1462,58,0,10,Chicago Fire,132,5,28,2,1969,Pavel Pardo,11937,1,0,31,1565,49,61,8,0,4
+1463,0,0,0,Sporting Kansas City,0,0,2,0,566,Andrew Dykstra,61090,0,65,0,367,0,0,0,0,2
+1464,0,0,0,New York City FC,0,0,0,0,203,Eirik Johansen,102052,0,18,0,154,0,0,0,0,0
+1465,32,0,0,Colorado Rapids,36,12,30,7,789,Kamani Hill,40619,0,0,37,644,31,40,6,0,3
+1466,1,0,31,Seattle Sounders FC,6,13,28,1,1399,Djimi Traore,3759,1,0,11,1103,55,70,0,0,6
+1467,0,0,1,FC Dallas,4,7,5,0,180,Carlos Cermeño,196273,0,0,1,160,7,9,1,0,2
+1468,48,0,38,Orlando City SC,111,60,126,1,4723,Donny Toia,96201,0,0,42,3507,230,273,3,0,15
+1469,16,0,0,Sporting Kansas City,30,7,9,0,312,Milos Stojcev,57018,1,0,18,211,10,15,7,0,1
+1470,0,0,0,Seattle Sounders FC,0,0,0,0,6,Amadou Sanyang,73407,0,0,0,6,0,0,0,0,0
+1471,10,0,2,New England Revolution,17,2,10,0,450,Steve Neumann,163521,0,0,19,354,13,19,0,0,1
+1472,1,0,5,San Jose Earthquakes,0,0,14,0,417,Jimmy Ockford,163523,0,0,6,328,13,18,0,0,3
+1473,40,0,10,New York City FC,60,54,37,1,2312,Ben Sweat,163529,0,0,28,1866,44,64,2,0,5
+1474,2,0,13,Chicago Fire,1,5,34,0,648,Yamith Cuesta,77516,1,0,7,467,30,32,0,0,3
+1475,10,0,3,Real Salt Lake,44,23,38,0,1236,Danilo Acosta,220877,1,0,5,958,44,57,3,0,2
+1476,1,0,8,Montreal Impact,0,10,9,0,676,Rod Fanni,13356,0,0,1,577,17,25,1,0,0
+1477,2,0,1,Minnesota United FC,0,0,4,0,5384,Bobby Shuttleworth,77521,1,542,1,3235,8,8,0,0,10
+1478,27,0,2,FC Dallas,60,50,16,2,580,,106194,0,0,23,469,13,14,2,0,1
+1479,114,0,4,Chivas USA,417,76,118,12,2084,Marvin Chávez,77523,2,0,147,1408,123,143,13,0,14
+1480,3,0,1,Real Salt Lake,11,3,9,0,95,Ricardo Velazco,163540,0,0,5,68,5,7,0,0,2
+1481,4,0,30,New York Red Bulls,2,8,32,3,1856,Aaron Long,163541,0,0,33,1393,60,87,0,0,3
+1482,0,0,0,New York City FC,0,0,0,0,6,Connor Brandt,163542,0,0,0,5,3,3,0,0,0
+1483,41,0,1,Toronto FC,111,46,53,2,1267,Reggie Lambe,73432,1,0,33,943,68,83,7,0,6
+1484,50,0,0,Chicago Fire,72,18,33,7,964,Sebastián Grazzini,57049,0,0,51,723,13,18,28,0,5
+1485,3,0,4,Los Angeles Football Club,11,4,10,1,365,João Gervásio Bragança Moutinho,443002,1,0,6,272,16,18,1,0,2
+1486,0,0,0,Chicago Fire,0,0,3,0,5,Gabriel Ferrari,40671,0,0,1,4,2,3,0,0,0
+1487,8,0,0,Colorado Rapids,3,2,12,3,150,Joe Mason,73442,0,0,14,113,10,17,0,0,1
+1488,22,0,4,Houston Dynamo,26,43,55,4,640,Macoumba Kandji,57062,0,0,48,527,16,24,3,0,4
+1489,90,0,3,Vancouver Whitecaps FC,274,26,39,5,1970,Christian Bolaños,28392,1,0,66,1406,32,51,12,0,2
+1490,0,0,0,Philadelphia Union,0,0,1,0,516,John McCarthy,163565,0,61,0,265,0,0,0,0,0
+1491,0,0,0,D.C. United,1,0,3,0,65,Bruno Miranda,225007,0,0,3,55,3,5,0,0,1
+1492,88,0,17,D.C. United,46,41,218,65,2886,Álvaro Saborio,28403,0,0,375,1966,61,80,29,0,18
+1493,0,0,0,New York Red Bulls,0,0,0,0,1,,20213,0,0,1,1,0,0,0,0,0
+1494,44,0,26,Chicago Fire,22,25,56,7,2200,Razvan Cocis,32502,0,0,53,1711,120,163,5,0,8
+1495,59,0,2,Houston Dynamo,228,52,51,3,1606,Andrew Driver,20219,0,0,57,1153,62,78,5,0,6
+1496,2,0,11,Philadelphia Union,1,8,44,1,775,Oguchi Onyewu,20225,0,0,14,618,28,37,0,0,6
+1497,169,0,9,Seattle Sounders FC,78,78,115,54,4891,Clint Dempsey,20226,3,0,480,4069,42,60,43,0,12
+1498,24,0,17,New England Revolution,18,2,41,0,2648,Clyde Simms,20228,0,0,24,2252,43,58,6,0,5
+1499,18,0,0,FC Dallas,47,28,13,1,354,Santiago Mosquera,225030,0,0,30,234,18,21,1,0,0
+1500,16,0,0,Seattle Sounders FC,64,2,24,1,405,Hérculez Gómez,41602,0,0,17,287,7,9,0,0,1
+1501,98,0,26,FC Dallas,347,52,73,2,5474,Jair Benitez,20238,1,0,49,4025,122,155,17,0,11
+1502,16,0,1,Houston Dynamo,51,5,23,2,542,,433307,0,0,28,411,23,27,6,0,6
+1503,21,0,0,Toronto FC,12,10,22,11,316,Jermain Defoe,7958,0,0,58,244,4,5,11,0,5
+1504,7,0,0,Vancouver Whitecaps FC,4,12,10,1,115,Anthony Blondell,204568,0,0,19,77,1,1,1,0,1
+1505,0,0,0,Columbus Crew SC,0,2,2,0,1827,Zack Steffen,164484,0,155,0,1333,1,2,0,0,4
+1506,39,0,30,Minnesota United FC,182,21,65,1,3861,Eric Miller,164480,1,0,24,2830,155,195,0,0,10
+1507,5,0,1,Montreal Impact,10,6,11,0,345,Michael Petrasso,167890,0,0,3,254,7,12,0,0,2
+1508,42,0,5,Vancouver Whitecaps FC,68,135,44,2,980,Alphonso Davies,225059,0,0,40,711,62,87,2,0,1
+1509,2,0,2,Montreal Impact,0,4,11,0,464,Nelson Rivas,44836,2,0,8,416,23,27,0,0,3
+1510,0,0,1,Toronto FC,0,6,6,0,299,Liam Fraser,225061,0,0,4,257,8,10,0,0,2
+1511,0,0,1,Montreal Impact,0,0,2,0,48,Shamit Shome,225062,0,0,2,34,6,6,0,0,0
+1512,12,0,0,Montreal Impact,18,36,26,2,280,Ballou Jean-Yves Tabla,225063,0,0,26,212,22,27,0,0,4
+1513,1,0,10,San Jose Earthquakes,1,5,14,1,365,Yefferson Quintana,232071,0,0,4,279,7,9,0,0,3
+1514,16,0,1,Toronto FC,36,21,4,0,563,Ager Aketxe,159537,0,0,26,464,11,15,4,0,1
+1515,3,0,6,New York City FC,3,8,19,1,809,Ebenezer Ofori,164489,0,0,5,731,25,36,2,0,2
+1516,14,0,0,LA Galaxy,24,4,19,1,458,Miguel López,86738,0,0,30,365,6,6,7,0,2
+1517,2,0,4,Vancouver Whitecaps FC,0,0,13,0,282,Greg Janicki,57147,0,0,1,186,21,22,0,0,1
+1518,22,0,1,Sporting Kansas City,15,9,39,10,468,Diego Rubio,102208,0,0,53,355,15,20,4,0,5
+1519,7,0,1,LA Galaxy,40,5,10,0,375,Rolf Feltscher,44871,0,0,4,259,12,15,0,0,1
+1520,71,0,5,D.C. United,110,41,66,14,2149,Yamil Asad,159561,1,0,81,1576,56,93,13,0,8
+1521,3,0,0,Chivas USA,13,2,0,1,59,,102223,0,0,3,42,1,1,2,0,0
+1522,0,0,3,Atlanta United FC,0,0,2,0,105,Miles Robinson,241500,0,0,1,95,4,7,0,0,0
+1523,4,0,5,Toronto FC,20,12,5,0,765,Gregory Van der Wiel,40798,0,0,2,677,17,24,0,0,0
+1524,10,0,3,Montreal Impact,18,9,24,2,272,Lucas Ontivero,159583,0,0,29,197,17,22,4,0,4
+1525,1,0,0,D.C. United,0,0,5,0,38,Michael Seaton,151393,0,0,3,29,1,2,0,0,0
+1526,24,0,3,Sporting Kansas City,73,3,22,9,607,Omar Bravo,20325,2,0,60,439,23,33,3,0,4
+1527,63,0,8,Seattle Sounders FC,171,17,66,4,3441,Gonzalo Pineda,20327,1,0,27,2788,96,118,13,0,14
+1528,1,0,0,Chivas USA,0,0,3,0,132,,167786,0,0,0,104,3,4,0,0,0
+1529,12,0,0,Sporting Kansas City,28,3,4,0,303,Jéferson Rodrigues Gonçalves,61294,0,0,18,227,8,8,7,0,1
+1530,8,0,0,Columbus Crew SC,3,0,6,1,197,,106356,0,0,15,159,2,3,0,0,1
+1531,25,0,0,San Jose Earthquakes,17,13,8,0,979,Jackson Yueill,245628,0,0,17,822,21,31,3,0,2
+1532,17,0,7,D.C. United,64,9,24,5,955,Maxim Tissot,153578,0,0,24,682,38,48,5,0,4
+1533,0,0,0,Columbus Crew SC,0,0,1,0,496,Jon Kempin,90644,0,52,1,345,3,3,0,0,0
+1534,2,0,0,New York City FC,9,4,6,0,192,Diego Martínez,133099,0,0,3,143,9,11,1,0,1
+1535,0,0,0,Philadelphia Union,0,0,0,0,255,Rais M'bolhi,28549,0,18,0,152,0,0,0,0,0
+1536,3,0,0,Seattle Sounders FC,0,0,1,0,1553,Michael Gspurning,53136,1,166,0,937,2,2,0,0,0
+1537,104,0,29,Toronto FC,144,50,112,10,5185,Marco Delgado,114579,2,0,80,4115,208,294,14,0,16
+1538,0,0,0,Toronto FC,1,0,0,0,5,Aidan Daniels,244377,0,0,1,3,1,1,0,0,0
+1539,1,0,5,Minnesota United FC,4,1,6,0,246,Harrison Heath,160529,0,0,1,210,7,9,0,0,3
+1540,21,0,4,Orlando City SC,30,11,50,1,1967,Antonio Nocerino,28573,2,0,28,1628,57,78,1,0,5
+1541,2,0,14,Columbus Crew SC,1,2,26,1,434,,28575,0,0,5,321,18,26,0,0,5
+1542,95,0,13,Montreal Impact,267,11,134,3,3723,Marco Donadel,8859,3,0,55,2941,115,152,2,0,24
+1543,410,0,23,Los Angeles Football Club,588,244,269,53,9186,Lee Nguyen,28580,1,0,408,7068,181,249,96,0,27
+1544,0,0,1,FC Dallas,0,2,8,0,284,Ezequiel Cirigliano,85928,0,0,1,238,12,16,0,0,0
+1545,12,0,1,Portland Timbers,3,3,33,7,373,Kris Boyd,9543,0,0,63,231,7,7,0,0,4
+1546,35,0,32,Portland Timbers,10,15,80,6,4378,Lawrence Olum,106519,1,0,53,3582,127,175,9,0,20
+1547,0,0,1,Toronto FC,0,1,0,0,36,Julian Dunn-Johnson,421818,0,0,0,27,4,5,0,0,0
+1548,43,0,0,Los Angeles Football Club,18,41,25,5,656,Marcos Ureña,77755,0,0,67,486,6,13,5,0,3
+1549,52,0,2,Portland Timbers,102,26,64,1,1684,David Guzmán,77756,0,0,47,1349,58,83,2,0,12
+1550,1,0,0,Chicago Fire,1,1,2,0,21,Guillermo Franco,28608,1,0,1,14,2,2,0,0,0
+1551,32,0,7,Atlanta United FC,67,14,32,0,1667,Mark Bloom,118721,0,0,12,1215,84,103,0,0,3
+1552,1,0,0,New York Red Bulls,11,6,16,1,181,Josué Martinez,77765,0,0,15,129,9,13,2,0,1
+1553,19,0,0,Orlando City SC,30,13,33,5,556,Adrian Winter,66209,1,0,28,403,20,31,0,0,3
+1554,52,0,1,Atlanta United FC,61,65,43,17,1153,Héctor Villalba,122828,0,0,118,804,35,58,3,0,6
+1555,2,0,23,New York Red Bulls,2,3,41,1,1316,Matt Miazga,163793,3,0,27,1008,65,80,2,0,8
+1556,5,0,0,Toronto FC,0,1,2,0,3591,Clinton Irwin,118738,0,360,0,2137,0,2,0,0,6
+1557,3,0,0,Minnesota United FC,34,8,10,0,388,Edwin Gomez,159702,0,0,16,279,17,25,1,0,3
+1558,23,0,5,Real Salt Lake,2,30,84,1,1840,Stephen Obayan Sunday,43684,0,0,16,1593,85,119,1,0,15
+1559,1,0,0,New York Red Bulls,3,0,1,0,31,,110554,0,0,0,24,2,2,0,0,0
+1560,60,0,14,Orlando City SC,113,52,98,1,2659,RJ Allen,110557,1,0,19,2052,107,136,5,0,17
+1561,1,0,35,New York City FC,5,25,52,3,3327,Alexander Callens,159710,1,0,24,2861,58,76,0,0,7
+1562,71,0,6,Colorado Rapids,77,42,94,18,1930,Kevin Doyle,20450,0,0,168,1362,48,64,6,0,14
+1563,14,0,7,LA Galaxy,26,12,44,1,1161,João Pedro Almeida Machado,159716,0,0,28,932,33,55,0,0,8
+1564,9,0,2,Sporting Kansas City,11,2,15,0,323,Jordi Quintillà,106471,0,0,11,262,16,17,1,0,1
+1565,11,0,30,Philadelphia Union,1,12,41,4,2130,Austin Berry,110568,0,0,30,1729,81,95,0,0,6
+1566,52,0,3,Philadelphia Union,102,56,36,9,3493,Vincent Nogueira,45033,0,0,98,2926,59,77,16,0,8
+1567,7,0,19,Columbus Crew SC,7,16,19,0,1573,Nicolai Naess,114295,0,0,14,1341,40,57,3,0,1
+1568,39,0,1,Houston Dynamo,44,29,34,4,937,Tony Cascio,110572,1,0,75,728,38,43,5,0,2
+1569,41,0,23,Philadelphia Union,56,78,124,5,3946,Warren Creavalle,110575,2,0,41,3143,243,299,8,0,19
+1570,166,0,30,D.C. United,323,172,136,17,6590,Nick DeLeon,110580,0,0,231,5206,211,267,24,0,16
+1571,143,0,4,Minnesota United FC,357,88,123,36,3204,Ethan Finlay,110583,1,0,218,2251,133,159,11,0,10
+1572,0,0,0,LA Galaxy,0,1,1,0,1727,Jaime Penedo,28665,0,188,0,986,1,2,0,0,2
+1573,4,0,14,LA Galaxy,16,5,40,0,1083,Rafael Garcia,110586,0,0,5,889,28,47,0,0,4
+1574,3,0,0,San Jose Earthquakes,21,7,3,0,97,Sam Garza,110587,0,0,7,62,7,11,2,0,1
+1575,6,0,0,LA Galaxy,20,2,13,0,359,Bryan Gaul,110588,0,0,4,268,14,18,0,0,3
+1576,4,0,9,Columbus Crew SC,1,3,25,0,701,Kevan George,110589,0,0,9,604,27,32,1,0,8
+1577,0,0,0,Atlanta United FC,0,0,0,0,23,Paul Christensen,442453,0,1,0,5,0,0,0,0,0
